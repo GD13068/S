@@ -1,5 +1,5 @@
 {
-    date: "December 21, 2023",
+    airDate: "December 21, 2023",
     list: [
         {
             showName: "All Creatures Great and Small",
@@ -12,11 +12,11 @@
     ]
 },
 {
-    date: "December 22, 2023",
+    airDate: "December 22, 2023",
     list: []
 },
 {
-    date: "December 23, 2023",
+    airDate: "December 23, 2023",
     list: [
         {
             showName: "Night Court",
@@ -29,11 +29,11 @@
     ]
 },
 {
-    date: "December 24, 2023",
+    airDate: "December 24, 2023",
     list: []
 },
 {
-    date: "December 25, 2023",
+    airDate: "December 25, 2023",
     list: [
         {
             showName: "Call the Midwife",
@@ -46,31 +46,31 @@
     ]
 },
 {
-    date: "December 26, 2023",
+    airDate: "December 26, 2023",
     list: []
 },
 {
-    date: "December 27, 2023",
+    airDate: "December 27, 2023",
     list: []
 },
 {
-    date: "December 28, 2023",
+    airDate: "December 28, 2023",
     list: []
 },
 {
-    date: "December 29, 2023",
+    airDate: "December 29, 2023",
     list: []
 },
 {
-    date: "December 30, 2023",
+    airDate: "December 30, 2023",
     list: []
 },
 {
-    date: "December 31, 2023",
+    airDate: "December 31, 2023",
     list: []
 },
 {
-    date: "January 1, 2024",
+    airDate: "January 1, 2024",
     list: [
         {
             showName: "America's Got Talent: Fantasy League",
@@ -83,7 +83,7 @@
     ]
 },
 {
-    date: "January 2, 2024",
+    airDate: "January 2, 2024",
     list: [
         {
             showName: "Night Court",
@@ -96,23 +96,23 @@
     ]
 },
 {
-    date: "January 3, 2024",
+    airDate: "January 3, 2024",
     list: []
 },
 {
-    date: "January 4, 2024",
+    airDate: "January 4, 2024",
     list: []
 },
 {
-    date: "January 5, 2024",
+    airDate: "January 5, 2024",
     list: []
 },
 {
-    date: "January 6, 2024",
+    airDate: "January 6, 2024",
     list: []
 },
 {
-    date: "January 7, 2024",
+    airDate: "January 7, 2024",
     list: [
         {
             showName: "Call the Midwife",
