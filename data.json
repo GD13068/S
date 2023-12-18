@@ -9,11 +9,11 @@
             "airTime": "3:00",
             "channel": "Channel 5"
         },
-    ]
+    ],
 },
 {
     "date": "December 22, 2023",
-    "list": []
+    "list": [],
 },
 {
     "date": "December 23, 2023",
@@ -26,11 +26,11 @@
             "airTime": "7:35",
             "channel": "NBC"
         },
-    ]
+    ],
 },
 {
     "date": "December 24, 2023",
-    "list": []
+    "list": [],
 },
 {
     "date": "December 25, 2023",
@@ -43,31 +43,31 @@
             "airTime": "7:00",
             "channel": "PBS"
         },
-    ]
+    ],
 },
 {
     "date": "December 26, 2023",
-    "list": []
+    "list": [],
 },
 {
     "date": "December 27, 2023",
-    "list": []
+    "list": [],
 },
 {
     "date": "December 28, 2023",
-    "list": []
+    "list": [],
 },
 {
     "date": "December 29, 2023",
-    "list": []
+    "list": [],
 },
 {
     "date": "December 30, 2023",
-    "list": []
+    "list": [],
 },
 {
     "date": "December 31, 2023",
-    "list": []
+    "list": [],
 },
 {
     "date": "January 1, 2024",
@@ -80,7 +80,7 @@
             "airTime": "7:00",
             "channel": "NBC"
         },
-    ]
+    ],
 },
 {
     "date": "January 2, 2024",
@@ -93,23 +93,23 @@
             "airTime": "7:00",
             "channel": "NBC"
         },
-    ]
+    ],
 },
 {
     "date": "January 3, 2024",
-    "list": []
+    "list": [],
 },
 {
     "date": "January 4, 2024",
-    "list": []
+    "list": [],
 },
 {
     "date": "January 5, 2024",
-    "list": []
+    "list": [],
 },
 {
     "date": "January 6, 2024",
-    "list": []
+    "list": [],
 },
 {
     "date": "January 7, 2024",
@@ -122,5 +122,5 @@
             "airTime": "2:00",
             "channel": "BBC One"
         },
-    ]
+    ],
 }
