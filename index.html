@@ -1,1 +1,106 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>Television</title>
+		
+		<style>
+		    .cardShell {
+                border-style: double;
+                width: 350px;
+                height: 350px;
+                padding: 5px;
+                margin: 5px;
+                float: left;
+            }
+            #cardContainer {
+                display: flow-root;
+                overflow: auto;
+            }
+            .today {
+                background-color: lightblue;
+            }
+		</style>
+    </head>
+    <body>
+        <div id="cardContainer"></div>
+		
+		<script>
+            const months = ["January","February","March","April","May","June","July","August","September","October","November","December"];
 
+            const addCards = (responseData) => {
+                const cardContainer = document.getElementById("cardContainer");
+                const data = responseData.data;
+
+                const today = new Date();
+                const month = months[today.getMonth()];
+                const day = today.getDate();
+                const year = today.getFullYear();
+                const fullToday = `${month} ${day}, ${year}`;
+
+                for (let i=0; i<data.length; i++) {
+                    let date = data[i].date;
+                    let list = data[i].list;
+
+                    const cardShell = document.createElement("DIV");
+
+                    if (date === fullToday) {
+                        date += " (TODAY)";
+                        cardShell.className = "cardShell today"
+                    } else {
+                        cardShell.className = "cardShell";
+                    }
+
+                    const cardHeaderShell = document.createElement("DIV");
+                    const cardHeader = document.createElement("H3");
+                    cardHeader.innerText = date;
+                    cardHeaderShell.append(cardHeader);
+
+                    const cardBodyShell = document.createElement("DIV");
+
+                    if (list.length !== 0) {
+                        for (let j = 0; j < list.length; j++) {
+                            const currentItem = list[j];
+                            const italic = document.createElement("I");
+                            italic.innerText = currentItem.showName;
+
+                            const textPartA = document.createTextNode(` [${currentItem.channel}]`);
+
+                            const cardBodyList = document.createElement("UL");
+
+                            const listItem = document.createElement("LI");
+                            const bold = document.createElement("B");
+                            bold.innerText = currentItem.airTime;
+                            const textPartB = document.createTextNode(` "${currentItem.episodeName}" (S${currentItem.seasonNumber} E${currentItem.episodeNumberInSeason})`);
+                            listItem.append(bold, textPartB);
+                            cardBodyList.appendChild(listItem);
+
+                            cardBodyShell.append(italic, textPartA, cardBodyList);
+                        }
+                    } else {
+                        const emptyList = document.createElement("P");
+                        emptyList.innerText = "No new episodes";
+                        cardBodyShell.append(emptyList);
+                    }
+
+                    cardShell.append(cardHeaderShell, cardBodyShell);
+
+                    cardContainer.appendChild(cardShell);
+                }
+            }
+
+			const getData = () => {
+				fetch("https://raw.githubusercontent.com/GD13068/S/main/data.json", {cache: "no-store"}
+				).then((response) => {
+					if (response.status !==200) {
+						throw new Error(String(response.status));
+					}
+					return response.json();
+				}).then((responseJSON) => addCards(responseJSON))
+			};
+
+            window.onload = () => {
+                getData();
+            };
+		</script>
+    </body>
+</html>
