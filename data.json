@@ -1,87 +1,6 @@
 {
   "data": [
     {
-      "date": "January 29, 2024",
-      "list": [
-        {
-          "showName": "America's Got Talent: Fantasy League",
-          "episodeName": "Semi-finals 1",
-          "seasonNumber": "1",
-          "episodeNumberInSeason": "5",
-          "airTime": "7:00",
-          "channel": "NBC"
-        }
-      ]
-    },
-    {
-      "date": "January 30, 2024",
-      "list": [
-        {
-          "showName": "Night Court",
-          "episodeName": "Wrath of Comic-con",
-          "seasonNumber": "2",
-          "episodeNumberInSeason": "5",
-          "airTime": "7:00",
-          "channel": "NBC"
-        },
-        {
-          "showName": "Whose Line Is It Anyway?",
-          "episodeName": "Kaila Mullady",
-          "seasonNumber": "20",
-          "episodeNumberInSeason": "21",
-          "airTime": "8:00",
-          "channel": "The CW"
-        }
-      ]
-    },
-    {
-      "date": "January 31, 2024",
-      "list": [
-        {
-          "showName": "Chicago Med",
-          "episodeName": "What Happens in the Dark Always Comes to Light",
-          "seasonNumber": "9",
-          "episodeNumberInSeason": "3",
-          "airTime": "7:00",
-          "channel": "NBC"
-        }
-      ]
-    },
-    {
-      "date": "February 1, 2024",
-      "list": []
-    },
-    {
-      "date": "February 2, 2024",
-      "list": []
-    },
-    {
-      "date": "February 3, 2024",
-      "list": [
-        {
-          "showName": "Saturday Night Live",
-          "episodeName": "Ayo Edebiri / Jennifer Lopez",
-          "seasonNumber": "49",
-          "episodeNumberInSeason": "11",
-          "airTime": "10:29",
-          "channel": "NBC"
-        }
-      ]
-    },
-    {
-      "date": "February 4, 2024",
-      "list": [
-        {
-          "showName": "Call the Midwife",
-          "episodeName": "Episode 5",
-          "seasonNumber": "13",
-          "episodeNumberInSeason": "5",
-          "airTime": "2:00",
-          "channel": "BBC One"
-        }
-      ]
-    },
-    {
       "date": "February 5, 2024",
       "list": [
         {
@@ -162,6 +81,111 @@
     },
     {
       "date": "February 10, 2024",
+      "list": []
+    },
+    {
+      "date": "February 11, 2024",
+      "list": [
+        {
+          "showName": "Call the Midwife",
+          "episodeName": "Episode 6",
+          "seasonNumber": "13",
+          "episodeNumberInSeason": "6",
+          "airTime": "2:00",
+          "channel": "BBC One"
+        }
+      ]
+    },
+    {
+      "date": "February 12, 2024",
+      "list": [
+        {
+          "showName": "America's Got Talent: Fantasy League",
+          "episodeName": "Final Performances",
+          "seasonNumber": "1",
+          "episodeNumberInSeason": "7",
+          "airTime": "7:00",
+          "channel": "NBC"
+        },
+        {
+          "showName": "The Neighborhood",
+          "episodeName": "Welcome to the Foos Box",
+          "seasonNumber": "6",
+          "episodeNumberInSeason": "1",
+          "airTime": "7:00",
+          "channel": "CBS"
+        },
+        {
+          "showName": "Bob Hearts Abishola",
+          "episodeName": "The Dead Eyes of a Respectful Son",
+          "seasonNumber": "5",
+          "episodeNumberInSeason": "1",
+          "airTime": "7:30",
+          "channel": "CBS"
+        }
+      ]
+    },
+    {
+      "date": "February 13, 2024",
+      "list": [
+        {
+          "showName": "Night Court",
+          "episodeName": "Broadway Danny Gurgs",
+          "seasonNumber": "2",
+          "episodeNumberInSeason": "7",
+          "airTime": "7:00",
+          "channel": "NBC"
+        }
+      ]
+    },
+    {
+      "date": "February 14, 2024",
+      "list": [
+        {
+          "showName": "The Conners",
+          "episodeName": "Valentine's Day Treats and Credit Card Cheats",
+          "seasonNumber": "6",
+          "episodeNumberInSeason": "2",
+          "airTime": "7:00",
+          "channel": "ABC"
+        },
+        {
+          "showName": "Abbott Elementary",
+          "episodeName": "Gregory's Garden Goofballs",
+          "seasonNumber": "3",
+          "episodeNumberInSeason": "3",
+          "airTime": "8:00",
+          "channel": "ABC"
+        }
+      ]
+    },
+    {
+      "date": "February 15, 2024",
+      "list": [
+        {
+          "showName": "Young Sheldon",
+          "episodeName": "Half a Weiner Schnitzel and Underwear in a Tree",
+          "seasonNumber": "7",
+          "episodeNumberInSeason": "1",
+          "airTime": "7:00",
+          "channel": "CBS"
+        },
+        {
+          "showName": "So Help Me Todd",
+          "episodeName": "Iceland Was Horrible",
+          "seasonNumber": "2",
+          "episodeNumberInSeason": "1",
+          "airTime": "8:01",
+          "channel": "CBS"
+        }
+      ]
+    },
+    {
+      "date": "February 16, 2024",
+      "list": []
+    },
+    {
+      "date": "February 17, 2024",
       "list": []
     }
   ]
