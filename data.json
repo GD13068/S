@@ -187,6 +187,135 @@
     {
       "date": "February 17, 2024",
       "list": []
+    },
+    {
+      "date": "February 18, 2024",
+      "list": []
+    },
+    {
+      "date": "February 19, 2024",
+      "list": [
+        {
+          "showName": "America's Got Talent: Fantasy League",
+          "episodeName": "Finale Results",
+          "seasonNumber": "1",
+          "episodeNumberInSeason": "8",
+          "airTime": "7:00",
+          "channel": "NBC"
+        },
+        {
+          "showName": "The Neighborhood",
+          "episodeName": "Welcome to the Awkward Conversations",
+          "seasonNumber": "6",
+          "episodeNumberInSeason": "2",
+          "airTime": "7:00",
+          "channel": "CBS"
+        },
+        {
+          "showName": "Bob Hearts Abishola",
+          "episodeName": "Kill the Cat",
+          "seasonNumber": "5",
+          "episodeNumberInSeason": "2",
+          "airTime": "7:30",
+          "channel": "CBS"
+        }
+      ]
+    },
+    {
+      "date": "February 20, 2024",
+      "list": [
+        {
+          "showName": "Night Court",
+          "episodeName": "Taught and Bothered",
+          "seasonNumber": "2",
+          "episodeNumberInSeason": "8",
+          "airTime": "7:00",
+          "channel": "NBC"
+        },
+        {
+          "showName": "Will Trent",
+          "episodeName": "Me Llamo Will Trent",
+          "seasonNumber": "2",
+          "episodeNumberInSeason": "1",
+          "airTime": "7:00",
+          "channel": "ABC"
+        },
+        {
+          "showName": "The Good Doctor",
+          "episodeName": "Baby, Baby, Baby",
+          "seasonNumber": "7",
+          "episodeNumberInSeason": "1",
+          "airTime": "9:00",
+          "channel": "ABC"
+        }
+      ]
+    },
+    {
+      "date": "February 21, 2024",
+      "list": [
+        {
+          "showName": "Chicago Med",
+          "episodeName": "I Make a Promise, I Will Never Leave You",
+          "seasonNumber": "9",
+          "episodeNumberInSeason": "5",
+          "airTime": "7:00",
+          "channel": "NBC"
+        },
+        {
+          "showName": "The Conners",
+          "episodeName": "Moms and Rats",
+          "seasonNumber": "6",
+          "episodeNumberInSeason": "3",
+          "airTime": "7:00",
+          "channel": "ABC"
+        },
+        {
+          "showName": "Abbott Elementary",
+          "episodeName": "Smoking",
+          "seasonNumber": "3",
+          "episodeNumberInSeason": "4",
+          "airTime": "8:00",
+          "channel": "ABC"
+        }
+      ]
+    },
+    {
+      "date": "February 22, 2024",
+      "list": [
+        {
+          "showName": "Young Sheldon",
+          "episodeName": "A Roulette Wheel and a Piano Playing Dog",
+          "seasonNumber": "7",
+          "episodeNumberInSeason": "2",
+          "airTime": "7:00",
+          "channel": "CBS"
+        },
+        {
+          "showName": "So Help Me Todd",
+          "episodeName": "Your Day in Court",
+          "seasonNumber": "2",
+          "episodeNumberInSeason": "2",
+          "airTime": "8:01",
+          "channel": "CBS"
+        }
+      ]
+    },
+    {
+      "date": "February 23, 2024",
+      "list": []
+    },
+    {
+      "date": "February 24, 2024",
+      "list": [
+        {
+          "showName": "Saturday Night Live",
+          "episodeName": "Shane Gillis / 21 Savage",
+          "seasonNumber": "49",
+          "episodeNumberInSeason": "12",
+          "airTime": "10:29",
+          "channel": "NBC"
+        }
+      ]
     }
   ]
 }
