@@ -1,266 +1,6 @@
 {
   "data": [
     {
-      "date": "February 19, 2024",
-      "list": [
-        {
-          "showName": "America's Got Talent: Fantasy League",
-          "episodeName": "Finale Results",
-          "seasonNumber": "1",
-          "episodeNumberInSeason": "8",
-          "airTime": "7:00",
-          "channel": "NBC"
-        },
-        {
-          "showName": "The Neighborhood",
-          "episodeName": "Welcome to the Awkward Conversations",
-          "seasonNumber": "6",
-          "episodeNumberInSeason": "2",
-          "airTime": "7:00",
-          "channel": "CBS"
-        },
-        {
-          "showName": "Bob Hearts Abishola",
-          "episodeName": "Kill the Cat",
-          "seasonNumber": "5",
-          "episodeNumberInSeason": "2",
-          "airTime": "7:30",
-          "channel": "CBS"
-        }
-      ]
-    },
-    {
-      "date": "February 20, 2024",
-      "list": [
-        {
-          "showName": "Night Court",
-          "episodeName": "Taught and Bothered",
-          "seasonNumber": "2",
-          "episodeNumberInSeason": "8",
-          "airTime": "7:00",
-          "channel": "NBC"
-        },
-        {
-          "showName": "Will Trent",
-          "episodeName": "Me Llamo Will Trent",
-          "seasonNumber": "2",
-          "episodeNumberInSeason": "1",
-          "airTime": "7:00",
-          "channel": "ABC"
-        },
-        {
-          "showName": "The Good Doctor",
-          "episodeName": "Baby, Baby, Baby",
-          "seasonNumber": "7",
-          "episodeNumberInSeason": "1",
-          "airTime": "9:00",
-          "channel": "ABC"
-        }
-      ]
-    },
-    {
-      "date": "February 21, 2024",
-      "list": [
-        {
-          "showName": "Chicago Med",
-          "episodeName": "I Make a Promise, I Will Never Leave You",
-          "seasonNumber": "9",
-          "episodeNumberInSeason": "5",
-          "airTime": "7:00",
-          "channel": "NBC"
-        },
-        {
-          "showName": "The Conners",
-          "episodeName": "Moms and Rats",
-          "seasonNumber": "6",
-          "episodeNumberInSeason": "3",
-          "airTime": "7:00",
-          "channel": "ABC"
-        },
-        {
-          "showName": "Abbott Elementary",
-          "episodeName": "Smoking",
-          "seasonNumber": "3",
-          "episodeNumberInSeason": "4",
-          "airTime": "8:00",
-          "channel": "ABC"
-        }
-      ]
-    },
-    {
-      "date": "February 22, 2024",
-      "list": [
-        {
-          "showName": "Young Sheldon",
-          "episodeName": "A Roulette Wheel and a Piano Playing Dog",
-          "seasonNumber": "7",
-          "episodeNumberInSeason": "2",
-          "airTime": "7:00",
-          "channel": "CBS"
-        },
-        {
-          "showName": "So Help Me Todd",
-          "episodeName": "Your Day in Court",
-          "seasonNumber": "2",
-          "episodeNumberInSeason": "2",
-          "airTime": "8:01",
-          "channel": "CBS"
-        }
-      ]
-    },
-    {
-      "date": "February 23, 2024",
-      "list": []
-    },
-    {
-      "date": "February 24, 2024",
-      "list": [
-        {
-          "showName": "Saturday Night Live",
-          "episodeName": "Shane Gillis / 21 Savage",
-          "seasonNumber": "49",
-          "episodeNumberInSeason": "12",
-          "airTime": "10:29",
-          "channel": "NBC"
-        }
-      ]
-    },
-    {
-      "date": "February 25, 2024",
-      "list": [
-        {
-          "showName": "Call the Midwife",
-          "episodeName": "Episode 7",
-          "seasonNumber": "13",
-          "episodeNumberInSeason": "7",
-          "airTime": "2:00",
-          "channel": "BBC One"
-        }
-      ]
-    },
-    {
-      "date": "February 26, 2024",
-      "list": [
-        {
-          "showName": "The Neighborhood",
-          "episodeName": "Welcome to the Other Butlers",
-          "seasonNumber": "6",
-          "episodeNumberInSeason": "3",
-          "airTime": "7:00",
-          "channel": "CBS"
-        },
-        {
-          "showName": "Bob Hearts Abishola",
-          "episodeName": "The Devil's Hot Tub",
-          "seasonNumber": "5",
-          "episodeNumberInSeason": "3",
-          "airTime": "7:30",
-          "channel": "CBS"
-        }
-      ]
-    },
-    {
-      "date": "February 27, 2024",
-      "list": [
-        {
-          "showName": "Will Trent",
-          "episodeName": "It's the Work I Signed Up For",
-          "seasonNumber": "2",
-          "episodeNumberInSeason": "2",
-          "airTime": "7:00",
-          "channel": "ABC"
-        },
-        {
-          "showName": "The Good Doctor",
-          "episodeName": "Skin in the Game",
-          "seasonNumber": "7",
-          "episodeNumberInSeason": "2",
-          "airTime": "9:00",
-          "channel": "ABC"
-        }
-      ]
-    },
-    {
-      "date": "February 28, 2024",
-      "list": [
-        {
-          "showName": "Chicago Med",
-          "episodeName": "I Told Myself That I Was Done With You",
-          "seasonNumber": "9",
-          "episodeNumberInSeason": "6",
-          "airTime": "7:00",
-          "channel": "NBC"
-        },
-        {
-          "showName": "The Conners",
-          "episodeName": "Shrinks Don't Talk and Kids Don't Sing",
-          "seasonNumber": "6",
-          "episodeNumberInSeason": "4",
-          "airTime": "7:00",
-          "channel": "ABC"
-        },
-        {
-          "showName": "Abbott Elementary",
-          "episodeName": "Breakup",
-          "seasonNumber": "3",
-          "episodeNumberInSeason": "5",
-          "airTime": "8:00",
-          "channel": "ABC"
-        }
-      ]
-    },
-    {
-      "date": "February 29, 2024",
-      "list": [
-        {
-          "showName": "Young Sheldon",
-          "episodeName": "A Strudel and a Hot American Boy Toy",
-          "seasonNumber": "7",
-          "episodeNumberInSeason": "3",
-          "airTime": "7:00",
-          "channel": "CBS"
-        },
-        {
-          "showName": "So Help Me Todd",
-          "episodeName": "The Queen of the Courts",
-          "seasonNumber": "2",
-          "episodeNumberInSeason": "3",
-          "airTime": "8:01",
-          "channel": "CBS"
-        }
-      ]
-    },
-    {
-      "date": "March 1, 2024",
-      "list": []
-    },
-    {
-      "date": "March 2, 2024",
-      "list": [
-        {
-          "showName": "Saturday Night Live",
-          "episodeName": "Sydney Sweeney / Kacey Musgraves",
-          "seasonNumber": "49",
-          "episodeNumberInSeason": "13",
-          "airTime": "10:29",
-          "channel": "NBC"
-        }
-      ]
-    },
-    {
-      "date": "March 3, 2024",
-      "list": [
-        {
-          "showName": "Call the Midwife",
-          "episodeName": "Episode 8",
-          "seasonNumber": "13",
-          "episodeNumberInSeason": "8",
-          "airTime": "2:00",
-          "channel": "BBC One"
-        }
-      ]
-    },
-    {
       "date": "March 4, 2024",
       "list": [
         {
@@ -288,7 +28,7 @@
           "showName": "Night Court",
           "episodeName": "Chips Ahoy",
           "seasonNumber": "2",
-          "episodeNumberInSeason": "9",
+          "episodeNumberInSeason": "10",
           "airTime": "7:00",
           "channel": "NBC"
         },
@@ -298,14 +38,6 @@
           "seasonNumber": "2",
           "episodeNumberInSeason": "3",
           "airTime": "7:00",
-          "channel": "ABC"
-        },
-        {
-          "showName": "The Good Doctor",
-          "episodeName": "Critical Support",
-          "seasonNumber": "7",
-          "episodeNumberInSeason": "3",
-          "airTime": "9:00",
           "channel": "ABC"
         }
       ]
@@ -356,6 +88,94 @@
           "channel": "ABC"
         }
       ]
+    },
+    {
+      "date": "March 11, 2024",
+      "list": [
+        {
+          "showName": "The Neighborhood",
+          "episodeName": "Welcome to Grandfatherhood",
+          "seasonNumber": "6",
+          "episodeNumberInSeason": "4",
+          "airTime": "7:00",
+          "channel": "CBS"
+        },
+        {
+          "showName": "Bob Hearts Abishola",
+          "episodeName": "A Tablespoon of Dad",
+          "seasonNumber": "5",
+          "episodeNumberInSeason": "6",
+          "airTime": "7:30",
+          "channel": "CBS"
+        }
+      ]
+    },
+    {
+      "date": "March 12, 2024",
+      "list": [
+        {
+          "showName": "Night Court",
+          "episodeName": "Episode 11",
+          "seasonNumber": "2",
+          "episodeNumberInSeason": "11",
+          "airTime": "7:00",
+          "channel": "NBC"
+        }
+      ]
+    },
+    {
+      "date": "March 13, 2024",
+      "list": [
+        {
+          "showName": "The Conners",
+          "episodeName": "When Sisters Collide and the Return of the Grifters",
+          "seasonNumber": "6",
+          "episodeNumberInSeason": "5",
+          "airTime": "7:00",
+          "channel": "ABC"
+        },
+        {
+          "showName": "Abbott Elementary",
+          "episodeName": "Librarian",
+          "seasonNumber": "3",
+          "episodeNumberInSeason": "7",
+          "airTime": "8:00",
+          "channel": "ABC"
+        }
+      ]
+    },
+    {
+      "date": "March 14, 2024",
+      "list": [
+        {
+          "showName": "Young Sheldon",
+          "episodeName": "A Frankenstein's Monster and a Crazy Church Guy",
+          "seasonNumber": "7",
+          "episodeNumberInSeason": "5",
+          "airTime": "7:00",
+          "channel": "CBS"
+        },
+        {
+          "showName": "So Help Me Todd",
+          "episodeName": "Dial Margaret for Murder",
+          "seasonNumber": "2",
+          "episodeNumberInSeason": "4",
+          "airTime": "8:00",
+          "channel": "CBS"
+        }
+      ]
+    },
+    {
+      "date": "March 15, 2024",
+      "list": []
+    },
+    {
+      "date": "March 16, 2024",
+      "list": []
+    },
+    {
+      "date": "March 17, 2024",
+      "list": []
     }
   ]
 }
