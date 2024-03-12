@@ -115,7 +115,7 @@
       "list": [
         {
           "showName": "Night Court",
-          "episodeName": "Episode 11",
+          "episodeName": "Wheelers of Fortune",
           "seasonNumber": "2",
           "episodeNumberInSeason": "11",
           "airTime": "7:00",
@@ -175,6 +175,164 @@
     },
     {
       "date": "March 17, 2024",
+      "list": []
+    },
+    {
+      "date": "March 18, 2024",
+      "list": []
+    },
+    {
+      "date": "March 19, 2024",
+      "list": [
+        {
+          "showName": "Night Court",
+          "episodeName": "The Duke's a Hazard",
+          "seasonNumber": "2",
+          "episodeNumberInSeason": "12",
+          "airTime": "7:00",
+          "channel": "NBC"
+        },
+        {
+          "showName": "The Good Doctor",
+          "episodeName": "Critical Support",
+          "seasonNumber": "7",
+          "episodeNumberInSeason": "3",
+          "airTime": "9:00",
+          "channel": "ABC"
+        }
+      ]
+    },
+    {
+      "date": "March 20, 2024",
+      "list": [
+        {
+          "showName": "The Conners",
+          "episodeName": "Hanging in Dorms with Boys and the Secret Life of Men",
+          "seasonNumber": "6",
+          "episodeNumberInSeason": "6",
+          "airTime": "7:00",
+          "channel": "ABC"
+        },
+        {
+          "showName": "Chicago Med",
+          "episodeName": "Step on a Crack and Break Your Mother's Back",
+          "seasonNumber": "9",
+          "episodeNumberInSeason": "7",
+          "airTime": "7:00",
+          "channel": "NBC"
+        },
+        {
+          "showName": "Abbott Elementary",
+          "episodeName": "Panel",
+          "seasonNumber": "3",
+          "episodeNumberInSeason": "8",
+          "airTime": "8:00",
+          "channel": "ABC"
+        }
+      ]
+    },
+    {
+      "date": "March 21, 2024",
+      "list": []
+    },
+    {
+      "date": "March 22, 2024",
+      "list": []
+    },
+    {
+      "date": "March 23, 2024",
+      "list": []
+    },
+    {
+      "date": "March 24, 2024",
+      "list": []
+    },
+    {
+      "date": "March 25, 2024",
+      "list": [
+        {
+          "showName": "The Neighborhood",
+          "episodeName": "Welcome to the Front Window",
+          "seasonNumber": "6",
+          "episodeNumberInSeason": "5",
+          "airTime": "7:00",
+          "channel": "CBS"
+        },
+        {
+          "showName": "Bob Hearts Abishola",
+          "episodeName": "Worth the Cooties",
+          "seasonNumber": "5",
+          "episodeNumberInSeason": "7",
+          "airTime": "7:30",
+          "channel": "CBS"
+        }
+      ]
+    },
+    {
+      "date": "March 26, 2024",
+      "list": [
+        {
+          "showName": "Night Court",
+          "episodeName": "TBA (Season Finale)",
+          "seasonNumber": "2",
+          "episodeNumberInSeason": "13",
+          "airTime": "7:00",
+          "channel": "NBC"
+        },
+        {
+          "showName": "Will Trent",
+          "episodeName": "It's Easier to Handcuff a Human Being",
+          "seasonNumber": "2",
+          "episodeNumberInSeason": "4",
+          "airTime": "7:00",
+          "channel": "ABC"
+        },
+        {
+          "showName": "The Good Doctor",
+          "episodeName": "Date Night",
+          "seasonNumber": "7",
+          "episodeNumberInSeason": "4",
+          "airTime": "9:00",
+          "channel": "ABC"
+        }
+      ]
+    },
+    {
+      "date": "March 27, 2024",
+      "list": [
+        {
+          "showName": "Chicago Med",
+          "episodeName": "TBA",
+          "seasonNumber": "9",
+          "episodeNumberInSeason": "8",
+          "airTime": "7:00",
+          "channel": "NBC"
+        }
+      ]
+    },
+    {
+      "date": "March 28, 2024",
+      "list": []
+    },
+    {
+      "date": "March 29, 2024",
+      "list": []
+    },
+    {
+      "date": "March 30, 2024",
+      "list": [
+        {
+          "showName": "Saturday Night Live",
+          "episodeName": "Ramy Youssef / Travis Scott",
+          "seasonNumber": "49",
+          "episodeNumberInSeason": "15",
+          "airTime": "10:29",
+          "channel": "NBC"
+        }
+      ]
+    },
+    {
+      "date": "March 31, 2024",
       "list": []
     }
   ]
