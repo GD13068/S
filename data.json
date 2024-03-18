@@ -1,185 +1,17 @@
 {
   "data": [
     {
-      "date": "March 4, 2024",
-      "list": [
-        {
-          "showName": "Bob Hearts Abishola",
-          "episodeName": "The Heart Attack Boys",
-          "seasonNumber": "5",
-          "episodeNumberInSeason": "4",
-          "airTime": "7:00",
-          "channel": "CBS"
-        },
-        {
-          "showName": "Bob Hearts Abishola",
-          "episodeName": "Tayo Time",
-          "seasonNumber": "5",
-          "episodeNumberInSeason": "5",
-          "airTime": "7:30",
-          "channel": "CBS"
-        }
-      ]
-    },
-    {
-      "date": "March 5, 2024",
-      "list": [
-        {
-          "showName": "Night Court",
-          "episodeName": "Chips Ahoy",
-          "seasonNumber": "2",
-          "episodeNumberInSeason": "10",
-          "airTime": "7:00",
-          "channel": "NBC"
-        },
-        {
-          "showName": "Will Trent",
-          "episodeName": "You Don't Have to Understand",
-          "seasonNumber": "2",
-          "episodeNumberInSeason": "3",
-          "airTime": "7:00",
-          "channel": "ABC"
-        }
-      ]
-    },
-    {
-      "date": "March 6, 2024",
-      "list": []
-    },
-    {
-      "date": "March 7, 2024",
-      "list": [
-        {
-          "showName": "Young Sheldon",
-          "episodeName": "Ants on a Log and a Cheating Winker",
-          "seasonNumber": "7",
-          "episodeNumberInSeason": "4",
-          "airTime": "7:00",
-          "channel": "CBS"
-        }
-      ]
-    },
-    {
-      "date": "March 8, 2024",
-      "list": []
-    },
-    {
-      "date": "March 9, 2024",
-      "list": [
-        {
-          "showName": "Saturday Night Live",
-          "episodeName": "Josh Brolin / Ariana Grande",
-          "seasonNumber": "49",
-          "episodeNumberInSeason": "14",
-          "airTime": "10:29",
-          "channel": "NBC"
-        }
-      ]
-    },
-    {
-      "date": "March 10, 2024",
-      "list": [
-        {
-          "showName": "Abbott Elementary",
-          "episodeName": "Willard R. Abbott",
-          "seasonNumber": "3",
-          "episodeNumberInSeason": "6",
-          "airTime": "9:32",
-          "channel": "ABC"
-        }
-      ]
-    },
-    {
-      "date": "March 11, 2024",
-      "list": [
-        {
-          "showName": "The Neighborhood",
-          "episodeName": "Welcome to Grandfatherhood",
-          "seasonNumber": "6",
-          "episodeNumberInSeason": "4",
-          "airTime": "7:00",
-          "channel": "CBS"
-        },
-        {
-          "showName": "Bob Hearts Abishola",
-          "episodeName": "A Tablespoon of Dad",
-          "seasonNumber": "5",
-          "episodeNumberInSeason": "6",
-          "airTime": "7:30",
-          "channel": "CBS"
-        }
-      ]
-    },
-    {
-      "date": "March 12, 2024",
-      "list": [
-        {
-          "showName": "Night Court",
-          "episodeName": "Wheelers of Fortune",
-          "seasonNumber": "2",
-          "episodeNumberInSeason": "11",
-          "airTime": "7:00",
-          "channel": "NBC"
-        }
-      ]
-    },
-    {
-      "date": "March 13, 2024",
-      "list": [
-        {
-          "showName": "The Conners",
-          "episodeName": "When Sisters Collide and the Return of the Grifters",
-          "seasonNumber": "6",
-          "episodeNumberInSeason": "5",
-          "airTime": "7:00",
-          "channel": "ABC"
-        },
-        {
-          "showName": "Abbott Elementary",
-          "episodeName": "Librarian",
-          "seasonNumber": "3",
-          "episodeNumberInSeason": "7",
-          "airTime": "8:00",
-          "channel": "ABC"
-        }
-      ]
-    },
-    {
-      "date": "March 14, 2024",
-      "list": [
-        {
-          "showName": "Young Sheldon",
-          "episodeName": "A Frankenstein's Monster and a Crazy Church Guy",
-          "seasonNumber": "7",
-          "episodeNumberInSeason": "5",
-          "airTime": "7:00",
-          "channel": "CBS"
-        },
-        {
-          "showName": "So Help Me Todd",
-          "episodeName": "Dial Margaret for Murder",
-          "seasonNumber": "2",
-          "episodeNumberInSeason": "4",
-          "airTime": "8:00",
-          "channel": "CBS"
-        }
-      ]
-    },
-    {
-      "date": "March 15, 2024",
-      "list": []
-    },
-    {
-      "date": "March 16, 2024",
-      "list": []
-    },
-    {
-      "date": "March 17, 2024",
-      "list": []
-    },
-    {
       "date": "March 18, 2024",
-      "list": []
+      "list": [
+        {
+          "showName": "Bob Hearts Abishola",
+          "episodeName": "Worth the Cooties",
+          "seasonNumber": "5",
+          "episodeNumberInSeason": "7",
+          "airTime": "7:30",
+          "channel": "CBS"
+        }
+      ]
     },
     {
       "date": "March 19, 2024",
@@ -260,9 +92,9 @@
         },
         {
           "showName": "Bob Hearts Abishola",
-          "episodeName": "Worth the Cooties",
+          "episodeName": "My Michelle Obama",
           "seasonNumber": "5",
-          "episodeNumberInSeason": "7",
+          "episodeNumberInSeason": "8",
           "airTime": "7:30",
           "channel": "CBS"
         }
@@ -273,7 +105,7 @@
       "list": [
         {
           "showName": "Night Court",
-          "episodeName": "TBA (Season Finale)",
+          "episodeName": "The Best Dan (Season Finale)",
           "seasonNumber": "2",
           "episodeNumberInSeason": "13",
           "airTime": "7:00",
@@ -302,7 +134,7 @@
       "list": [
         {
           "showName": "Chicago Med",
-          "episodeName": "TBA",
+          "episodeName": "A Penny for Your Thoughts, Dollar for Your Dreams",
           "seasonNumber": "9",
           "episodeNumberInSeason": "8",
           "airTime": "7:00",
