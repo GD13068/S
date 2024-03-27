@@ -1,85 +1,6 @@
 {
   "data": [
     {
-      "date": "March 18, 2024",
-      "list": [
-        {
-          "showName": "Bob Hearts Abishola",
-          "episodeName": "Worth the Cooties",
-          "seasonNumber": "5",
-          "episodeNumberInSeason": "7",
-          "airTime": "7:30",
-          "channel": "CBS"
-        }
-      ]
-    },
-    {
-      "date": "March 19, 2024",
-      "list": [
-        {
-          "showName": "Night Court",
-          "episodeName": "The Duke's a Hazard",
-          "seasonNumber": "2",
-          "episodeNumberInSeason": "12",
-          "airTime": "7:00",
-          "channel": "NBC"
-        },
-        {
-          "showName": "The Good Doctor",
-          "episodeName": "Critical Support",
-          "seasonNumber": "7",
-          "episodeNumberInSeason": "3",
-          "airTime": "9:00",
-          "channel": "ABC"
-        }
-      ]
-    },
-    {
-      "date": "March 20, 2024",
-      "list": [
-        {
-          "showName": "The Conners",
-          "episodeName": "Hanging in Dorms with Boys and the Secret Life of Men",
-          "seasonNumber": "6",
-          "episodeNumberInSeason": "6",
-          "airTime": "7:00",
-          "channel": "ABC"
-        },
-        {
-          "showName": "Chicago Med",
-          "episodeName": "Step on a Crack and Break Your Mother's Back",
-          "seasonNumber": "9",
-          "episodeNumberInSeason": "7",
-          "airTime": "7:00",
-          "channel": "NBC"
-        },
-        {
-          "showName": "Abbott Elementary",
-          "episodeName": "Panel",
-          "seasonNumber": "3",
-          "episodeNumberInSeason": "8",
-          "airTime": "8:00",
-          "channel": "ABC"
-        }
-      ]
-    },
-    {
-      "date": "March 21, 2024",
-      "list": []
-    },
-    {
-      "date": "March 22, 2024",
-      "list": []
-    },
-    {
-      "date": "March 23, 2024",
-      "list": []
-    },
-    {
-      "date": "March 24, 2024",
-      "list": []
-    },
-    {
       "date": "March 25, 2024",
       "list": [
         {
@@ -165,6 +86,199 @@
     },
     {
       "date": "March 31, 2024",
+      "list": []
+    },
+    {
+      "date": "April 1, 2024",
+      "list": [
+        {
+          "showName": "The Neighborhood",
+          "episodeName": "Welcome to the Walkout",
+          "seasonNumber": "6",
+          "episodeNumberInSeason": "7",
+          "airTime": "7:00",
+          "channel": "CBS"
+        },
+        {
+          "showName": "Bob Hearts Abishola",
+          "episodeName": "Sad Cupcakes",
+          "seasonNumber": "5",
+          "episodeNumberInSeason": "9",
+          "airTime": "7:30",
+          "channel": "CBS"
+        }
+      ]
+    },
+    {
+      "date": "April 2, 2024",
+      "list": [
+        {
+          "showName": "Lopez vs. Lopez",
+          "episodeName": "Lopez vs Sobriety\" & \"Lopez vs Moving On",
+          "seasonNumber": "2",
+          "episodeNumberInSeason": "1 & S2 E2",
+          "airTime": "7:00",
+          "channel": "NBC"
+        },
+        {
+          "showName": "Will Trent",
+          "episodeName": "Capt. Duke Wagner's Daughter",
+          "seasonNumber": "2",
+          "episodeNumberInSeason": "5",
+          "airTime": "7:00",
+          "channel": "ABC"
+        },
+        {
+          "showName": "The Good Doctor",
+          "episodeName": "Who at Peace",
+          "seasonNumber": "7",
+          "episodeNumberInSeason": "5",
+          "airTime": "9:00",
+          "channel": "ABC"
+        }
+      ]
+    },
+    {
+      "date": "April 3, 2024",
+      "list": [
+        {
+          "showName": "Chicago Med",
+          "episodeName": "Spin a Yarn, Get Stuck in Your Own String",
+          "seasonNumber": "9",
+          "episodeNumberInSeason": "9",
+          "airTime": "7:00",
+          "channel": "NBC"
+        }
+      ]
+    },
+    {
+      "date": "April 4, 2024",
+      "list": [
+        {
+          "showName": "Young Sheldon",
+          "episodeName": "Baptists, Catholics and an Attempted Drowning",
+          "seasonNumber": "7",
+          "episodeNumberInSeason": "6",
+          "airTime": "7:00",
+          "channel": "CBS"
+        }
+      ]
+    },
+    {
+      "date": "April 5, 2024",
+      "list": []
+    },
+    {
+      "date": "April 6, 2024",
+      "list": [
+        {
+          "showName": "Saturday Night Live",
+          "episodeName": "Kristen Wiig / Raye",
+          "seasonNumber": "49",
+          "episodeNumberInSeason": "16",
+          "airTime": "10:29",
+          "channel": "NBC"
+        }
+      ]
+    },
+    {
+      "date": "April 7, 2024",
+      "list": []
+    },
+    {
+      "date": "April 8, 2024",
+      "list": []
+    },
+    {
+      "date": "April 9, 2024",
+      "list": [
+        {
+          "showName": "Lopez vs. Lopez",
+          "episodeName": "Lopez vs Swap Meet\" & \"Lopez vs Pizza",
+          "seasonNumber": "2",
+          "episodeNumberInSeason": "3 & S2 E4",
+          "airTime": "7:00",
+          "channel": "NBC"
+        },
+        {
+          "showName": "Will Trent",
+          "episodeName": "We are Family",
+          "seasonNumber": "2",
+          "episodeNumberInSeason": "6",
+          "airTime": "7:00",
+          "channel": "ABC"
+        },
+        {
+          "showName": "The Good Doctor",
+          "episodeName": "M.C.E.",
+          "seasonNumber": "7",
+          "episodeNumberInSeason": "6",
+          "airTime": "9:00",
+          "channel": "ABC"
+        }
+      ]
+    },
+    {
+      "date": "April 10, 2024",
+      "list": [
+        {
+          "showName": "The Conners",
+          "episodeName": "Smash and Grab and Happy Death Day",
+          "seasonNumber": "6",
+          "episodeNumberInSeason": "7",
+          "airTime": "7:00",
+          "channel": "ABC"
+        },
+        {
+          "showName": "Abbott Elementary",
+          "episodeName": "Alex",
+          "seasonNumber": "3",
+          "episodeNumberInSeason": "9",
+          "airTime": "8:00",
+          "channel": "ABC"
+        }
+      ]
+    },
+    {
+      "date": "April 11, 2024",
+      "list": [
+        {
+          "showName": "Young Sheldon",
+          "episodeName": "TBA",
+          "seasonNumber": "7",
+          "episodeNumberInSeason": "7",
+          "airTime": "7:00",
+          "channel": "CBS"
+        },
+        {
+          "showName": "So Help Me Todd",
+          "episodeName": "End On a High Note",
+          "seasonNumber": "2",
+          "episodeNumberInSeason": "5",
+          "airTime": "8:00",
+          "channel": "CBS"
+        }
+      ]
+    },
+    {
+      "date": "April 12, 2024",
+      "list": []
+    },
+    {
+      "date": "April 13, 2024",
+      "list": [
+        {
+          "showName": "Saturday Night Live",
+          "episodeName": "Ryan Gosling / Chris Stapleton",
+          "seasonNumber": "49",
+          "episodeNumberInSeason": "17",
+          "airTime": "10:29",
+          "channel": "NBC"
+        }
+      ]
+    },
+    {
+      "date": "April 14, 2024",
       "list": []
     }
   ]
