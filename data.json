@@ -1,205 +1,8 @@
 {
   "data": [
     {
-      "date": "March 25, 2024",
-      "list": [
-        {
-          "showName": "The Neighborhood",
-          "episodeName": "Welcome to the Front Window",
-          "seasonNumber": "6",
-          "episodeNumberInSeason": "5",
-          "airTime": "7:00",
-          "channel": "CBS"
-        },
-        {
-          "showName": "Bob Hearts Abishola",
-          "episodeName": "My Michelle Obama",
-          "seasonNumber": "5",
-          "episodeNumberInSeason": "8",
-          "airTime": "7:30",
-          "channel": "CBS"
-        }
-      ]
-    },
-    {
-      "date": "March 26, 2024",
-      "list": [
-        {
-          "showName": "Night Court",
-          "episodeName": "The Best Dan (Season Finale)",
-          "seasonNumber": "2",
-          "episodeNumberInSeason": "13",
-          "airTime": "7:00",
-          "channel": "NBC"
-        },
-        {
-          "showName": "Will Trent",
-          "episodeName": "It's Easier to Handcuff a Human Being",
-          "seasonNumber": "2",
-          "episodeNumberInSeason": "4",
-          "airTime": "7:00",
-          "channel": "ABC"
-        },
-        {
-          "showName": "The Good Doctor",
-          "episodeName": "Date Night",
-          "seasonNumber": "7",
-          "episodeNumberInSeason": "4",
-          "airTime": "9:00",
-          "channel": "ABC"
-        }
-      ]
-    },
-    {
-      "date": "March 27, 2024",
-      "list": [
-        {
-          "showName": "Chicago Med",
-          "episodeName": "A Penny for Your Thoughts, Dollar for Your Dreams",
-          "seasonNumber": "9",
-          "episodeNumberInSeason": "8",
-          "airTime": "7:00",
-          "channel": "NBC"
-        }
-      ]
-    },
-    {
-      "date": "March 28, 2024",
-      "list": []
-    },
-    {
-      "date": "March 29, 2024",
-      "list": []
-    },
-    {
-      "date": "March 30, 2024",
-      "list": [
-        {
-          "showName": "Saturday Night Live",
-          "episodeName": "Ramy Youssef / Travis Scott",
-          "seasonNumber": "49",
-          "episodeNumberInSeason": "15",
-          "airTime": "10:29",
-          "channel": "NBC"
-        }
-      ]
-    },
-    {
-      "date": "March 31, 2024",
-      "list": []
-    },
-    {
-      "date": "April 1, 2024",
-      "list": [
-        {
-          "showName": "The Neighborhood",
-          "episodeName": "Welcome to the Walkout",
-          "seasonNumber": "6",
-          "episodeNumberInSeason": "7",
-          "airTime": "7:00",
-          "channel": "CBS"
-        },
-        {
-          "showName": "Bob Hearts Abishola",
-          "episodeName": "Sad Cupcakes",
-          "seasonNumber": "5",
-          "episodeNumberInSeason": "9",
-          "airTime": "7:30",
-          "channel": "CBS"
-        }
-      ]
-    },
-    {
-      "date": "April 2, 2024",
-      "list": [
-        {
-          "showName": "Lopez vs. Lopez",
-          "episodeName": "Lopez vs Sobriety\" & \"Lopez vs Moving On",
-          "seasonNumber": "2",
-          "episodeNumberInSeason": "1 & S2 E2",
-          "airTime": "7:00",
-          "channel": "NBC"
-        },
-        {
-          "showName": "Will Trent",
-          "episodeName": "Capt. Duke Wagner's Daughter",
-          "seasonNumber": "2",
-          "episodeNumberInSeason": "5",
-          "airTime": "7:00",
-          "channel": "ABC"
-        },
-        {
-          "showName": "The Good Doctor",
-          "episodeName": "Who at Peace",
-          "seasonNumber": "7",
-          "episodeNumberInSeason": "5",
-          "airTime": "9:00",
-          "channel": "ABC"
-        }
-      ]
-    },
-    {
-      "date": "April 3, 2024",
-      "list": [
-        {
-          "showName": "Chicago Med",
-          "episodeName": "Spin a Yarn, Get Stuck in Your Own String",
-          "seasonNumber": "9",
-          "episodeNumberInSeason": "9",
-          "airTime": "7:00",
-          "channel": "NBC"
-        }
-      ]
-    },
-    {
-      "date": "April 4, 2024",
-      "list": [
-        {
-          "showName": "Young Sheldon",
-          "episodeName": "Baptists, Catholics and an Attempted Drowning",
-          "seasonNumber": "7",
-          "episodeNumberInSeason": "6",
-          "airTime": "7:00",
-          "channel": "CBS"
-        }
-      ]
-    },
-    {
-      "date": "April 5, 2024",
-      "list": []
-    },
-    {
-      "date": "April 6, 2024",
-      "list": [
-        {
-          "showName": "Saturday Night Live",
-          "episodeName": "Kristen Wiig / Raye",
-          "seasonNumber": "49",
-          "episodeNumberInSeason": "16",
-          "airTime": "10:29",
-          "channel": "NBC"
-        }
-      ]
-    },
-    {
-      "date": "April 7, 2024",
-      "list": []
-    },
-    {
-      "date": "April 8, 2024",
-      "list": []
-    },
-    {
       "date": "April 9, 2024",
       "list": [
-        {
-          "showName": "Lopez vs. Lopez",
-          "episodeName": "Lopez vs Swap Meet\" & \"Lopez vs Pizza",
-          "seasonNumber": "2",
-          "episodeNumberInSeason": "3 & S2 E4",
-          "airTime": "7:00",
-          "channel": "NBC"
-        },
         {
           "showName": "Will Trent",
           "episodeName": "We are Family",
@@ -244,7 +47,7 @@
       "list": [
         {
           "showName": "Young Sheldon",
-          "episodeName": "TBA",
+          "episodeName": "A Proper Wedding and Skeletons in the Closet",
           "seasonNumber": "7",
           "episodeNumberInSeason": "7",
           "airTime": "7:00",
@@ -280,6 +83,206 @@
     {
       "date": "April 14, 2024",
       "list": []
+    },
+    {
+      "date": "April 15, 2024",
+      "list": [
+        {
+          "showName": "The Neighborhood",
+          "episodeName": "Welcome to the Stand-off",
+          "seasonNumber": "6",
+          "episodeNumberInSeason": "8",
+          "airTime": "7:00",
+          "channel": "CBS"
+        },
+        {
+          "showName": "Bob Hearts Abishola",
+          "episodeName": "Diamond are Made to Sparkle",
+          "seasonNumber": "5",
+          "episodeNumberInSeason": "10",
+          "airTime": "7:30",
+          "channel": "CBS"
+        }
+      ]
+    },
+    {
+      "date": "April 16, 2024",
+      "list": []
+    },
+    {
+      "date": "April 17, 2024",
+      "list": [
+        {
+          "showName": "The Conners",
+          "episodeName": "Toilet Hacks and the Management Track",
+          "seasonNumber": "6",
+          "episodeNumberInSeason": "8",
+          "airTime": "7:00",
+          "channel": "ABC"
+        },
+        {
+          "showName": "Abbott Elementary",
+          "episodeName": "2 Ava 2 Fest",
+          "seasonNumber": "3",
+          "episodeNumberInSeason": "10",
+          "airTime": "8:00",
+          "channel": "ABC"
+        }
+      ]
+    },
+    {
+      "date": "April 18, 2024",
+      "list": [
+        {
+          "showName": "Young Sheldon",
+          "episodeName": "An Ankle Monitor and a Big Plastic Crap House",
+          "seasonNumber": "7",
+          "episodeNumberInSeason": "8",
+          "airTime": "7:00",
+          "channel": "CBS"
+        },
+        {
+          "showName": "So Help Me Todd",
+          "episodeName": "Is the Jury Out?",
+          "seasonNumber": "2",
+          "episodeNumberInSeason": "6",
+          "airTime": "8:00",
+          "channel": "CBS"
+        }
+      ]
+    },
+    {
+      "date": "April 19, 2024",
+      "list": []
+    },
+    {
+      "date": "April 20, 2024",
+      "list": []
+    },
+    {
+      "date": "April 21, 2024",
+      "list": []
+    },
+    {
+      "date": "April 22, 2024",
+      "list": [
+        {
+          "showName": "The Neighborhood",
+          "episodeName": "Welcome to the Baby Shower",
+          "seasonNumber": "6",
+          "episodeNumberInSeason": "9",
+          "airTime": "7:00",
+          "channel": "CBS"
+        },
+        {
+          "showName": "Bob Hearts Abishola",
+          "episodeName": "These Giants are Flexible",
+          "seasonNumber": "5",
+          "episodeNumberInSeason": "11",
+          "airTime": "7:30",
+          "channel": "CBS"
+        }
+      ]
+    },
+    {
+      "date": "April 23, 2024",
+      "list": []
+    },
+    {
+      "date": "April 24, 2024",
+      "list": [
+        {
+          "showName": "The Conners",
+          "episodeName": "Manifesting, Marriage Testing and Cheeseballs",
+          "seasonNumber": "6",
+          "episodeNumberInSeason": "9",
+          "airTime": "7:00",
+          "channel": "ABC"
+        },
+        {
+          "showName": "Abbott Elementary",
+          "episodeName": "TBA",
+          "seasonNumber": "3",
+          "episodeNumberInSeason": "?",
+          "airTime": "8:00",
+          "channel": "ABC"
+        }
+      ]
+    },
+    {
+      "date": "April 25, 2024",
+      "list": [
+        {
+          "showName": "Young Sheldon",
+          "episodeName": "A Fancy Article and a Scholarship for a Baby",
+          "seasonNumber": "7",
+          "episodeNumberInSeason": "9",
+          "airTime": "7:00",
+          "channel": "CBS"
+        },
+        {
+          "showName": "So Help Me Todd",
+          "episodeName": "Faux-bituary",
+          "seasonNumber": "2",
+          "episodeNumberInSeason": "7",
+          "airTime": "8:00",
+          "channel": "CBS"
+        }
+      ]
+    },
+    {
+      "date": "April 26, 2024",
+      "list": []
+    },
+    {
+      "date": "April 27, 2024",
+      "list": []
+    },
+    {
+      "date": "April 28, 2024",
+      "list": []
+    },
+    {
+      "date": "April 29, 2024",
+      "list": [
+        {
+          "showName": "The Neighborhood",
+          "episodeName": "Welcome to the Name Drop",
+          "seasonNumber": "6",
+          "episodeNumberInSeason": "10",
+          "airTime": "7:00",
+          "channel": "CBS"
+        },
+        {
+          "showName": "Bob Hearts Abishola",
+          "episodeName": "TBA",
+          "seasonNumber": "5",
+          "episodeNumberInSeason": "12",
+          "airTime": "7:30",
+          "channel": "CBS"
+        }
+      ]
+    },
+    {
+      "date": "April 30, 2024",
+      "list": [
+        {
+          "showName": "Will Trent",
+          "episodeName": "TBA",
+          "seasonNumber": "2",
+          "episodeNumberInSeason": "?",
+          "airTime": "7:00",
+          "channel": "ABC"
+        },
+        {
+          "showName": "The Good Doctor",
+          "episodeName": "TBA",
+          "seasonNumber": "7",
+          "episodeNumberInSeason": "?",
+          "airTime": "9:00",
+          "channel": "ABC"
+        }
+      ]
     }
   ]
 }
