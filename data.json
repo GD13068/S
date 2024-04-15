@@ -198,14 +198,6 @@
           "episodeNumberInSeason": "9",
           "airTime": "7:00",
           "channel": "ABC"
-        },
-        {
-          "showName": "Abbott Elementary",
-          "episodeName": "TBA",
-          "seasonNumber": "3",
-          "episodeNumberInSeason": "?",
-          "airTime": "8:00",
-          "channel": "ABC"
         }
       ]
     },
@@ -255,7 +247,7 @@
         },
         {
           "showName": "Bob Hearts Abishola",
-          "episodeName": "TBA",
+          "episodeName": "Olu! i popped!",
           "seasonNumber": "5",
           "episodeNumberInSeason": "12",
           "airTime": "7:30",
@@ -268,17 +260,17 @@
       "list": [
         {
           "showName": "Will Trent",
-          "episodeName": "TBA",
+          "episodeName": "Have You Never Been to a Wedding?",
           "seasonNumber": "2",
-          "episodeNumberInSeason": "?",
+          "episodeNumberInSeason": "7",
           "airTime": "7:00",
           "channel": "ABC"
         },
         {
           "showName": "The Good Doctor",
-          "episodeName": "TBA",
+          "episodeName": "Faith",
           "seasonNumber": "7",
-          "episodeNumberInSeason": "?",
+          "episodeNumberInSeason": "7",
           "airTime": "9:00",
           "channel": "ABC"
         }
