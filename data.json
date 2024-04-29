@@ -1,247 +1,13 @@
 {
   "data": [
     {
-      "date": "April 9, 2024",
-      "list": [
-        {
-          "showName": "Will Trent",
-          "episodeName": "We are Family",
-          "seasonNumber": "2",
-          "episodeNumberInSeason": "6",
-          "airTime": "7:00",
-          "channel": "ABC"
-        },
-        {
-          "showName": "The Good Doctor",
-          "episodeName": "M.C.E.",
-          "seasonNumber": "7",
-          "episodeNumberInSeason": "6",
-          "airTime": "9:00",
-          "channel": "ABC"
-        }
-      ]
-    },
-    {
-      "date": "April 10, 2024",
-      "list": [
-        {
-          "showName": "The Conners",
-          "episodeName": "Smash and Grab and Happy Death Day",
-          "seasonNumber": "6",
-          "episodeNumberInSeason": "7",
-          "airTime": "7:00",
-          "channel": "ABC"
-        },
-        {
-          "showName": "Abbott Elementary",
-          "episodeName": "Alex",
-          "seasonNumber": "3",
-          "episodeNumberInSeason": "9",
-          "airTime": "8:00",
-          "channel": "ABC"
-        }
-      ]
-    },
-    {
-      "date": "April 11, 2024",
-      "list": [
-        {
-          "showName": "Young Sheldon",
-          "episodeName": "A Proper Wedding and Skeletons in the Closet",
-          "seasonNumber": "7",
-          "episodeNumberInSeason": "7",
-          "airTime": "7:00",
-          "channel": "CBS"
-        },
-        {
-          "showName": "So Help Me Todd",
-          "episodeName": "End On a High Note",
-          "seasonNumber": "2",
-          "episodeNumberInSeason": "5",
-          "airTime": "8:00",
-          "channel": "CBS"
-        }
-      ]
-    },
-    {
-      "date": "April 12, 2024",
-      "list": []
-    },
-    {
-      "date": "April 13, 2024",
-      "list": [
-        {
-          "showName": "Saturday Night Live",
-          "episodeName": "Ryan Gosling / Chris Stapleton",
-          "seasonNumber": "49",
-          "episodeNumberInSeason": "17",
-          "airTime": "10:29",
-          "channel": "NBC"
-        }
-      ]
-    },
-    {
-      "date": "April 14, 2024",
-      "list": []
-    },
-    {
-      "date": "April 15, 2024",
-      "list": [
-        {
-          "showName": "The Neighborhood",
-          "episodeName": "Welcome to the Stand-off",
-          "seasonNumber": "6",
-          "episodeNumberInSeason": "8",
-          "airTime": "7:00",
-          "channel": "CBS"
-        },
-        {
-          "showName": "Bob Hearts Abishola",
-          "episodeName": "Diamond are Made to Sparkle",
-          "seasonNumber": "5",
-          "episodeNumberInSeason": "10",
-          "airTime": "7:30",
-          "channel": "CBS"
-        }
-      ]
-    },
-    {
-      "date": "April 16, 2024",
-      "list": []
-    },
-    {
-      "date": "April 17, 2024",
-      "list": [
-        {
-          "showName": "The Conners",
-          "episodeName": "Toilet Hacks and the Management Track",
-          "seasonNumber": "6",
-          "episodeNumberInSeason": "8",
-          "airTime": "7:00",
-          "channel": "ABC"
-        },
-        {
-          "showName": "Abbott Elementary",
-          "episodeName": "2 Ava 2 Fest",
-          "seasonNumber": "3",
-          "episodeNumberInSeason": "10",
-          "airTime": "8:00",
-          "channel": "ABC"
-        }
-      ]
-    },
-    {
-      "date": "April 18, 2024",
-      "list": [
-        {
-          "showName": "Young Sheldon",
-          "episodeName": "An Ankle Monitor and a Big Plastic Crap House",
-          "seasonNumber": "7",
-          "episodeNumberInSeason": "8",
-          "airTime": "7:00",
-          "channel": "CBS"
-        },
-        {
-          "showName": "So Help Me Todd",
-          "episodeName": "Is the Jury Out?",
-          "seasonNumber": "2",
-          "episodeNumberInSeason": "6",
-          "airTime": "8:00",
-          "channel": "CBS"
-        }
-      ]
-    },
-    {
-      "date": "April 19, 2024",
-      "list": []
-    },
-    {
-      "date": "April 20, 2024",
-      "list": []
-    },
-    {
-      "date": "April 21, 2024",
-      "list": []
-    },
-    {
-      "date": "April 22, 2024",
-      "list": [
-        {
-          "showName": "The Neighborhood",
-          "episodeName": "Welcome to the Baby Shower",
-          "seasonNumber": "6",
-          "episodeNumberInSeason": "9",
-          "airTime": "7:00",
-          "channel": "CBS"
-        },
-        {
-          "showName": "Bob Hearts Abishola",
-          "episodeName": "These Giants are Flexible",
-          "seasonNumber": "5",
-          "episodeNumberInSeason": "11",
-          "airTime": "7:30",
-          "channel": "CBS"
-        }
-      ]
-    },
-    {
-      "date": "April 23, 2024",
-      "list": []
-    },
-    {
-      "date": "April 24, 2024",
-      "list": [
-        {
-          "showName": "The Conners",
-          "episodeName": "Manifesting, Marriage Testing and Cheeseballs",
-          "seasonNumber": "6",
-          "episodeNumberInSeason": "9",
-          "airTime": "7:00",
-          "channel": "ABC"
-        }
-      ]
-    },
-    {
-      "date": "April 25, 2024",
-      "list": [
-        {
-          "showName": "Young Sheldon",
-          "episodeName": "A Fancy Article and a Scholarship for a Baby",
-          "seasonNumber": "7",
-          "episodeNumberInSeason": "9",
-          "airTime": "7:00",
-          "channel": "CBS"
-        },
-        {
-          "showName": "So Help Me Todd",
-          "episodeName": "Faux-bituary",
-          "seasonNumber": "2",
-          "episodeNumberInSeason": "7",
-          "airTime": "8:00",
-          "channel": "CBS"
-        }
-      ]
-    },
-    {
-      "date": "April 26, 2024",
-      "list": []
-    },
-    {
-      "date": "April 27, 2024",
-      "list": []
-    },
-    {
-      "date": "April 28, 2024",
-      "list": []
-    },
-    {
       "date": "April 29, 2024",
       "list": [
         {
           "showName": "The Neighborhood",
           "episodeName": "Welcome to the Name Drop",
           "seasonNumber": "6",
-          "episodeNumberInSeason": "10",
+          "episodeNumberInSeason": "9",
           "airTime": "7:00",
           "channel": "CBS"
         },
@@ -275,6 +41,421 @@
           "channel": "ABC"
         }
       ]
+    },
+    {
+      "date": "May 1, 2024",
+      "list": [
+        {
+          "showName": "Chicago Med",
+          "episodeName": "You Just Might Find You Get What You Need",
+          "seasonNumber": "9",
+          "episodeNumberInSeason": "10",
+          "airTime": "7:00",
+          "channel": "NBC"
+        },
+        {
+          "showName": "Abbott Elementary",
+          "episodeName": "Double Date",
+          "seasonNumber": "3",
+          "episodeNumberInSeason": "11",
+          "airTime": "8:00",
+          "channel": "ABC"
+        },
+        {
+          "showName": "The Conners",
+          "episodeName": "Campaign U-turn and a Hard Write",
+          "seasonNumber": "6",
+          "episodeNumberInSeason": "10",
+          "airTime": "8:32 [NTP]",
+          "channel": "ABC"
+        }
+      ]
+    },
+    {
+      "date": "May 2, 2024",
+      "list": [
+        {
+          "showName": "Young Sheldon",
+          "episodeName": "Community Service and the Key to a Happy Marriage",
+          "seasonNumber": "7",
+          "episodeNumberInSeason": "10",
+          "airTime": "7:00",
+          "channel": "CBS"
+        },
+        {
+          "showName": "So Help Me Todd",
+          "episodeName": "P.I.'s Wide Shut",
+          "seasonNumber": "2",
+          "episodeNumberInSeason": "8",
+          "airTime": "8:00",
+          "channel": "CBS"
+        }
+      ]
+    },
+    {
+      "date": "May 3, 2024",
+      "list": []
+    },
+    {
+      "date": "May 4, 2024",
+      "list": [
+        {
+          "showName": "Saturday Night Live",
+          "episodeName": "Dua Lipa / Dua Lipa",
+          "seasonNumber": "49",
+          "episodeNumberInSeason": "18",
+          "airTime": "10:29",
+          "channel": "NBC"
+        }
+      ]
+    },
+    {
+      "date": "May 5, 2024",
+      "list": []
+    },
+    {
+      "date": "May 6, 2024",
+      "list": [
+        {
+          "showName": "The Neighborhood",
+          "episodeName": "Welcome to the World (Season Finale)",
+          "seasonNumber": "6",
+          "episodeNumberInSeason": "10",
+          "airTime": "7:00",
+          "channel": "CBS"
+        },
+        {
+          "showName": "Bob Hearts Abishola",
+          "episodeName": "Find Your Bench (Series Finale)",
+          "seasonNumber": "5",
+          "episodeNumberInSeason": "13",
+          "airTime": "7:30",
+          "channel": "CBS"
+        }
+      ]
+    },
+    {
+      "date": "May 7, 2024",
+      "list": [
+        {
+          "showName": "Will Trent",
+          "episodeName": "Why is Jack's Arm Bleeding?",
+          "seasonNumber": "2",
+          "episodeNumberInSeason": "8",
+          "airTime": "7:00",
+          "channel": "ABC"
+        },
+        {
+          "showName": "The Good Doctor",
+          "episodeName": "The Overview Effect",
+          "seasonNumber": "7",
+          "episodeNumberInSeason": "8",
+          "airTime": "9:00",
+          "channel": "ABC"
+        }
+      ]
+    },
+    {
+      "date": "May 8, 2024",
+      "list": [
+        {
+          "showName": "Chicago Med",
+          "episodeName": "I Think There is Something You're Not Telling Me",
+          "seasonNumber": "9",
+          "episodeNumberInSeason": "11",
+          "airTime": "7:00",
+          "channel": "NBC"
+        },
+        {
+          "showName": "Abbott Elementary",
+          "episodeName": "Mother's Day",
+          "seasonNumber": "3",
+          "episodeNumberInSeason": "12",
+          "airTime": "8:00",
+          "channel": "ABC"
+        },
+        {
+          "showName": "The Conners",
+          "episodeName": "Fire and Vice",
+          "seasonNumber": "6",
+          "episodeNumberInSeason": "11",
+          "airTime": "8:32",
+          "channel": "ABC"
+        }
+      ]
+    },
+    {
+      "date": "May 9, 2024",
+      "list": [
+        {
+          "showName": "Young Sheldon",
+          "episodeName": "A Little Snip and Teaching Old Dogs\" & \"A New Home and a Traditional Texas Torture",
+          "seasonNumber": "7",
+          "episodeNumberInSeason": "11 & S7 E12",
+          "airTime": "7:00",
+          "channel": "CBS"
+        },
+        {
+          "showName": "So Help Me Todd",
+          "episodeName": "The Broker",
+          "seasonNumber": "2",
+          "episodeNumberInSeason": "9",
+          "airTime": "8:00",
+          "channel": "CBS"
+        }
+      ]
+    },
+    {
+      "date": "May 10, 2024",
+      "list": []
+    },
+    {
+      "date": "May 11, 2024",
+      "list": [
+        {
+          "showName": "Saturday Night Live",
+          "episodeName": "TBA",
+          "seasonNumber": "49",
+          "episodeNumberInSeason": "19",
+          "airTime": "10:29",
+          "channel": "NBC"
+        }
+      ]
+    },
+    {
+      "date": "May 12, 2024",
+      "list": [
+        {
+          "showName": "American Ninja Warrior",
+          "episodeName": "Womens Championship",
+          "seasonNumber": "16",
+          "episodeNumberInSeason": "0",
+          "airTime": "8:00",
+          "channel": "NBC"
+        }
+      ]
+    },
+    {
+      "date": "May 13, 2024",
+      "list": []
+    },
+    {
+      "date": "May 14, 2024",
+      "list": [
+        {
+          "showName": "Will Trent",
+          "episodeName": "Residente o Visitante",
+          "seasonNumber": "2",
+          "episodeNumberInSeason": "9",
+          "airTime": "7:00",
+          "channel": "ABC"
+        },
+        {
+          "showName": "The Good Doctor",
+          "episodeName": "Unconditional",
+          "seasonNumber": "7",
+          "episodeNumberInSeason": "9",
+          "airTime": "9:00",
+          "channel": "ABC"
+        }
+      ]
+    },
+    {
+      "date": "May 15, 2024",
+      "list": [
+        {
+          "showName": "Chicago Med",
+          "episodeName": "TBA",
+          "seasonNumber": "9",
+          "episodeNumberInSeason": "12",
+          "airTime": "7:00",
+          "channel": "NBC"
+        },
+        {
+          "showName": "Abbott Elementary",
+          "episodeName": "Smith Playground",
+          "seasonNumber": "3",
+          "episodeNumberInSeason": "13",
+          "airTime": "8:00",
+          "channel": "ABC"
+        },
+        {
+          "showName": "The Conners",
+          "episodeName": "Flying, Applying and Rassling Gators",
+          "seasonNumber": "6",
+          "episodeNumberInSeason": "12",
+          "airTime": "8:32",
+          "channel": "ABC"
+        }
+      ]
+    },
+    {
+      "date": "May 16, 2024",
+      "list": [
+        {
+          "showName": "Young Sheldon",
+          "episodeName": "Part 1\" & \"Part 2 (Series Finale)",
+          "seasonNumber": "7",
+          "episodeNumberInSeason": "13 & S7 E14",
+          "airTime": "7:00",
+          "channel": "CBS"
+        },
+        {
+          "showName": "So Help Me Todd",
+          "episodeName": "The Tooth is Out There (Series Finale)",
+          "seasonNumber": "2",
+          "episodeNumberInSeason": "9",
+          "airTime": "8:00",
+          "channel": "CBS"
+        }
+      ]
+    },
+    {
+      "date": "May 17, 2024",
+      "list": []
+    },
+    {
+      "date": "May 18, 2024",
+      "list": [
+        {
+          "showName": "Saturday Night Live",
+          "episodeName": "TBA (Season Finale)",
+          "seasonNumber": "49",
+          "episodeNumberInSeason": "20",
+          "airTime": "10:29",
+          "channel": "NBC"
+        }
+      ]
+    },
+    {
+      "date": "May 19, 2024",
+      "list": []
+    },
+    {
+      "date": "May 20, 2024",
+      "list": []
+    },
+    {
+      "date": "May 21, 2024",
+      "list": [
+        {
+          "showName": "Will Trent",
+          "episodeName": "TBA",
+          "seasonNumber": "2",
+          "episodeNumberInSeason": "?",
+          "airTime": "7:00",
+          "channel": "ABC"
+        },
+        {
+          "showName": "The Good Doctor",
+          "episodeName": "TBA",
+          "seasonNumber": "7",
+          "episodeNumberInSeason": "?",
+          "airTime": "9:00",
+          "channel": "ABC"
+        }
+      ]
+    },
+    {
+      "date": "May 22, 2024",
+      "list": [
+        {
+          "showName": "Chicago Med",
+          "episodeName": "TBA (Season Finale)",
+          "seasonNumber": "9",
+          "episodeNumberInSeason": "13",
+          "airTime": "7:00",
+          "channel": "NBC"
+        },
+        {
+          "showName": "Abbott Elementary",
+          "episodeName": "TBA (Season Finale)",
+          "seasonNumber": "3",
+          "episodeNumberInSeason": "14",
+          "airTime": "8:00",
+          "channel": "ABC"
+        },
+        {
+          "showName": "The Conners",
+          "episodeName": "TBA (Season/Series Finale)",
+          "seasonNumber": "6",
+          "episodeNumberInSeason": "13",
+          "airTime": "8:32",
+          "channel": "ABC"
+        }
+      ]
+    },
+    {
+      "date": "May 23, 2024",
+      "list": [
+        {
+          "showName": "Evil",
+          "episodeName": "TBA",
+          "seasonNumber": "4",
+          "episodeNumberInSeason": "1",
+          "airTime": "2:01",
+          "channel": "Paramount+"
+        }
+      ]
+    },
+    {
+      "date": "May 24, 2024",
+      "list": []
+    },
+    {
+      "date": "May 25, 2024",
+      "list": []
+    },
+    {
+      "date": "May 26, 2024",
+      "list": []
+    },
+    {
+      "date": "May 27, 2024",
+      "list": [
+        {
+          "showName": "American Ninja Warrior",
+          "episodeName": "Couples' Championship",
+          "seasonNumber": "16",
+          "episodeNumberInSeason": "0",
+          "airTime": "7:00",
+          "channel": "NBC"
+        }
+      ]
+    },
+    {
+      "date": "May 28, 2024",
+      "list": [
+        {
+          "showName": "America's Got Talent",
+          "episodeName": "TBA",
+          "seasonNumber": "19",
+          "episodeNumberInSeason": "1",
+          "airTime": "7:00",
+          "channel": "NBC"
+        }
+      ]
+    },
+    {
+      "date": "May 29, 2024",
+      "list": []
+    },
+    {
+      "date": "May 30, 2024",
+      "list": [
+        {
+          "showName": "Evil",
+          "episodeName": "TBA",
+          "seasonNumber": "4",
+          "episodeNumberInSeason": "2",
+          "airTime": "2:01",
+          "channel": "Paramount+"
+        }
+      ]
+    },
+    {
+      "date": "May 31, 2024",
+      "list": []
     }
   ]
 }
