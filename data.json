@@ -1,119 +1,6 @@
 {
   "data": [
     {
-      "date": "April 29, 2024",
-      "list": [
-        {
-          "showName": "The Neighborhood",
-          "episodeName": "Welcome to the Name Drop",
-          "seasonNumber": "6",
-          "episodeNumberInSeason": "9",
-          "airTime": "7:00",
-          "channel": "CBS"
-        },
-        {
-          "showName": "Bob Hearts Abishola",
-          "episodeName": "Olu! i popped!",
-          "seasonNumber": "5",
-          "episodeNumberInSeason": "12",
-          "airTime": "7:30",
-          "channel": "CBS"
-        }
-      ]
-    },
-    {
-      "date": "April 30, 2024",
-      "list": [
-        {
-          "showName": "Will Trent",
-          "episodeName": "Have You Never Been to a Wedding?",
-          "seasonNumber": "2",
-          "episodeNumberInSeason": "7",
-          "airTime": "7:00",
-          "channel": "ABC"
-        },
-        {
-          "showName": "The Good Doctor",
-          "episodeName": "Faith",
-          "seasonNumber": "7",
-          "episodeNumberInSeason": "7",
-          "airTime": "9:00",
-          "channel": "ABC"
-        }
-      ]
-    },
-    {
-      "date": "May 1, 2024",
-      "list": [
-        {
-          "showName": "Chicago Med",
-          "episodeName": "You Just Might Find You Get What You Need",
-          "seasonNumber": "9",
-          "episodeNumberInSeason": "10",
-          "airTime": "7:00",
-          "channel": "NBC"
-        },
-        {
-          "showName": "Abbott Elementary",
-          "episodeName": "Double Date",
-          "seasonNumber": "3",
-          "episodeNumberInSeason": "11",
-          "airTime": "8:00",
-          "channel": "ABC"
-        },
-        {
-          "showName": "The Conners",
-          "episodeName": "Campaign U-turn and a Hard Write",
-          "seasonNumber": "6",
-          "episodeNumberInSeason": "10",
-          "airTime": "8:32 [NTP]",
-          "channel": "ABC"
-        }
-      ]
-    },
-    {
-      "date": "May 2, 2024",
-      "list": [
-        {
-          "showName": "Young Sheldon",
-          "episodeName": "Community Service and the Key to a Happy Marriage",
-          "seasonNumber": "7",
-          "episodeNumberInSeason": "10",
-          "airTime": "7:00",
-          "channel": "CBS"
-        },
-        {
-          "showName": "So Help Me Todd",
-          "episodeName": "P.I.'s Wide Shut",
-          "seasonNumber": "2",
-          "episodeNumberInSeason": "8",
-          "airTime": "8:00",
-          "channel": "CBS"
-        }
-      ]
-    },
-    {
-      "date": "May 3, 2024",
-      "list": []
-    },
-    {
-      "date": "May 4, 2024",
-      "list": [
-        {
-          "showName": "Saturday Night Live",
-          "episodeName": "Dua Lipa / Dua Lipa",
-          "seasonNumber": "49",
-          "episodeNumberInSeason": "18",
-          "airTime": "10:29",
-          "channel": "NBC"
-        }
-      ]
-    },
-    {
-      "date": "May 5, 2024",
-      "list": []
-    },
-    {
       "date": "May 6, 2024",
       "list": [
         {
@@ -214,7 +101,7 @@
       "list": [
         {
           "showName": "Saturday Night Live",
-          "episodeName": "TBA",
+          "episodeName": "Maya Rudolph / Vampire Weekend",
           "seasonNumber": "49",
           "episodeNumberInSeason": "19",
           "airTime": "10:29",
@@ -265,7 +152,7 @@
       "list": [
         {
           "showName": "Chicago Med",
-          "episodeName": "TBA",
+          "episodeName": "Get By With a Little Help From My Friends",
           "seasonNumber": "9",
           "episodeNumberInSeason": "12",
           "airTime": "7:00",
@@ -319,7 +206,7 @@
       "list": [
         {
           "showName": "Saturday Night Live",
-          "episodeName": "TBA (Season Finale)",
+          "episodeName": "Jake Gyllenhaal / Sabrina Carpenter (Season Finale)",
           "seasonNumber": "49",
           "episodeNumberInSeason": "20",
           "airTime": "10:29",
@@ -340,17 +227,17 @@
       "list": [
         {
           "showName": "Will Trent",
-          "episodeName": "TBA",
+          "episodeName": "Do You See the Vision?",
           "seasonNumber": "2",
-          "episodeNumberInSeason": "?",
+          "episodeNumberInSeason": "10",
           "airTime": "7:00",
           "channel": "ABC"
         },
         {
           "showName": "The Good Doctor",
-          "episodeName": "TBA",
+          "episodeName": "Goodbye",
           "seasonNumber": "7",
-          "episodeNumberInSeason": "?",
+          "episodeNumberInSeason": "10",
           "airTime": "9:00",
           "channel": "ABC"
         }
@@ -369,7 +256,7 @@
         },
         {
           "showName": "Abbott Elementary",
-          "episodeName": "TBA (Season Finale)",
+          "episodeName": "Party (Season Finale)",
           "seasonNumber": "3",
           "episodeNumberInSeason": "14",
           "airTime": "8:00",
@@ -377,7 +264,7 @@
         },
         {
           "showName": "The Conners",
-          "episodeName": "TBA (Season/Series Finale)",
+          "episodeName": "Less Money, More Problems (Season Finale)",
           "seasonNumber": "6",
           "episodeNumberInSeason": "13",
           "airTime": "8:32",
