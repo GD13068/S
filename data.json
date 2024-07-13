@@ -119,9 +119,9 @@
       "list": [
         {
           "showName": "America's Got Talent",
-          "episodeName": "TBA (?)",
+          "episodeName": "Auditions 7",
           "seasonNumber": "19",
-          "episodeNumberInSeason": "?",
+          "episodeNumberInSeason": "7",
           "airTime": "7:00",
           "channel": "NBC"
         }
@@ -132,7 +132,7 @@
       "list": [
         {
           "showName": "Big Brother",
-          "episodeName": "Wednesday Premiere",
+          "episodeName": "TBA",
           "seasonNumber": "26",
           "episodeNumberInSeason": "1",
           "airTime": "8:00",
@@ -153,7 +153,7 @@
         },
         {
           "showName": "Big Brother",
-          "episodeName": "Thursday Premiere",
+          "episodeName": "TBA",
           "seasonNumber": "26",
           "episodeNumberInSeason": "2",
           "airTime": "8:00",
@@ -182,7 +182,7 @@
         },
         {
           "showName": "Big Brother",
-          "episodeName": "Sunday Premiere",
+          "episodeName": "TBA",
           "seasonNumber": "26",
           "episodeNumberInSeason": "3",
           "airTime": "8:00",
@@ -199,9 +199,9 @@
       "list": [
         {
           "showName": "America's Got Talent",
-          "episodeName": "TBA (?)",
+          "episodeName": "Auditions 8",
           "seasonNumber": "19",
-          "episodeNumberInSeason": "?",
+          "episodeNumberInSeason": "8",
           "airTime": "7:00",
           "channel": "NBC"
         }
