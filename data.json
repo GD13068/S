@@ -1,196 +1,6 @@
 {
   "data": [
     {
-      "date": "July 1, 2024",
-      "list": []
-    },
-    {
-      "date": "July 2, 2024",
-      "list": [
-        {
-          "showName": "America's Got Talent",
-          "episodeName": "Auditions 5",
-          "seasonNumber": "19",
-          "episodeNumberInSeason": "5",
-          "airTime": "7:00",
-          "channel": "NBC"
-        }
-      ]
-    },
-    {
-      "date": "July 3, 2024",
-      "list": []
-    },
-    {
-      "date": "July 4, 2024",
-      "list": [
-        {
-          "showName": "Evil",
-          "episodeName": "TBA",
-          "seasonNumber": "4",
-          "episodeNumberInSeason": "7",
-          "airTime": "2:01",
-          "channel": "Paramount+"
-        }
-      ]
-    },
-    {
-      "date": "July 5, 2024",
-      "list": []
-    },
-    {
-      "date": "July 6, 2024",
-      "list": []
-    },
-    {
-      "date": "July 7, 2024",
-      "list": [
-        {
-          "showName": "The Great Food Truck Race",
-          "episodeName": "Games on the Gulf: Justin Time",
-          "seasonNumber": "17",
-          "episodeNumberInSeason": "2",
-          "airTime": "7:00",
-          "channel": "Food Network"
-        }
-      ]
-    },
-    {
-      "date": "July 8, 2024",
-      "list": []
-    },
-    {
-      "date": "July 9, 2024",
-      "list": [
-        {
-          "showName": "America's Got Talent",
-          "episodeName": "Auditions 6",
-          "seasonNumber": "19",
-          "episodeNumberInSeason": "6",
-          "airTime": "7:00",
-          "channel": "NBC"
-        }
-      ]
-    },
-    {
-      "date": "July 10, 2024",
-      "list": []
-    },
-    {
-      "date": "July 11, 2024",
-      "list": [
-        {
-          "showName": "Evil",
-          "episodeName": "TBA",
-          "seasonNumber": "4",
-          "episodeNumberInSeason": "8",
-          "airTime": "2:01",
-          "channel": "Paramount+"
-        }
-      ]
-    },
-    {
-      "date": "July 12, 2024",
-      "list": []
-    },
-    {
-      "date": "July 13, 2024",
-      "list": []
-    },
-    {
-      "date": "July 14, 2024",
-      "list": [
-        {
-          "showName": "The Great Food Truck Race",
-          "episodeName": "Games on the Gulf: Pirates' Booty",
-          "seasonNumber": "17",
-          "episodeNumberInSeason": "3",
-          "airTime": "7:00",
-          "channel": "Food Network"
-        }
-      ]
-    },
-    {
-      "date": "July 15, 2024",
-      "list": []
-    },
-    {
-      "date": "July 16, 2024",
-      "list": [
-        {
-          "showName": "America's Got Talent",
-          "episodeName": "Auditions 7",
-          "seasonNumber": "19",
-          "episodeNumberInSeason": "7",
-          "airTime": "7:00",
-          "channel": "NBC"
-        }
-      ]
-    },
-    {
-      "date": "July 17, 2024",
-      "list": [
-        {
-          "showName": "Big Brother",
-          "episodeName": "TBA",
-          "seasonNumber": "26",
-          "episodeNumberInSeason": "1",
-          "airTime": "8:00",
-          "channel": "CBS"
-        }
-      ]
-    },
-    {
-      "date": "July 18, 2024",
-      "list": [
-        {
-          "showName": "Evil",
-          "episodeName": "TBA",
-          "seasonNumber": "4",
-          "episodeNumberInSeason": "9",
-          "airTime": "2:01",
-          "channel": "Paramount+"
-        },
-        {
-          "showName": "Big Brother",
-          "episodeName": "TBA",
-          "seasonNumber": "26",
-          "episodeNumberInSeason": "2",
-          "airTime": "8:00",
-          "channel": "CBS"
-        }
-      ]
-    },
-    {
-      "date": "July 19, 2024",
-      "list": []
-    },
-    {
-      "date": "July 20, 2024",
-      "list": []
-    },
-    {
-      "date": "July 21, 2024",
-      "list": [
-        {
-          "showName": "The Great Food Truck Race",
-          "episodeName": "Games on the Gulf: Highway Robbery",
-          "seasonNumber": "17",
-          "episodeNumberInSeason": "4",
-          "airTime": "7:00",
-          "channel": "Food Network"
-        },
-        {
-          "showName": "Big Brother",
-          "episodeName": "TBA",
-          "seasonNumber": "26",
-          "episodeNumberInSeason": "3",
-          "airTime": "8:00",
-          "channel": "CBS"
-        }
-      ]
-    },
-    {
       "date": "July 22, 2024",
       "list": []
     },
@@ -233,10 +43,10 @@
         },
         {
           "showName": "Big Brother",
-          "episodeName": "TBA (?)",
+          "episodeName": "Episode 2605",
           "seasonNumber": "26",
-          "episodeNumberInSeason": "?",
-          "airTime": "8:00",
+          "episodeNumberInSeason": "5",
+          "airTime": "7:00",
           "channel": "CBS"
         }
       ]
@@ -262,10 +72,10 @@
         },
         {
           "showName": "Big Brother",
-          "episodeName": "TBA (?)",
+          "episodeName": "Episode 2606",
           "seasonNumber": "26",
-          "episodeNumberInSeason": "?",
-          "airTime": "8:00",
+          "episodeNumberInSeason": "6",
+          "airTime": "7:58",
           "channel": "CBS"
         }
       ]
@@ -283,13 +93,369 @@
       "list": [
         {
           "showName": "Big Brother",
-          "episodeName": "TBA",
+          "episodeName": "Episode 2607",
           "seasonNumber": "26",
-          "episodeNumberInSeason": "?",
+          "episodeNumberInSeason": "7",
+          "airTime": "7:00",
+          "channel": "CBS"
+        }
+      ]
+    },
+    {
+      "date": "August 1, 2024",
+      "list": [
+        {
+          "showName": "Evil",
+          "episodeName": "TBA",
+          "seasonNumber": "4",
+          "episodeNumberInSeason": "11",
+          "airTime": "2:01",
+          "channel": "Paramount+"
+        },
+        {
+          "showName": "Big Brother",
+          "episodeName": "Episode 2608",
+          "seasonNumber": "26",
+          "episodeNumberInSeason": "8",
+          "airTime": "7:00",
+          "channel": "CBS"
+        }
+      ]
+    },
+    {
+      "date": "August 2, 2024",
+      "list": []
+    },
+    {
+      "date": "August 3, 2024",
+      "list": []
+    },
+    {
+      "date": "August 4, 2024",
+      "list": [
+        {
+          "showName": "The Great Food Truck Race",
+          "episodeName": "Games on the Gulf: Mardi Gras Moola",
+          "seasonNumber": "17",
+          "episodeNumberInSeason": "6",
+          "airTime": "7:00",
+          "channel": "Food Network"
+        },
+        {
+          "showName": "Big Brother",
+          "episodeName": "Episode 2609",
+          "seasonNumber": "26",
+          "episodeNumberInSeason": "9",
           "airTime": "8:00",
           "channel": "CBS"
         }
       ]
+    },
+    {
+      "date": "August 5, 2024",
+      "list": []
+    },
+    {
+      "date": "August 6, 2024",
+      "list": []
+    },
+    {
+      "date": "August 7, 2024",
+      "list": [
+        {
+          "showName": "Big Brother",
+          "episodeName": "Episode 2610",
+          "seasonNumber": "26",
+          "episodeNumberInSeason": "10",
+          "airTime": "7:00",
+          "channel": "CBS"
+        }
+      ]
+    },
+    {
+      "date": "August 8, 2024",
+      "list": [
+        {
+          "showName": "Evil",
+          "episodeName": "TBA",
+          "seasonNumber": "4",
+          "episodeNumberInSeason": "12",
+          "airTime": "2:01",
+          "channel": "Paramount+"
+        },
+        {
+          "showName": "Big Brother",
+          "episodeName": "Episode 2611",
+          "seasonNumber": "26",
+          "episodeNumberInSeason": "11",
+          "airTime": "7:00",
+          "channel": "CBS"
+        }
+      ]
+    },
+    {
+      "date": "August 9, 2024",
+      "list": []
+    },
+    {
+      "date": "August 10, 2024",
+      "list": []
+    },
+    {
+      "date": "August 11, 2024",
+      "list": [
+        {
+          "showName": "The Great Food Truck Race",
+          "episodeName": "Games on the Gulf: Beach Battle Royale",
+          "seasonNumber": "17",
+          "episodeNumberInSeason": "7",
+          "airTime": "7:00",
+          "channel": "Food Network"
+        },
+        {
+          "showName": "Big Brother",
+          "episodeName": "Episode 2612",
+          "seasonNumber": "26",
+          "episodeNumberInSeason": "12",
+          "airTime": "8:00",
+          "channel": "CBS"
+        }
+      ]
+    },
+    {
+      "date": "August 12, 2024",
+      "list": []
+    },
+    {
+      "date": "August 13, 2024",
+      "list": [
+        {
+          "showName": "America's Got Talent",
+          "episodeName": "TBA",
+          "seasonNumber": "19",
+          "episodeNumberInSeason": "9",
+          "airTime": "7:00",
+          "channel": "NBC"
+        }
+      ]
+    },
+    {
+      "date": "August 14, 2024",
+      "list": [
+        {
+          "showName": "Big Brother",
+          "episodeName": "Episode 2613",
+          "seasonNumber": "26",
+          "episodeNumberInSeason": "13",
+          "airTime": "7:00",
+          "channel": "CBS"
+        },
+        {
+          "showName": "America's Got Talent",
+          "episodeName": "TBA",
+          "seasonNumber": "19",
+          "episodeNumberInSeason": "10",
+          "airTime": "7:00",
+          "channel": "NBC"
+        }
+      ]
+    },
+    {
+      "date": "August 15, 2024",
+      "list": [
+        {
+          "showName": "Evil",
+          "episodeName": "TBA",
+          "seasonNumber": "4",
+          "episodeNumberInSeason": "13",
+          "airTime": "2:01",
+          "channel": "Paramount+"
+        },
+        {
+          "showName": "Big Brother",
+          "episodeName": "Episode 2614",
+          "seasonNumber": "26",
+          "episodeNumberInSeason": "14",
+          "airTime": "7:00",
+          "channel": "CBS"
+        }
+      ]
+    },
+    {
+      "date": "August 16, 2024",
+      "list": []
+    },
+    {
+      "date": "August 17, 2024",
+      "list": []
+    },
+    {
+      "date": "August 18, 2024",
+      "list": [
+        {
+          "showName": "The Great Food Truck Race",
+          "episodeName": "Games on the Gulf: South Beach Showdown [Season Finale]",
+          "seasonNumber": "17",
+          "episodeNumberInSeason": "8",
+          "airTime": "7:00",
+          "channel": "Food Network"
+        },
+        {
+          "showName": "Big Brother",
+          "episodeName": "Episode 2615",
+          "seasonNumber": "26",
+          "episodeNumberInSeason": "15",
+          "airTime": "8:00",
+          "channel": "CBS"
+        }
+      ]
+    },
+    {
+      "date": "August 19, 2024",
+      "list": []
+    },
+    {
+      "date": "August 20, 2024",
+      "list": [
+        {
+          "showName": "America's Got Talent",
+          "episodeName": "TBA",
+          "seasonNumber": "19",
+          "episodeNumberInSeason": "11",
+          "airTime": "7:00",
+          "channel": "NBC"
+        }
+      ]
+    },
+    {
+      "date": "August 21, 2024",
+      "list": [
+        {
+          "showName": "Big Brother",
+          "episodeName": "TBA",
+          "seasonNumber": "26",
+          "episodeNumberInSeason": "16",
+          "airTime": "7:00",
+          "channel": "CBS"
+        },
+        {
+          "showName": "America's Got Talent",
+          "episodeName": "TBA",
+          "seasonNumber": "19",
+          "episodeNumberInSeason": "12",
+          "airTime": "7:00",
+          "channel": "NBC"
+        }
+      ]
+    },
+    {
+      "date": "August 22, 2024",
+      "list": [
+        {
+          "showName": "Evil",
+          "episodeName": "TBA [Series Finale]",
+          "seasonNumber": "4",
+          "episodeNumberInSeason": "14",
+          "airTime": "2:01",
+          "channel": "Paramount+"
+        },
+        {
+          "showName": "Big Brother",
+          "episodeName": "TBA",
+          "seasonNumber": "26",
+          "episodeNumberInSeason": "17",
+          "airTime": "7:00",
+          "channel": "CBS"
+        }
+      ]
+    },
+    {
+      "date": "August 23, 2024",
+      "list": []
+    },
+    {
+      "date": "August 24, 2024",
+      "list": []
+    },
+    {
+      "date": "August 25, 2024",
+      "list": [
+        {
+          "showName": "Big Brother",
+          "episodeName": "TBA",
+          "seasonNumber": "26",
+          "episodeNumberInSeason": "18",
+          "airTime": "8:30",
+          "channel": "CBS"
+        }
+      ]
+    },
+    {
+      "date": "August 26, 2024",
+      "list": []
+    },
+    {
+      "date": "August 27, 2024",
+      "list": [
+        {
+          "showName": "Only Murders in the Building",
+          "episodeName": "TBA",
+          "seasonNumber": "4",
+          "episodeNumberInSeason": "1",
+          "airTime": "11:01 PM (Monday)",
+          "channel": "Hulu"
+        },
+        {
+          "showName": "America's Got Talent",
+          "episodeName": "TBA",
+          "seasonNumber": "19",
+          "episodeNumberInSeason": "13",
+          "airTime": "7:00",
+          "channel": "NBC"
+        }
+      ]
+    },
+    {
+      "date": "August 28, 2024",
+      "list": [
+        {
+          "showName": "Big Brother",
+          "episodeName": "TBA [2 hours]",
+          "seasonNumber": "26",
+          "episodeNumberInSeason": "19",
+          "airTime": "7:00",
+          "channel": "CBS"
+        },
+        {
+          "showName": "America's Got Talent",
+          "episodeName": "TBA",
+          "seasonNumber": "19",
+          "episodeNumberInSeason": "14",
+          "airTime": "7:00",
+          "channel": "NBC"
+        }
+      ]
+    },
+    {
+      "date": "August 29, 2024",
+      "list": [
+        {
+          "showName": "Big Brother",
+          "episodeName": "TBA",
+          "seasonNumber": "26",
+          "episodeNumberInSeason": "20",
+          "airTime": "7:00",
+          "channel": "CBS"
+        }
+      ]
+    },
+    {
+      "date": "August 30, 2024",
+      "list": []
+    },
+    {
+      "date": "August 31, 2024",
+      "list": []
     }
   ]
 }
