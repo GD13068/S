@@ -148,7 +148,7 @@
           "seasonNumber": "21",
           "episodeNumberInSeason": "1 & S21 E2",
           "airTime": "7:00",
-          "channel": "The CW"
+          "channel": "The CW] [G"
         }
       ]
     },
@@ -165,6 +165,95 @@
           "seasonNumber": "26",
           "episodeNumberInSeason": "25",
           "airTime": "7:58",
+          "channel": "CBS"
+        }
+      ]
+    },
+    {
+      "date": "September 9, 2024",
+      "list": []
+    },
+    {
+      "date": "September 10, 2024",
+      "list": [
+        {
+          "showName": "Only Murders in the Building",
+          "episodeName": "Two for the Road",
+          "seasonNumber": "4",
+          "episodeNumberInSeason": "3",
+          "airTime": "11:01 PM (Monday)",
+          "channel": "Hulu] [G"
+        }
+      ]
+    },
+    {
+      "date": "September 11, 2024",
+      "list": [
+        {
+          "showName": "Big Brother",
+          "episodeName": "Episode 2626",
+          "seasonNumber": "26",
+          "episodeNumberInSeason": "26",
+          "airTime": "7:00",
+          "channel": "CBS"
+        },
+        {
+          "showName": "America's Got Talent",
+          "episodeName": "Semifinals",
+          "seasonNumber": "19",
+          "episodeNumberInSeason": "17",
+          "airTime": "7:00",
+          "channel": "NBC"
+        }
+      ]
+    },
+    {
+      "date": "September 12, 2024",
+      "list": [
+        {
+          "showName": "Big Brother",
+          "episodeName": "Episode 2627",
+          "seasonNumber": "26",
+          "episodeNumberInSeason": "27",
+          "airTime": "7:00",
+          "channel": "CBS"
+        },
+        {
+          "showName": "America's Got Talent",
+          "episodeName": "Semifinals Results",
+          "seasonNumber": "19",
+          "episodeNumberInSeason": "18",
+          "airTime": "7:00",
+          "channel": "NBC"
+        }
+      ]
+    },
+    {
+      "date": "September 13, 2024",
+      "list": [
+        {
+          "showName": "Whose Line Is It Anyway?",
+          "episodeName": "Alyson Hannigan 2\" & \"Mark Ballas 2",
+          "seasonNumber": "21",
+          "episodeNumberInSeason": "3 & S21 E4",
+          "airTime": "7:00",
+          "channel": "The CW] [G"
+        }
+      ]
+    },
+    {
+      "date": "September 14, 2024",
+      "list": []
+    },
+    {
+      "date": "September 15, 2024",
+      "list": [
+        {
+          "showName": "Big Brother",
+          "episodeName": "Episode 2628",
+          "seasonNumber": "26",
+          "episodeNumberInSeason": "28",
+          "airTime": "8:30",
           "channel": "CBS"
         }
       ]
