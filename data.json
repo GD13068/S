@@ -1,179 +1,6 @@
 {
   "data": [
     {
-      "date": "August 26, 2024",
-      "list": []
-    },
-    {
-      "date": "August 27, 2024",
-      "list": [
-        {
-          "showName": "Only Murders in the Building",
-          "episodeName": "TBA",
-          "seasonNumber": "4",
-          "episodeNumberInSeason": "1",
-          "airTime": "11:01 PM (Monday)",
-          "channel": "Hulu"
-        },
-        {
-          "showName": "America's Got Talent",
-          "episodeName": "TBA",
-          "seasonNumber": "19",
-          "episodeNumberInSeason": "13",
-          "airTime": "7:00",
-          "channel": "NBC"
-        }
-      ]
-    },
-    {
-      "date": "August 28, 2024",
-      "list": [
-        {
-          "showName": "Big Brother",
-          "episodeName": "TBA [2 hours]",
-          "seasonNumber": "26",
-          "episodeNumberInSeason": "19",
-          "airTime": "7:00",
-          "channel": "CBS"
-        },
-        {
-          "showName": "America's Got Talent",
-          "episodeName": "TBA",
-          "seasonNumber": "19",
-          "episodeNumberInSeason": "14",
-          "airTime": "7:00",
-          "channel": "NBC"
-        }
-      ]
-    },
-    {
-      "date": "August 29, 2024",
-      "list": [
-        {
-          "showName": "Big Brother",
-          "episodeName": "TBA",
-          "seasonNumber": "26",
-          "episodeNumberInSeason": "20",
-          "airTime": "7:00",
-          "channel": "CBS"
-        }
-      ]
-    },
-    {
-      "date": "August 30, 2024",
-      "list": []
-    },
-    {
-      "date": "August 31, 2024",
-      "list": []
-    },
-    {
-      "date": "September 1, 2024",
-      "list": [
-        {
-          "showName": "Big Brother",
-          "episodeName": "Episode 2622",
-          "seasonNumber": "26",
-          "episodeNumberInSeason": "22",
-          "airTime": "7:58",
-          "channel": "CBS"
-        }
-      ]
-    },
-    {
-      "date": "September 2, 2024",
-      "list": []
-    },
-    {
-      "date": "September 3, 2024",
-      "list": [
-        {
-          "showName": "Only Murders in the Building",
-          "episodeName": "Gates of Heaven",
-          "seasonNumber": "4",
-          "episodeNumberInSeason": "2",
-          "airTime": "11:01 PM (Monday)",
-          "channel": "Hulu] [G"
-        },
-        {
-          "showName": "America's Got Talent",
-          "episodeName": "Quarterfinals 4",
-          "seasonNumber": "19",
-          "episodeNumberInSeason": "15",
-          "airTime": "7:00",
-          "channel": "NBC"
-        }
-      ]
-    },
-    {
-      "date": "September 4, 2024",
-      "list": [
-        {
-          "showName": "Big Brother",
-          "episodeName": "Episode 2623",
-          "seasonNumber": "26",
-          "episodeNumberInSeason": "23",
-          "airTime": "7:00",
-          "channel": "CBS"
-        },
-        {
-          "showName": "America's Got Talent",
-          "episodeName": "Quarterfinals 4 Results",
-          "seasonNumber": "19",
-          "episodeNumberInSeason": "16",
-          "airTime": "7:00",
-          "channel": "NBC"
-        }
-      ]
-    },
-    {
-      "date": "September 5, 2024",
-      "list": [
-        {
-          "showName": "Big Brother",
-          "episodeName": "Episode 2624",
-          "seasonNumber": "26",
-          "episodeNumberInSeason": "24",
-          "airTime": "7:00",
-          "channel": "CBS"
-        }
-      ]
-    },
-    {
-      "date": "September 6, 2024",
-      "list": [
-        {
-          "showName": "Whose Line Is It Anyway?",
-          "episodeName": "Jordin Sparks 2\" & \"Tiffany Haddish 2",
-          "seasonNumber": "21",
-          "episodeNumberInSeason": "1 & S21 E2",
-          "airTime": "7:00",
-          "channel": "The CW] [G"
-        }
-      ]
-    },
-    {
-      "date": "September 7, 2024",
-      "list": []
-    },
-    {
-      "date": "September 8, 2024",
-      "list": [
-        {
-          "showName": "Big Brother",
-          "episodeName": "Episode 2625",
-          "seasonNumber": "26",
-          "episodeNumberInSeason": "25",
-          "airTime": "7:58",
-          "channel": "CBS"
-        }
-      ]
-    },
-    {
-      "date": "September 9, 2024",
-      "list": []
-    },
-    {
       "date": "September 10, 2024",
       "list": [
         {
@@ -254,6 +81,102 @@
           "seasonNumber": "26",
           "episodeNumberInSeason": "28",
           "airTime": "8:30",
+          "channel": "CBS"
+        }
+      ]
+    },
+    {
+      "date": "September 16, 2024",
+      "list": []
+    },
+    {
+      "date": "September 17, 2024",
+      "list": [
+        {
+          "showName": "Only Murders in the Building",
+          "episodeName": "The Stunt Man",
+          "seasonNumber": "4",
+          "episodeNumberInSeason": "4",
+          "airTime": "11:01 PM (Monday)",
+          "channel": "Hulu] [G"
+        },
+        {
+          "showName": "America's Got Talent",
+          "episodeName": "Final Performances",
+          "seasonNumber": "19",
+          "episodeNumberInSeason": "20",
+          "airTime": "7:00",
+          "channel": "NBC"
+        }
+      ]
+    },
+    {
+      "date": "September 18, 2024",
+      "list": [
+        {
+          "showName": "Big Brother",
+          "episodeName": "Episode 2629",
+          "seasonNumber": "26",
+          "episodeNumberInSeason": "29",
+          "airTime": "8:59",
+          "channel": "CBS"
+        }
+      ]
+    },
+    {
+      "date": "September 19, 2024",
+      "list": [
+        {
+          "showName": "Frasier",
+          "episodeName": "Ham\" & \"The Dedication",
+          "seasonNumber": "2",
+          "episodeNumberInSeason": "1 & S2 E2",
+          "airTime": "2:01",
+          "channel": "Paramount+"
+        },
+        {
+          "showName": "All Creatures Great and Small",
+          "episodeName": "To All Our Boys",
+          "seasonNumber": "5",
+          "episodeNumberInSeason": "1",
+          "airTime": "3:00",
+          "channel": "Channel 5] [G"
+        },
+        {
+          "showName": "Big Brother",
+          "episodeName": "Episode 2630",
+          "seasonNumber": "26",
+          "episodeNumberInSeason": "30",
+          "airTime": "7:00",
+          "channel": "CBS"
+        }
+      ]
+    },
+    {
+      "date": "September 20, 2024",
+      "list": []
+    },
+    {
+      "date": "September 21, 2024",
+      "list": []
+    },
+    {
+      "date": "September 22, 2024",
+      "list": [
+        {
+          "showName": "Matlock",
+          "episodeName": "Pilot",
+          "seasonNumber": "1",
+          "episodeNumberInSeason": "1",
+          "airTime": "7:00",
+          "channel": "CBS"
+        },
+        {
+          "showName": "Big Brother",
+          "episodeName": "Episode 2631",
+          "seasonNumber": "26",
+          "episodeNumberInSeason": "31",
+          "airTime": "8:00",
           "channel": "CBS"
         }
       ]
