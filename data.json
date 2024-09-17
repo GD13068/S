@@ -104,7 +104,7 @@
           "showName": "America's Got Talent",
           "episodeName": "Final Performances",
           "seasonNumber": "19",
-          "episodeNumberInSeason": "20",
+          "episodeNumberInSeason": "19",
           "airTime": "7:00",
           "channel": "NBC"
         }
@@ -128,7 +128,7 @@
       "list": [
         {
           "showName": "Frasier",
-          "episodeName": "Ham\" & \"The Dedication",
+          "episodeName": "Ham\" & \"Cyrano, Cyrano",
           "seasonNumber": "2",
           "episodeNumberInSeason": "1 & S2 E2",
           "airTime": "2:01",
@@ -177,6 +177,137 @@
           "seasonNumber": "26",
           "episodeNumberInSeason": "31",
           "airTime": "8:00",
+          "channel": "CBS"
+        }
+      ]
+    },
+    {
+      "date": "September 23, 2024",
+      "list": [
+        {
+          "showName": "Brilliant Minds",
+          "episodeName": "Pilot",
+          "seasonNumber": "1",
+          "episodeNumberInSeason": "1",
+          "airTime": "9:00",
+          "channel": "NBC"
+        }
+      ]
+    },
+    {
+      "date": "September 24, 2024",
+      "list": [
+        {
+          "showName": "Only Murders in the Building",
+          "episodeName": "Adaptation",
+          "seasonNumber": "4",
+          "episodeNumberInSeason": "5",
+          "airTime": "11:01 PM (Monday)",
+          "channel": "Hulu] [G"
+        },
+        {
+          "showName": "America's Got Talent",
+          "episodeName": "Finale Results (Recap Special @ 7:00)",
+          "seasonNumber": "19",
+          "episodeNumberInSeason": "21",
+          "airTime": "8:00",
+          "channel": "NBC"
+        }
+      ]
+    },
+    {
+      "date": "September 25, 2024",
+      "list": [
+        {
+          "showName": "Chicago Med",
+          "episodeName": "Sink or Swim",
+          "seasonNumber": "10",
+          "episodeNumberInSeason": "1",
+          "airTime": "7:00",
+          "channel": "NBC"
+        },
+        {
+          "showName": "Big Brother",
+          "episodeName": "Episode 2632",
+          "seasonNumber": "26",
+          "episodeNumberInSeason": "32",
+          "airTime": "8:29",
+          "channel": "CBS"
+        }
+      ]
+    },
+    {
+      "date": "September 26, 2024",
+      "list": [
+        {
+          "showName": "Frasier",
+          "episodeName": "All About Eve",
+          "seasonNumber": "2",
+          "episodeNumberInSeason": "3",
+          "airTime": "2:01",
+          "channel": "Paramount+"
+        },
+        {
+          "showName": "Colin from Accounts",
+          "episodeName": "Season 2",
+          "seasonNumber": "2",
+          "episodeNumberInSeason": "1-8",
+          "airTime": "2:01",
+          "channel": "Paramount+"
+        },
+        {
+          "showName": "All Creatures Great and Small",
+          "episodeName": "Holding the Baby",
+          "seasonNumber": "5",
+          "episodeNumberInSeason": "2",
+          "airTime": "3:00",
+          "channel": "Channel 5] [G"
+        },
+        {
+          "showName": "Big Brother",
+          "episodeName": "Episode 2633",
+          "seasonNumber": "26",
+          "episodeNumberInSeason": "33",
+          "airTime": "7:00",
+          "channel": "CBS"
+        }
+      ]
+    },
+    {
+      "date": "September 27, 2024",
+      "list": [
+        {
+          "showName": "Whose Line Is It Anyway?",
+          "episodeName": "Chris Jackson 2\" & \"Greg Proops 11",
+          "seasonNumber": "21",
+          "episodeNumberInSeason": "5 & S21 E6",
+          "airTime": "7:00",
+          "channel": "The CW] [G"
+        }
+      ]
+    },
+    {
+      "date": "September 28, 2024",
+      "list": [
+        {
+          "showName": "Saturday Night Live",
+          "episodeName": "Season Premiere",
+          "seasonNumber": "50",
+          "episodeNumberInSeason": "1",
+          "airTime": "10:29",
+          "channel": "NBC] [G"
+        }
+      ]
+    },
+    {
+      "date": "September 29, 2024",
+      "list": [
+        {
+          "showName": "Big Brother",
+          "episodeName": "Episode 2634",
+          "seasonNumber": "26",
+          "episodeNumberInSeason": "34",
+          "airTime": "9:30",
           "channel": "CBS"
         }
       ]
