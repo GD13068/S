@@ -1,187 +1,6 @@
 {
   "data": [
     {
-      "date": "September 10, 2024",
-      "list": [
-        {
-          "showName": "Only Murders in the Building",
-          "episodeName": "Two for the Road",
-          "seasonNumber": "4",
-          "episodeNumberInSeason": "3",
-          "airTime": "11:01 PM (Monday)",
-          "channel": "Hulu] [G"
-        }
-      ]
-    },
-    {
-      "date": "September 11, 2024",
-      "list": [
-        {
-          "showName": "Big Brother",
-          "episodeName": "Episode 2626",
-          "seasonNumber": "26",
-          "episodeNumberInSeason": "26",
-          "airTime": "7:00",
-          "channel": "CBS"
-        },
-        {
-          "showName": "America's Got Talent",
-          "episodeName": "Semifinals",
-          "seasonNumber": "19",
-          "episodeNumberInSeason": "17",
-          "airTime": "7:00",
-          "channel": "NBC"
-        }
-      ]
-    },
-    {
-      "date": "September 12, 2024",
-      "list": [
-        {
-          "showName": "Big Brother",
-          "episodeName": "Episode 2627",
-          "seasonNumber": "26",
-          "episodeNumberInSeason": "27",
-          "airTime": "7:00",
-          "channel": "CBS"
-        },
-        {
-          "showName": "America's Got Talent",
-          "episodeName": "Semifinals Results",
-          "seasonNumber": "19",
-          "episodeNumberInSeason": "18",
-          "airTime": "7:00",
-          "channel": "NBC"
-        }
-      ]
-    },
-    {
-      "date": "September 13, 2024",
-      "list": [
-        {
-          "showName": "Whose Line Is It Anyway?",
-          "episodeName": "Alyson Hannigan 2\" & \"Mark Ballas 2",
-          "seasonNumber": "21",
-          "episodeNumberInSeason": "3 & S21 E4",
-          "airTime": "7:00",
-          "channel": "The CW] [G"
-        }
-      ]
-    },
-    {
-      "date": "September 14, 2024",
-      "list": []
-    },
-    {
-      "date": "September 15, 2024",
-      "list": [
-        {
-          "showName": "Big Brother",
-          "episodeName": "Episode 2628",
-          "seasonNumber": "26",
-          "episodeNumberInSeason": "28",
-          "airTime": "8:30",
-          "channel": "CBS"
-        }
-      ]
-    },
-    {
-      "date": "September 16, 2024",
-      "list": []
-    },
-    {
-      "date": "September 17, 2024",
-      "list": [
-        {
-          "showName": "Only Murders in the Building",
-          "episodeName": "The Stunt Man",
-          "seasonNumber": "4",
-          "episodeNumberInSeason": "4",
-          "airTime": "11:01 PM (Monday)",
-          "channel": "Hulu] [G"
-        },
-        {
-          "showName": "America's Got Talent",
-          "episodeName": "Final Performances",
-          "seasonNumber": "19",
-          "episodeNumberInSeason": "19",
-          "airTime": "7:00",
-          "channel": "NBC"
-        }
-      ]
-    },
-    {
-      "date": "September 18, 2024",
-      "list": [
-        {
-          "showName": "Big Brother",
-          "episodeName": "Episode 2629",
-          "seasonNumber": "26",
-          "episodeNumberInSeason": "29",
-          "airTime": "8:59",
-          "channel": "CBS"
-        }
-      ]
-    },
-    {
-      "date": "September 19, 2024",
-      "list": [
-        {
-          "showName": "Frasier",
-          "episodeName": "Ham\" & \"Cyrano, Cyrano",
-          "seasonNumber": "2",
-          "episodeNumberInSeason": "1 & S2 E2",
-          "airTime": "2:01",
-          "channel": "Paramount+"
-        },
-        {
-          "showName": "All Creatures Great and Small",
-          "episodeName": "To All Our Boys",
-          "seasonNumber": "5",
-          "episodeNumberInSeason": "1",
-          "airTime": "3:00",
-          "channel": "Channel 5] [G"
-        },
-        {
-          "showName": "Big Brother",
-          "episodeName": "Episode 2630",
-          "seasonNumber": "26",
-          "episodeNumberInSeason": "30",
-          "airTime": "7:00",
-          "channel": "CBS"
-        }
-      ]
-    },
-    {
-      "date": "September 20, 2024",
-      "list": []
-    },
-    {
-      "date": "September 21, 2024",
-      "list": []
-    },
-    {
-      "date": "September 22, 2024",
-      "list": [
-        {
-          "showName": "Matlock",
-          "episodeName": "Pilot",
-          "seasonNumber": "1",
-          "episodeNumberInSeason": "1",
-          "airTime": "7:00",
-          "channel": "CBS"
-        },
-        {
-          "showName": "Big Brother",
-          "episodeName": "Episode 2631",
-          "seasonNumber": "26",
-          "episodeNumberInSeason": "31",
-          "airTime": "8:00",
-          "channel": "CBS"
-        }
-      ]
-    },
-    {
       "date": "September 23, 2024",
       "list": [
         {
@@ -291,7 +110,7 @@
       "list": [
         {
           "showName": "Saturday Night Live",
-          "episodeName": "Season Premiere",
+          "episodeName": "Jean Smart / Jelly Roll",
           "seasonNumber": "50",
           "episodeNumberInSeason": "1",
           "airTime": "10:29",
@@ -308,6 +127,113 @@
           "seasonNumber": "26",
           "episodeNumberInSeason": "34",
           "airTime": "9:30",
+          "channel": "CBS"
+        }
+      ]
+    },
+    {
+      "date": "September 30, 2024",
+      "list": [
+        {
+          "showName": "Brilliant Minds",
+          "episodeName": "The Disembodied Woman",
+          "seasonNumber": "1",
+          "episodeNumberInSeason": "2",
+          "airTime": "9:00",
+          "channel": "NBC"
+        }
+      ]
+    },
+    {
+      "date": "October 1, 2024",
+      "list": [
+        {
+          "showName": "Only Murders in the Building",
+          "episodeName": "Blow-up",
+          "seasonNumber": "4",
+          "episodeNumberInSeason": "6",
+          "airTime": "11:01 PM (Monday)",
+          "channel": "Hulu] [G"
+        }
+      ]
+    },
+    {
+      "date": "October 2, 2024",
+      "list": [
+        {
+          "showName": "Chicago Med",
+          "episodeName": "Bite Your Tongue",
+          "seasonNumber": "10",
+          "episodeNumberInSeason": "2",
+          "airTime": "7:00",
+          "channel": "NBC"
+        }
+      ]
+    },
+    {
+      "date": "October 3, 2024",
+      "list": [
+        {
+          "showName": "Frasier",
+          "episodeName": "The Dedication",
+          "seasonNumber": "2",
+          "episodeNumberInSeason": "4",
+          "airTime": "2:01",
+          "channel": "Paramount+"
+        },
+        {
+          "showName": "All Creatures Great and Small",
+          "episodeName": "Homecoming",
+          "seasonNumber": "5",
+          "episodeNumberInSeason": "3",
+          "airTime": "3:00",
+          "channel": "Channel 5] [G"
+        },
+        {
+          "showName": "Big Brother",
+          "episodeName": "Episode 2635 [2 hours]",
+          "seasonNumber": "26",
+          "episodeNumberInSeason": "35",
+          "airTime": "7:00",
+          "channel": "CBS"
+        }
+      ]
+    },
+    {
+      "date": "October 4, 2024",
+      "list": [
+        {
+          "showName": "Whose Line Is It Anyway?",
+          "episodeName": "Jeff Davis 19\" & \"Misty May-Treanor 2",
+          "seasonNumber": "21",
+          "episodeNumberInSeason": "7 & S21 E8",
+          "airTime": "7:00",
+          "channel": "The CW] [G"
+        }
+      ]
+    },
+    {
+      "date": "October 5, 2024",
+      "list": [
+        {
+          "showName": "Saturday Night Live",
+          "episodeName": "Nate Bargatze / Coldplay",
+          "seasonNumber": "50",
+          "episodeNumberInSeason": "2",
+          "airTime": "10:29",
+          "channel": "NBC] [G"
+        }
+      ]
+    },
+    {
+      "date": "October 6, 2024",
+      "list": [
+        {
+          "showName": "Big Brother",
+          "episodeName": "Episode 2636",
+          "seasonNumber": "26",
+          "episodeNumberInSeason": "36",
+          "airTime": "9:00",
           "channel": "CBS"
         }
       ]
