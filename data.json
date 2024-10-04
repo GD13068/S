@@ -1,137 +1,6 @@
 {
   "data": [
     {
-      "date": "September 23, 2024",
-      "list": [
-        {
-          "showName": "Brilliant Minds",
-          "episodeName": "Pilot",
-          "seasonNumber": "1",
-          "episodeNumberInSeason": "1",
-          "airTime": "9:00",
-          "channel": "NBC"
-        }
-      ]
-    },
-    {
-      "date": "September 24, 2024",
-      "list": [
-        {
-          "showName": "Only Murders in the Building",
-          "episodeName": "Adaptation",
-          "seasonNumber": "4",
-          "episodeNumberInSeason": "5",
-          "airTime": "11:01 PM (Monday)",
-          "channel": "Hulu] [G"
-        },
-        {
-          "showName": "America's Got Talent",
-          "episodeName": "Finale Results (Recap Special @ 7:00)",
-          "seasonNumber": "19",
-          "episodeNumberInSeason": "21",
-          "airTime": "8:00",
-          "channel": "NBC"
-        }
-      ]
-    },
-    {
-      "date": "September 25, 2024",
-      "list": [
-        {
-          "showName": "Chicago Med",
-          "episodeName": "Sink or Swim",
-          "seasonNumber": "10",
-          "episodeNumberInSeason": "1",
-          "airTime": "7:00",
-          "channel": "NBC"
-        },
-        {
-          "showName": "Big Brother",
-          "episodeName": "Episode 2632",
-          "seasonNumber": "26",
-          "episodeNumberInSeason": "32",
-          "airTime": "8:29",
-          "channel": "CBS"
-        }
-      ]
-    },
-    {
-      "date": "September 26, 2024",
-      "list": [
-        {
-          "showName": "Frasier",
-          "episodeName": "All About Eve",
-          "seasonNumber": "2",
-          "episodeNumberInSeason": "3",
-          "airTime": "2:01",
-          "channel": "Paramount+"
-        },
-        {
-          "showName": "Colin from Accounts",
-          "episodeName": "Season 2",
-          "seasonNumber": "2",
-          "episodeNumberInSeason": "1-8",
-          "airTime": "2:01",
-          "channel": "Paramount+"
-        },
-        {
-          "showName": "All Creatures Great and Small",
-          "episodeName": "Holding the Baby",
-          "seasonNumber": "5",
-          "episodeNumberInSeason": "2",
-          "airTime": "3:00",
-          "channel": "Channel 5] [G"
-        },
-        {
-          "showName": "Big Brother",
-          "episodeName": "Episode 2633",
-          "seasonNumber": "26",
-          "episodeNumberInSeason": "33",
-          "airTime": "7:00",
-          "channel": "CBS"
-        }
-      ]
-    },
-    {
-      "date": "September 27, 2024",
-      "list": [
-        {
-          "showName": "Whose Line Is It Anyway?",
-          "episodeName": "Chris Jackson 2\" & \"Greg Proops 11",
-          "seasonNumber": "21",
-          "episodeNumberInSeason": "5 & S21 E6",
-          "airTime": "7:00",
-          "channel": "The CW] [G"
-        }
-      ]
-    },
-    {
-      "date": "September 28, 2024",
-      "list": [
-        {
-          "showName": "Saturday Night Live",
-          "episodeName": "Jean Smart / Jelly Roll",
-          "seasonNumber": "50",
-          "episodeNumberInSeason": "1",
-          "airTime": "10:29",
-          "channel": "NBC] [G"
-        }
-      ]
-    },
-    {
-      "date": "September 29, 2024",
-      "list": [
-        {
-          "showName": "Big Brother",
-          "episodeName": "Episode 2634",
-          "seasonNumber": "26",
-          "episodeNumberInSeason": "34",
-          "airTime": "9:30",
-          "channel": "CBS"
-        }
-      ]
-    },
-    {
       "date": "September 30, 2024",
       "list": [
         {
@@ -234,6 +103,129 @@
           "seasonNumber": "26",
           "episodeNumberInSeason": "36",
           "airTime": "9:00",
+          "channel": "CBS"
+        }
+      ]
+    },
+    {
+      "date": "October 7, 2024",
+      "list": [
+        {
+          "showName": "Brilliant Minds",
+          "episodeName": "The Lost Biker",
+          "seasonNumber": "1",
+          "episodeNumberInSeason": "3",
+          "airTime": "9:00",
+          "channel": "NBC"
+        }
+      ]
+    },
+    {
+      "date": "October 8, 2024",
+      "list": [
+        {
+          "showName": "Only Murders in the Building",
+          "episodeName": "Valley of the Dolls",
+          "seasonNumber": "4",
+          "episodeNumberInSeason": "7",
+          "airTime": "11:01 PM (Monday)",
+          "channel": "Hulu] [G"
+        }
+      ]
+    },
+    {
+      "date": "October 9, 2024",
+      "list": [
+        {
+          "showName": "Chicago Med",
+          "episodeName": "Trust Fall",
+          "seasonNumber": "10",
+          "episodeNumberInSeason": "3",
+          "airTime": "7:00",
+          "channel": "NBC"
+        },
+        {
+          "showName": "Abbott Elementary",
+          "episodeName": "Back to School",
+          "seasonNumber": "4",
+          "episodeNumberInSeason": "1",
+          "airTime": "8:30",
+          "channel": "ABC"
+        }
+      ]
+    },
+    {
+      "date": "October 10, 2024",
+      "list": [
+        {
+          "showName": "Frasier",
+          "episodeName": "The Squash Courtship of Freddy's Father",
+          "seasonNumber": "2",
+          "episodeNumberInSeason": "5",
+          "airTime": "2:01",
+          "channel": "Paramount+"
+        },
+        {
+          "showName": "All Creatures Great and Small",
+          "episodeName": "Uninvited Guests",
+          "seasonNumber": "5",
+          "episodeNumberInSeason": "4",
+          "airTime": "3:00",
+          "channel": "Channel 5] [G"
+        },
+        {
+          "showName": "Big Brother",
+          "episodeName": "Episode 2637",
+          "seasonNumber": "26",
+          "episodeNumberInSeason": "37",
+          "airTime": "7:00",
+          "channel": "CBS"
+        }
+      ]
+    },
+    {
+      "date": "October 11, 2024",
+      "list": [
+        {
+          "showName": "Big Brother",
+          "episodeName": "Episode 2638",
+          "seasonNumber": "26",
+          "episodeNumberInSeason": "38",
+          "airTime": "7:00",
+          "channel": "CBS"
+        },
+        {
+          "showName": "Whose Line Is It Anyway?",
+          "episodeName": "Heather Anne Campbell 6\" & \"Chris Lee 2",
+          "seasonNumber": "21",
+          "episodeNumberInSeason": "9 & S21 E10",
+          "airTime": "7:00",
+          "channel": "The CW] [G"
+        }
+      ]
+    },
+    {
+      "date": "October 12, 2024",
+      "list": [
+        {
+          "showName": "Saturday Night Live",
+          "episodeName": "Ariana Grande / Stevie Nicks",
+          "seasonNumber": "50",
+          "episodeNumberInSeason": "3",
+          "airTime": "10:29",
+          "channel": "NBC] [G"
+        }
+      ]
+    },
+    {
+      "date": "October 13, 2024",
+      "list": [
+        {
+          "showName": "Big Brother",
+          "episodeName": "Episode 2639 [2 hours; season finale]",
+          "seasonNumber": "26",
+          "episodeNumberInSeason": "39",
+          "airTime": "8:00",
           "channel": "CBS"
         }
       ]
