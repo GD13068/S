@@ -1,113 +1,6 @@
 {
   "data": [
     {
-      "date": "September 30, 2024",
-      "list": [
-        {
-          "showName": "Brilliant Minds",
-          "episodeName": "The Disembodied Woman",
-          "seasonNumber": "1",
-          "episodeNumberInSeason": "2",
-          "airTime": "9:00",
-          "channel": "NBC"
-        }
-      ]
-    },
-    {
-      "date": "October 1, 2024",
-      "list": [
-        {
-          "showName": "Only Murders in the Building",
-          "episodeName": "Blow-up",
-          "seasonNumber": "4",
-          "episodeNumberInSeason": "6",
-          "airTime": "11:01 PM (Monday)",
-          "channel": "Hulu] [G"
-        }
-      ]
-    },
-    {
-      "date": "October 2, 2024",
-      "list": [
-        {
-          "showName": "Chicago Med",
-          "episodeName": "Bite Your Tongue",
-          "seasonNumber": "10",
-          "episodeNumberInSeason": "2",
-          "airTime": "7:00",
-          "channel": "NBC"
-        }
-      ]
-    },
-    {
-      "date": "October 3, 2024",
-      "list": [
-        {
-          "showName": "Frasier",
-          "episodeName": "The Dedication",
-          "seasonNumber": "2",
-          "episodeNumberInSeason": "4",
-          "airTime": "2:01",
-          "channel": "Paramount+"
-        },
-        {
-          "showName": "All Creatures Great and Small",
-          "episodeName": "Homecoming",
-          "seasonNumber": "5",
-          "episodeNumberInSeason": "3",
-          "airTime": "3:00",
-          "channel": "Channel 5] [G"
-        },
-        {
-          "showName": "Big Brother",
-          "episodeName": "Episode 2635 [2 hours]",
-          "seasonNumber": "26",
-          "episodeNumberInSeason": "35",
-          "airTime": "7:00",
-          "channel": "CBS"
-        }
-      ]
-    },
-    {
-      "date": "October 4, 2024",
-      "list": [
-        {
-          "showName": "Whose Line Is It Anyway?",
-          "episodeName": "Jeff Davis 19\" & \"Misty May-Treanor 2",
-          "seasonNumber": "21",
-          "episodeNumberInSeason": "7 & S21 E8",
-          "airTime": "7:00",
-          "channel": "The CW] [G"
-        }
-      ]
-    },
-    {
-      "date": "October 5, 2024",
-      "list": [
-        {
-          "showName": "Saturday Night Live",
-          "episodeName": "Nate Bargatze / Coldplay",
-          "seasonNumber": "50",
-          "episodeNumberInSeason": "2",
-          "airTime": "10:29",
-          "channel": "NBC] [G"
-        }
-      ]
-    },
-    {
-      "date": "October 6, 2024",
-      "list": [
-        {
-          "showName": "Big Brother",
-          "episodeName": "Episode 2636",
-          "seasonNumber": "26",
-          "episodeNumberInSeason": "36",
-          "airTime": "9:00",
-          "channel": "CBS"
-        }
-      ]
-    },
-    {
       "date": "October 7, 2024",
       "list": [
         {
@@ -229,6 +122,120 @@
           "channel": "CBS"
         }
       ]
+    },
+    {
+      "date": "October 14, 2024",
+      "list": [
+        {
+          "showName": "Brilliant Minds",
+          "episodeName": "The Killer Bride",
+          "seasonNumber": "1",
+          "episodeNumberInSeason": "4",
+          "airTime": "9:00",
+          "channel": "NBC"
+        }
+      ]
+    },
+    {
+      "date": "October 15, 2024",
+      "list": [
+        {
+          "showName": "Only Murders in the Building",
+          "episodeName": "Lifeboat",
+          "seasonNumber": "4",
+          "episodeNumberInSeason": "8",
+          "airTime": "11:01 PM (Monday)",
+          "channel": "Hulu] [G"
+        }
+      ]
+    },
+    {
+      "date": "October 16, 2024",
+      "list": [
+        {
+          "showName": "Chicago Med",
+          "episodeName": "Blurred Lines",
+          "seasonNumber": "10",
+          "episodeNumberInSeason": "4",
+          "airTime": "7:00",
+          "channel": "NBC"
+        },
+        {
+          "showName": "Abbott Elementary",
+          "episodeName": "Ringworm",
+          "seasonNumber": "4",
+          "episodeNumberInSeason": "2",
+          "airTime": "8:30",
+          "channel": "ABC"
+        }
+      ]
+    },
+    {
+      "date": "October 17, 2024",
+      "list": [
+        {
+          "showName": "Frasier",
+          "episodeName": "Cape Cod",
+          "seasonNumber": "2",
+          "episodeNumberInSeason": "6",
+          "airTime": "2:01",
+          "channel": "Paramount+"
+        },
+        {
+          "showName": "All Creatures Great and Small",
+          "episodeName": "Pair Bond",
+          "seasonNumber": "5",
+          "episodeNumberInSeason": "5",
+          "airTime": "3:00",
+          "channel": "Channel 5] [G"
+        },
+        {
+          "showName": "Georgie & Mandy's First Marriage",
+          "episodeName": "The 6:10 to Lubbock",
+          "seasonNumber": "1",
+          "episodeNumberInSeason": "1",
+          "airTime": "7:00",
+          "channel": "CBS"
+        },
+        {
+          "showName": "Matlock",
+          "episodeName": "Rome, in a Day",
+          "seasonNumber": "1",
+          "episodeNumberInSeason": "2",
+          "airTime": "8:01",
+          "channel": "CBS"
+        }
+      ]
+    },
+    {
+      "date": "October 18, 2024",
+      "list": [
+        {
+          "showName": "Whose Line Is It Anyway?",
+          "episodeName": "Brad Sherwood 7\" & \"Tiffany Coyne 2",
+          "seasonNumber": "21",
+          "episodeNumberInSeason": "11 & S21 E12",
+          "airTime": "7:00",
+          "channel": "The CW] [G"
+        }
+      ]
+    },
+    {
+      "date": "October 19, 2024",
+      "list": [
+        {
+          "showName": "Saturday Night Live",
+          "episodeName": "Michael Keaton / Billie Eilish",
+          "seasonNumber": "50",
+          "episodeNumberInSeason": "4",
+          "airTime": "10:29",
+          "channel": "NBC] [G"
+        }
+      ]
+    },
+    {
+      "date": "October 20, 2024",
+      "list": []
     }
   ]
 }
