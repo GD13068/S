@@ -1,129 +1,6 @@
 {
   "data": [
     {
-      "date": "October 7, 2024",
-      "list": [
-        {
-          "showName": "Brilliant Minds",
-          "episodeName": "The Lost Biker",
-          "seasonNumber": "1",
-          "episodeNumberInSeason": "3",
-          "airTime": "9:00",
-          "channel": "NBC"
-        }
-      ]
-    },
-    {
-      "date": "October 8, 2024",
-      "list": [
-        {
-          "showName": "Only Murders in the Building",
-          "episodeName": "Valley of the Dolls",
-          "seasonNumber": "4",
-          "episodeNumberInSeason": "7",
-          "airTime": "11:01 PM (Monday)",
-          "channel": "Hulu] [G"
-        }
-      ]
-    },
-    {
-      "date": "October 9, 2024",
-      "list": [
-        {
-          "showName": "Chicago Med",
-          "episodeName": "Trust Fall",
-          "seasonNumber": "10",
-          "episodeNumberInSeason": "3",
-          "airTime": "7:00",
-          "channel": "NBC"
-        },
-        {
-          "showName": "Abbott Elementary",
-          "episodeName": "Back to School",
-          "seasonNumber": "4",
-          "episodeNumberInSeason": "1",
-          "airTime": "8:30",
-          "channel": "ABC"
-        }
-      ]
-    },
-    {
-      "date": "October 10, 2024",
-      "list": [
-        {
-          "showName": "Frasier",
-          "episodeName": "The Squash Courtship of Freddy's Father",
-          "seasonNumber": "2",
-          "episodeNumberInSeason": "5",
-          "airTime": "2:01",
-          "channel": "Paramount+"
-        },
-        {
-          "showName": "All Creatures Great and Small",
-          "episodeName": "Uninvited Guests",
-          "seasonNumber": "5",
-          "episodeNumberInSeason": "4",
-          "airTime": "3:00",
-          "channel": "Channel 5] [G"
-        },
-        {
-          "showName": "Big Brother",
-          "episodeName": "Episode 2637",
-          "seasonNumber": "26",
-          "episodeNumberInSeason": "37",
-          "airTime": "7:00",
-          "channel": "CBS"
-        }
-      ]
-    },
-    {
-      "date": "October 11, 2024",
-      "list": [
-        {
-          "showName": "Big Brother",
-          "episodeName": "Episode 2638",
-          "seasonNumber": "26",
-          "episodeNumberInSeason": "38",
-          "airTime": "7:00",
-          "channel": "CBS"
-        },
-        {
-          "showName": "Whose Line Is It Anyway?",
-          "episodeName": "Heather Anne Campbell 6\" & \"Chris Lee 2",
-          "seasonNumber": "21",
-          "episodeNumberInSeason": "9 & S21 E10",
-          "airTime": "7:00",
-          "channel": "The CW] [G"
-        }
-      ]
-    },
-    {
-      "date": "October 12, 2024",
-      "list": [
-        {
-          "showName": "Saturday Night Live",
-          "episodeName": "Ariana Grande / Stevie Nicks",
-          "seasonNumber": "50",
-          "episodeNumberInSeason": "3",
-          "airTime": "10:29",
-          "channel": "NBC] [G"
-        }
-      ]
-    },
-    {
-      "date": "October 13, 2024",
-      "list": [
-        {
-          "showName": "Big Brother",
-          "episodeName": "Episode 2639 [2 hours; season finale]",
-          "seasonNumber": "26",
-          "episodeNumberInSeason": "39",
-          "airTime": "8:00",
-          "channel": "CBS"
-        }
-      ]
-    },
-    {
       "date": "October 14, 2024",
       "list": [
         {
@@ -235,6 +112,127 @@
     },
     {
       "date": "October 20, 2024",
+      "list": []
+    },
+    {
+      "date": "October 21, 2024",
+      "list": [
+        {
+          "showName": "The Neighborhood",
+          "episodeName": "Welcome to the Neighborhood, Daphne",
+          "seasonNumber": "7",
+          "episodeNumberInSeason": "1",
+          "airTime": "7:00",
+          "channel": "CBS"
+        },
+        {
+          "showName": "Poppa's House",
+          "episodeName": "Pilot",
+          "seasonNumber": "1",
+          "episodeNumberInSeason": "1",
+          "airTime": "7:30",
+          "channel": "CBS] [G"
+        },
+        {
+          "showName": "Brilliant Minds",
+          "episodeName": "The Haunted Marine",
+          "seasonNumber": "1",
+          "episodeNumberInSeason": "5",
+          "airTime": "9:00",
+          "channel": "NBC"
+        }
+      ]
+    },
+    {
+      "date": "October 22, 2024",
+      "list": [
+        {
+          "showName": "Only Murders in the Building",
+          "episodeName": "Escape From Planet Klongo",
+          "seasonNumber": "4",
+          "episodeNumberInSeason": "9",
+          "airTime": "11:01 PM (Monday)",
+          "channel": "Hulu] [G"
+        }
+      ]
+    },
+    {
+      "date": "October 23, 2024",
+      "list": [
+        {
+          "showName": "Chicago Med",
+          "episodeName": "Bad Habits",
+          "seasonNumber": "10",
+          "episodeNumberInSeason": "5",
+          "airTime": "7:00",
+          "channel": "NBC"
+        },
+        {
+          "showName": "Abbott Elementary",
+          "episodeName": "Class Pet",
+          "seasonNumber": "4",
+          "episodeNumberInSeason": "3",
+          "airTime": "8:30",
+          "channel": "ABC"
+        }
+      ]
+    },
+    {
+      "date": "October 24, 2024",
+      "list": [
+        {
+          "showName": "Frasier",
+          "episodeName": "My Brilliant Sister",
+          "seasonNumber": "2",
+          "episodeNumberInSeason": "7",
+          "airTime": "2:01",
+          "channel": "Paramount+"
+        },
+        {
+          "showName": "All Creatures Great and Small",
+          "episodeName": "Glass Half Full [season finale]",
+          "seasonNumber": "5",
+          "episodeNumberInSeason": "6",
+          "airTime": "3:00",
+          "channel": "Channel 5] [G"
+        },
+        {
+          "showName": "Georgie & Mandy's First Marriage",
+          "episodeName": "Some New York Nonsense",
+          "seasonNumber": "1",
+          "episodeNumberInSeason": "2",
+          "airTime": "7:00",
+          "channel": "CBS] [G"
+        },
+        {
+          "showName": "Matlock",
+          "episodeName": "A Guy Named Greg",
+          "seasonNumber": "1",
+          "episodeNumberInSeason": "3",
+          "airTime": "8:00",
+          "channel": "CBS"
+        }
+      ]
+    },
+    {
+      "date": "October 25, 2024",
+      "list": [
+        {
+          "showName": "Whose Line Is It Anyway?",
+          "episodeName": "Lauren Cohen 2\" & \"Jeff Davis 19",
+          "seasonNumber": "21",
+          "episodeNumberInSeason": "13 & S21 E14",
+          "airTime": "7:00",
+          "channel": "The CW] [G"
+        }
+      ]
+    },
+    {
+      "date": "October 26, 2024",
+      "list": []
+    },
+    {
+      "date": "October 27, 2024",
       "list": []
     }
   ]
