@@ -1,127 +1,6 @@
 {
   "data": [
     {
-      "date": "October 21, 2024",
-      "list": [
-        {
-          "showName": "The Neighborhood",
-          "episodeName": "Welcome to the Neighborhood, Daphne",
-          "seasonNumber": "7",
-          "episodeNumberInSeason": "1",
-          "airTime": "7:00",
-          "channel": "CBS"
-        },
-        {
-          "showName": "Poppa's House",
-          "episodeName": "Pilot",
-          "seasonNumber": "1",
-          "episodeNumberInSeason": "1",
-          "airTime": "7:30",
-          "channel": "CBS] [G"
-        },
-        {
-          "showName": "Brilliant Minds",
-          "episodeName": "The Haunted Marine",
-          "seasonNumber": "1",
-          "episodeNumberInSeason": "5",
-          "airTime": "9:00",
-          "channel": "NBC"
-        }
-      ]
-    },
-    {
-      "date": "October 22, 2024",
-      "list": [
-        {
-          "showName": "Only Murders in the Building",
-          "episodeName": "Escape From Planet Klongo",
-          "seasonNumber": "4",
-          "episodeNumberInSeason": "9",
-          "airTime": "11:01 PM (Monday)",
-          "channel": "Hulu] [G"
-        }
-      ]
-    },
-    {
-      "date": "October 23, 2024",
-      "list": [
-        {
-          "showName": "Chicago Med",
-          "episodeName": "Bad Habits",
-          "seasonNumber": "10",
-          "episodeNumberInSeason": "5",
-          "airTime": "7:00",
-          "channel": "NBC"
-        },
-        {
-          "showName": "Abbott Elementary",
-          "episodeName": "Class Pet",
-          "seasonNumber": "4",
-          "episodeNumberInSeason": "3",
-          "airTime": "8:30",
-          "channel": "ABC"
-        }
-      ]
-    },
-    {
-      "date": "October 24, 2024",
-      "list": [
-        {
-          "showName": "Frasier",
-          "episodeName": "My Brilliant Sister",
-          "seasonNumber": "2",
-          "episodeNumberInSeason": "7",
-          "airTime": "2:01",
-          "channel": "Paramount+"
-        },
-        {
-          "showName": "All Creatures Great and Small",
-          "episodeName": "Glass Half Full [season finale]",
-          "seasonNumber": "5",
-          "episodeNumberInSeason": "6",
-          "airTime": "3:00",
-          "channel": "Channel 5] [G"
-        },
-        {
-          "showName": "Georgie & Mandy's First Marriage",
-          "episodeName": "Some New York Nonsense",
-          "seasonNumber": "1",
-          "episodeNumberInSeason": "2",
-          "airTime": "7:00",
-          "channel": "CBS] [G"
-        },
-        {
-          "showName": "Matlock",
-          "episodeName": "A Guy Named Greg",
-          "seasonNumber": "1",
-          "episodeNumberInSeason": "3",
-          "airTime": "8:00",
-          "channel": "CBS"
-        }
-      ]
-    },
-    {
-      "date": "October 25, 2024",
-      "list": [
-        {
-          "showName": "Whose Line Is It Anyway?",
-          "episodeName": "Lauren Cohen 2\" & \"Jeff Davis 19",
-          "seasonNumber": "21",
-          "episodeNumberInSeason": "13 & S21 E14",
-          "airTime": "7:00",
-          "channel": "The CW] [G"
-        }
-      ]
-    },
-    {
-      "date": "October 26, 2024",
-      "list": []
-    },
-    {
-      "date": "October 27, 2024",
-      "list": []
-    },
-    {
       "date": "October 28, 2024",
       "list": [
         {
@@ -233,6 +112,102 @@
     },
     {
       "date": "November 3, 2024",
+      "list": []
+    },
+    {
+      "date": "November 4, 2024",
+      "list": [
+        {
+          "showName": "The Neighborhood",
+          "episodeName": "Welcome to the Vote",
+          "seasonNumber": "7",
+          "episodeNumberInSeason": "3",
+          "airTime": "7:00",
+          "channel": "CBS"
+        },
+        {
+          "showName": "Poppa's House",
+          "episodeName": "Podcast",
+          "seasonNumber": "1",
+          "episodeNumberInSeason": "3",
+          "airTime": "7:30",
+          "channel": "CBS] [G"
+        }
+      ]
+    },
+    {
+      "date": "November 5, 2024",
+      "list": []
+    },
+    {
+      "date": "November 6, 2024",
+      "list": [
+        {
+          "showName": "Chicago Med",
+          "episodeName": "Forget Me Not",
+          "seasonNumber": "10",
+          "episodeNumberInSeason": "6",
+          "airTime": "7:00",
+          "channel": "NBC"
+        },
+        {
+          "showName": "Abbott Elementary",
+          "episodeName": "Dad Fight",
+          "seasonNumber": "4",
+          "episodeNumberInSeason": "5",
+          "airTime": "8:30",
+          "channel": "ABC"
+        }
+      ]
+    },
+    {
+      "date": "November 7, 2024",
+      "list": [
+        {
+          "showName": "Frasier",
+          "episodeName": "Murder Most Finch",
+          "seasonNumber": "2",
+          "episodeNumberInSeason": "9",
+          "airTime": "2:01",
+          "channel": "Paramount+"
+        },
+        {
+          "showName": "Georgie & Mandy's First Marriage",
+          "episodeName": "Todd's Mom",
+          "seasonNumber": "1",
+          "episodeNumberInSeason": "4",
+          "airTime": "7:00",
+          "channel": "CBS] [G"
+        },
+        {
+          "showName": "Matlock",
+          "episodeName": "Claws",
+          "seasonNumber": "1",
+          "episodeNumberInSeason": "5",
+          "airTime": "8:00",
+          "channel": "CBS"
+        }
+      ]
+    },
+    {
+      "date": "November 8, 2024",
+      "list": []
+    },
+    {
+      "date": "November 9, 2024",
+      "list": [
+        {
+          "showName": "Saturday Night Live",
+          "episodeName": "Original",
+          "seasonNumber": "50",
+          "episodeNumberInSeason": "6",
+          "airTime": "10:29",
+          "channel": "NBC] [G"
+        }
+      ]
+    },
+    {
+      "date": "November 10, 2024",
       "list": []
     }
   ]
