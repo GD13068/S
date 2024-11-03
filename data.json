@@ -198,7 +198,7 @@
       "list": [
         {
           "showName": "Saturday Night Live",
-          "episodeName": "Original",
+          "episodeName": "Bill Burr / Mk.gee",
           "seasonNumber": "50",
           "episodeNumberInSeason": "6",
           "airTime": "10:29",
@@ -208,6 +208,119 @@
     },
     {
       "date": "November 10, 2024",
+      "list": []
+    },
+    {
+      "date": "November 11, 2024",
+      "list": [
+        {
+          "showName": "The Neighborhood",
+          "episodeName": "Welcome to the Great Beyond",
+          "seasonNumber": "7",
+          "episodeNumberInSeason": "4",
+          "airTime": "7:00",
+          "channel": "CBS"
+        },
+        {
+          "showName": "Poppa's House",
+          "episodeName": "School Days",
+          "seasonNumber": "1",
+          "episodeNumberInSeason": "4",
+          "airTime": "7:30",
+          "channel": "CBS] [G"
+        },
+        {
+          "showName": "Brilliant Minds",
+          "episodeName": "The Man from Grozny",
+          "seasonNumber": "1",
+          "episodeNumberInSeason": "7",
+          "airTime": "9:00",
+          "channel": "NBC"
+        }
+      ]
+    },
+    {
+      "date": "November 12, 2024",
+      "list": [
+        {
+          "showName": "St. Denis Medical",
+          "episodeName": "Welcome to St. Denis\" & \"A Very Robust Personal Life",
+          "seasonNumber": "1",
+          "episodeNumberInSeason": "1 & S1 E2",
+          "airTime": "7:00",
+          "channel": "NBC"
+        }
+      ]
+    },
+    {
+      "date": "November 13, 2024",
+      "list": [
+        {
+          "showName": "Chicago Med",
+          "episodeName": "Family Matters",
+          "seasonNumber": "10",
+          "episodeNumberInSeason": "7",
+          "airTime": "7:00",
+          "channel": "NBC"
+        },
+        {
+          "showName": "Abbott Elementary",
+          "episodeName": "The Deli",
+          "seasonNumber": "4",
+          "episodeNumberInSeason": "6",
+          "airTime": "8:30",
+          "channel": "ABC"
+        }
+      ]
+    },
+    {
+      "date": "November 14, 2024",
+      "list": [
+        {
+          "showName": "Frasier",
+          "episodeName": "Father Chrismas [season finale]",
+          "seasonNumber": "2",
+          "episodeNumberInSeason": "10",
+          "airTime": "2:01",
+          "channel": "Paramount+"
+        },
+        {
+          "showName": "Georgie & Mandy's First Marriage",
+          "episodeName": "Thanksgiving",
+          "seasonNumber": "1",
+          "episodeNumberInSeason": "5",
+          "airTime": "7:00",
+          "channel": "CBS] [G"
+        },
+        {
+          "showName": "Matlock",
+          "episodeName": "Sixteen Steps",
+          "seasonNumber": "1",
+          "episodeNumberInSeason": "6",
+          "airTime": "8:00",
+          "channel": "CBS"
+        }
+      ]
+    },
+    {
+      "date": "November 15, 2024",
+      "list": []
+    },
+    {
+      "date": "November 16, 2024",
+      "list": [
+        {
+          "showName": "Saturday Night Live",
+          "episodeName": "Charli XCX / Charli XCX",
+          "seasonNumber": "50",
+          "episodeNumberInSeason": "7",
+          "airTime": "10:29",
+          "channel": "NBC] [G"
+        }
+      ]
+    },
+    {
+      "date": "November 17, 2024",
       "list": []
     }
   ]
