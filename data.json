@@ -1,216 +1,6 @@
 {
   "data": [
     {
-      "date": "October 28, 2024",
-      "list": [
-        {
-          "showName": "The Neighborhood",
-          "episodeName": "Welcome to the Big Sleep",
-          "seasonNumber": "7",
-          "episodeNumberInSeason": "2",
-          "airTime": "7:00",
-          "channel": "CBS"
-        },
-        {
-          "showName": "Poppa's House",
-          "episodeName": "Sleepover",
-          "seasonNumber": "1",
-          "episodeNumberInSeason": "2",
-          "airTime": "7:30",
-          "channel": "CBS] [G"
-        },
-        {
-          "showName": "Brilliant Minds",
-          "episodeName": "The Girl Who Cried Pregnant",
-          "seasonNumber": "1",
-          "episodeNumberInSeason": "6",
-          "airTime": "9:00",
-          "channel": "NBC"
-        }
-      ]
-    },
-    {
-      "date": "October 29, 2024",
-      "list": [
-        {
-          "showName": "Only Murders in the Building",
-          "episodeName": "My Best Friend's Wedding [season finale]",
-          "seasonNumber": "4",
-          "episodeNumberInSeason": "10",
-          "airTime": "11:01 PM (Monday)",
-          "channel": "Hulu] [G"
-        }
-      ]
-    },
-    {
-      "date": "October 30, 2024",
-      "list": [
-        {
-          "showName": "Abbott Elementary",
-          "episodeName": "Costume Contest",
-          "seasonNumber": "4",
-          "episodeNumberInSeason": "4",
-          "airTime": "8:30",
-          "channel": "ABC"
-        }
-      ]
-    },
-    {
-      "date": "October 31, 2024",
-      "list": [
-        {
-          "showName": "Frasier",
-          "episodeName": "Thank You, Dr. Crane",
-          "seasonNumber": "2",
-          "episodeNumberInSeason": "8",
-          "airTime": "2:01",
-          "channel": "Paramount+"
-        },
-        {
-          "showName": "Georgie & Mandy's First Marriage",
-          "episodeName": "Secrets, Lies and a Chunk of Change",
-          "seasonNumber": "1",
-          "episodeNumberInSeason": "3",
-          "airTime": "7:00",
-          "channel": "CBS] [G"
-        },
-        {
-          "showName": "Matlock",
-          "episodeName": "The Rabbit and the Hawk",
-          "seasonNumber": "1",
-          "episodeNumberInSeason": "4",
-          "airTime": "8:00",
-          "channel": "CBS"
-        }
-      ]
-    },
-    {
-      "date": "November 1, 2024",
-      "list": [
-        {
-          "showName": "Whose Line Is It Anyway?",
-          "episodeName": "Grace Byers 2\" & \"Greg Proops 12",
-          "seasonNumber": "21",
-          "episodeNumberInSeason": "15 & S21 E16",
-          "airTime": "7:00",
-          "channel": "The CW] [G"
-        }
-      ]
-    },
-    {
-      "date": "November 2, 2024",
-      "list": [
-        {
-          "showName": "Saturday Night Live",
-          "episodeName": "John Mulaney / Chappell Roan",
-          "seasonNumber": "50",
-          "episodeNumberInSeason": "5",
-          "airTime": "10:29",
-          "channel": "NBC] [G"
-        }
-      ]
-    },
-    {
-      "date": "November 3, 2024",
-      "list": []
-    },
-    {
-      "date": "November 4, 2024",
-      "list": [
-        {
-          "showName": "The Neighborhood",
-          "episodeName": "Welcome to the Vote",
-          "seasonNumber": "7",
-          "episodeNumberInSeason": "3",
-          "airTime": "7:00",
-          "channel": "CBS"
-        },
-        {
-          "showName": "Poppa's House",
-          "episodeName": "Podcast",
-          "seasonNumber": "1",
-          "episodeNumberInSeason": "3",
-          "airTime": "7:30",
-          "channel": "CBS] [G"
-        }
-      ]
-    },
-    {
-      "date": "November 5, 2024",
-      "list": []
-    },
-    {
-      "date": "November 6, 2024",
-      "list": [
-        {
-          "showName": "Chicago Med",
-          "episodeName": "Forget Me Not",
-          "seasonNumber": "10",
-          "episodeNumberInSeason": "6",
-          "airTime": "7:00",
-          "channel": "NBC"
-        },
-        {
-          "showName": "Abbott Elementary",
-          "episodeName": "Dad Fight",
-          "seasonNumber": "4",
-          "episodeNumberInSeason": "5",
-          "airTime": "8:30",
-          "channel": "ABC"
-        }
-      ]
-    },
-    {
-      "date": "November 7, 2024",
-      "list": [
-        {
-          "showName": "Frasier",
-          "episodeName": "Murder Most Finch",
-          "seasonNumber": "2",
-          "episodeNumberInSeason": "9",
-          "airTime": "2:01",
-          "channel": "Paramount+"
-        },
-        {
-          "showName": "Georgie & Mandy's First Marriage",
-          "episodeName": "Todd's Mom",
-          "seasonNumber": "1",
-          "episodeNumberInSeason": "4",
-          "airTime": "7:00",
-          "channel": "CBS] [G"
-        },
-        {
-          "showName": "Matlock",
-          "episodeName": "Claws",
-          "seasonNumber": "1",
-          "episodeNumberInSeason": "5",
-          "airTime": "8:00",
-          "channel": "CBS"
-        }
-      ]
-    },
-    {
-      "date": "November 8, 2024",
-      "list": []
-    },
-    {
-      "date": "November 9, 2024",
-      "list": [
-        {
-          "showName": "Saturday Night Live",
-          "episodeName": "Bill Burr / Mk.gee",
-          "seasonNumber": "50",
-          "episodeNumberInSeason": "6",
-          "airTime": "10:29",
-          "channel": "NBC] [G"
-        }
-      ]
-    },
-    {
-      "date": "November 10, 2024",
-      "list": []
-    },
-    {
       "date": "November 11, 2024",
       "list": [
         {
@@ -321,6 +111,69 @@
     },
     {
       "date": "November 17, 2024",
+      "list": []
+    },
+    {
+      "date": "November 18, 2024",
+      "list": [
+        {
+          "showName": "Brilliant Minds",
+          "episodeName": "The Lovesick Widow",
+          "seasonNumber": "1",
+          "episodeNumberInSeason": "8",
+          "airTime": "9:00",
+          "channel": "NBC"
+        }
+      ]
+    },
+    {
+      "date": "November 19, 2024",
+      "list": [
+        {
+          "showName": "St. Denis Medical",
+          "episodeName": "Weird Stuff You Can't Explain",
+          "seasonNumber": "1",
+          "episodeNumberInSeason": "3",
+          "airTime": "7:00",
+          "channel": "NBC"
+        },
+        {
+          "showName": "Night Court",
+          "episodeName": "The Judge's Boyfriend's Dad",
+          "seasonNumber": "3",
+          "episodeNumberInSeason": "1",
+          "airTime": "7:30",
+          "channel": "NBC"
+        }
+      ]
+    },
+    {
+      "date": "November 20, 2024",
+      "list": [
+        {
+          "showName": "Chicago Med",
+          "episodeName": "Love Will Tear Us Apart [fall finale]",
+          "seasonNumber": "10",
+          "episodeNumberInSeason": "8",
+          "airTime": "7:00",
+          "channel": "NBC"
+        }
+      ]
+    },
+    {
+      "date": "November 21, 2024",
+      "list": []
+    },
+    {
+      "date": "November 22, 2024",
+      "list": []
+    },
+    {
+      "date": "November 23, 2024",
+      "list": []
+    },
+    {
+      "date": "November 24, 2024",
       "list": []
     }
   ]
