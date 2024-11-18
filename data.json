@@ -175,6 +175,76 @@
     {
       "date": "November 24, 2024",
       "list": []
+    },
+    {
+      "date": "November 25, 2024",
+      "list": [
+        {
+          "showName": "The Neighborhood",
+          "episodeName": "Welcome to Commitment",
+          "seasonNumber": "7",
+          "episodeNumberInSeason": "5",
+          "airTime": "7:00",
+          "channel": "CBS"
+        },
+        {
+          "showName": "Poppa's House",
+          "episodeName": "Disciplinairian",
+          "seasonNumber": "1",
+          "episodeNumberInSeason": "5",
+          "airTime": "7:30",
+          "channel": "CBS"
+        },
+        {
+          "showName": "Brilliant Minds",
+          "episodeName": "The Colorblind Painter",
+          "seasonNumber": "1",
+          "episodeNumberInSeason": "9",
+          "airTime": "9:00",
+          "channel": "NBC"
+        }
+      ]
+    },
+    {
+      "date": "November 26, 2024",
+      "list": [
+        {
+          "showName": "St. Denis Medical",
+          "episodeName": "Salamat You Too",
+          "seasonNumber": "1",
+          "episodeNumberInSeason": "4",
+          "airTime": "7:00",
+          "channel": "NBC"
+        },
+        {
+          "showName": "Night Court",
+          "episodeName": "The Judge's Boyfriend's Dad, Part 2",
+          "seasonNumber": "3",
+          "episodeNumberInSeason": "2",
+          "airTime": "7:30",
+          "channel": "NBC"
+        }
+      ]
+    },
+    {
+      "date": "November 27, 2024",
+      "list": []
+    },
+    {
+      "date": "November 28, 2024",
+      "list": []
+    },
+    {
+      "date": "November 29, 2024",
+      "list": []
+    },
+    {
+      "date": "November 30, 2024",
+      "list": []
+    },
+    {
+      "date": "December 1, 2024",
+      "list": []
     }
   ]
 }
