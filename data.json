@@ -1,182 +1,6 @@
 {
   "data": [
     {
-      "date": "November 11, 2024",
-      "list": [
-        {
-          "showName": "The Neighborhood",
-          "episodeName": "Welcome to the Great Beyond",
-          "seasonNumber": "7",
-          "episodeNumberInSeason": "4",
-          "airTime": "7:00",
-          "channel": "CBS"
-        },
-        {
-          "showName": "Poppa's House",
-          "episodeName": "School Days",
-          "seasonNumber": "1",
-          "episodeNumberInSeason": "4",
-          "airTime": "7:30",
-          "channel": "CBS] [G"
-        },
-        {
-          "showName": "Brilliant Minds",
-          "episodeName": "The Man from Grozny",
-          "seasonNumber": "1",
-          "episodeNumberInSeason": "7",
-          "airTime": "9:00",
-          "channel": "NBC"
-        }
-      ]
-    },
-    {
-      "date": "November 12, 2024",
-      "list": [
-        {
-          "showName": "St. Denis Medical",
-          "episodeName": "Welcome to St. Denis\" & \"A Very Robust Personal Life",
-          "seasonNumber": "1",
-          "episodeNumberInSeason": "1 & S1 E2",
-          "airTime": "7:00",
-          "channel": "NBC"
-        }
-      ]
-    },
-    {
-      "date": "November 13, 2024",
-      "list": [
-        {
-          "showName": "Chicago Med",
-          "episodeName": "Family Matters",
-          "seasonNumber": "10",
-          "episodeNumberInSeason": "7",
-          "airTime": "7:00",
-          "channel": "NBC"
-        },
-        {
-          "showName": "Abbott Elementary",
-          "episodeName": "The Deli",
-          "seasonNumber": "4",
-          "episodeNumberInSeason": "6",
-          "airTime": "8:30",
-          "channel": "ABC"
-        }
-      ]
-    },
-    {
-      "date": "November 14, 2024",
-      "list": [
-        {
-          "showName": "Frasier",
-          "episodeName": "Father Chrismas [season finale]",
-          "seasonNumber": "2",
-          "episodeNumberInSeason": "10",
-          "airTime": "2:01",
-          "channel": "Paramount+"
-        },
-        {
-          "showName": "Georgie & Mandy's First Marriage",
-          "episodeName": "Thanksgiving",
-          "seasonNumber": "1",
-          "episodeNumberInSeason": "5",
-          "airTime": "7:00",
-          "channel": "CBS] [G"
-        },
-        {
-          "showName": "Matlock",
-          "episodeName": "Sixteen Steps",
-          "seasonNumber": "1",
-          "episodeNumberInSeason": "6",
-          "airTime": "8:00",
-          "channel": "CBS"
-        }
-      ]
-    },
-    {
-      "date": "November 15, 2024",
-      "list": []
-    },
-    {
-      "date": "November 16, 2024",
-      "list": [
-        {
-          "showName": "Saturday Night Live",
-          "episodeName": "Charli XCX / Charli XCX",
-          "seasonNumber": "50",
-          "episodeNumberInSeason": "7",
-          "airTime": "10:29",
-          "channel": "NBC] [G"
-        }
-      ]
-    },
-    {
-      "date": "November 17, 2024",
-      "list": []
-    },
-    {
-      "date": "November 18, 2024",
-      "list": [
-        {
-          "showName": "Brilliant Minds",
-          "episodeName": "The Lovesick Widow",
-          "seasonNumber": "1",
-          "episodeNumberInSeason": "8",
-          "airTime": "9:00",
-          "channel": "NBC"
-        }
-      ]
-    },
-    {
-      "date": "November 19, 2024",
-      "list": [
-        {
-          "showName": "St. Denis Medical",
-          "episodeName": "Weird Stuff You Can't Explain",
-          "seasonNumber": "1",
-          "episodeNumberInSeason": "3",
-          "airTime": "7:00",
-          "channel": "NBC"
-        },
-        {
-          "showName": "Night Court",
-          "episodeName": "The Judge's Boyfriend's Dad",
-          "seasonNumber": "3",
-          "episodeNumberInSeason": "1",
-          "airTime": "7:30",
-          "channel": "NBC"
-        }
-      ]
-    },
-    {
-      "date": "November 20, 2024",
-      "list": [
-        {
-          "showName": "Chicago Med",
-          "episodeName": "Love Will Tear Us Apart [fall finale]",
-          "seasonNumber": "10",
-          "episodeNumberInSeason": "8",
-          "airTime": "7:00",
-          "channel": "NBC"
-        }
-      ]
-    },
-    {
-      "date": "November 21, 2024",
-      "list": []
-    },
-    {
-      "date": "November 22, 2024",
-      "list": []
-    },
-    {
-      "date": "November 23, 2024",
-      "list": []
-    },
-    {
-      "date": "November 24, 2024",
-      "list": []
-    },
-    {
       "date": "November 25, 2024",
       "list": [
         {
@@ -244,6 +68,119 @@
     },
     {
       "date": "December 1, 2024",
+      "list": []
+    },
+    {
+      "date": "December 2, 2024",
+      "list": [
+        {
+          "showName": "The Neighborhood",
+          "episodeName": "Welcome to Daddy Issues",
+          "seasonNumber": "7",
+          "episodeNumberInSeason": "6",
+          "airTime": "7:00",
+          "channel": "CBS"
+        },
+        {
+          "showName": "Poppa's House",
+          "episodeName": "Family Photo",
+          "seasonNumber": "1",
+          "episodeNumberInSeason": "6",
+          "airTime": "7:30",
+          "channel": "CBS"
+        },
+        {
+          "showName": "Brilliant Minds",
+          "episodeName": "The First Responder",
+          "seasonNumber": "1",
+          "episodeNumberInSeason": "10",
+          "airTime": "9:00",
+          "channel": "NBC"
+        }
+      ]
+    },
+    {
+      "date": "December 3, 2024",
+      "list": [
+        {
+          "showName": "St. Denis Medical",
+          "episodeName": "A Peanut and Caramel-Filled Miracle [fall finale]",
+          "seasonNumber": "1",
+          "episodeNumberInSeason": "5",
+          "airTime": "7:00",
+          "channel": "NBC"
+        },
+        {
+          "showName": "Night Court",
+          "episodeName": "The Hole Truth [fall finale]",
+          "seasonNumber": "3",
+          "episodeNumberInSeason": "3",
+          "airTime": "7:30",
+          "channel": "NBC"
+        }
+      ]
+    },
+    {
+      "date": "December 4, 2024",
+      "list": [
+        {
+          "showName": "Abbott Elementary",
+          "episodeName": "Winter Show\" & \"Winter Break [fall finale]",
+          "seasonNumber": "4",
+          "episodeNumberInSeason": "7 & S4 E8",
+          "airTime": "7:00",
+          "channel": "ABC"
+        }
+      ]
+    },
+    {
+      "date": "December 5, 2024",
+      "list": [
+        {
+          "showName": "Georgie & Mandy's First Marriage",
+          "episodeName": "A Regular Samaritan",
+          "seasonNumber": "1",
+          "episodeNumberInSeason": "6",
+          "airTime": "7:00",
+          "channel": "CBS] [G"
+        },
+        {
+          "showName": "The Great Christmas Light Fight",
+          "episodeName": "Episode 1203\" & \"Episode 1202",
+          "seasonNumber": "12",
+          "episodeNumberInSeason": "1 & S12 E2",
+          "airTime": "7:00",
+          "channel": "ABC"
+        },
+        {
+          "showName": "Matlock",
+          "episodeName": "Belly of the Beast",
+          "seasonNumber": "1",
+          "episodeNumberInSeason": "7",
+          "airTime": "8:00",
+          "channel": "CBS"
+        }
+      ]
+    },
+    {
+      "date": "December 6, 2024",
+      "list": []
+    },
+    {
+      "date": "December 7, 2024",
+      "list": [
+        {
+          "showName": "Saturday Night Live",
+          "episodeName": "Paul Mescal / Shaboozey",
+          "seasonNumber": "50",
+          "episodeNumberInSeason": "8",
+          "airTime": "10:29",
+          "channel": "NBC] [G"
+        }
+      ]
+    },
+    {
+      "date": "December 8, 2024",
       "list": []
     }
   ]
