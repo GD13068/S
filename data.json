@@ -1,76 +1,6 @@
 {
   "data": [
     {
-      "date": "November 25, 2024",
-      "list": [
-        {
-          "showName": "The Neighborhood",
-          "episodeName": "Welcome to Commitment",
-          "seasonNumber": "7",
-          "episodeNumberInSeason": "5",
-          "airTime": "7:00",
-          "channel": "CBS"
-        },
-        {
-          "showName": "Poppa's House",
-          "episodeName": "Disciplinairian",
-          "seasonNumber": "1",
-          "episodeNumberInSeason": "5",
-          "airTime": "7:30",
-          "channel": "CBS"
-        },
-        {
-          "showName": "Brilliant Minds",
-          "episodeName": "The Colorblind Painter",
-          "seasonNumber": "1",
-          "episodeNumberInSeason": "9",
-          "airTime": "9:00",
-          "channel": "NBC"
-        }
-      ]
-    },
-    {
-      "date": "November 26, 2024",
-      "list": [
-        {
-          "showName": "St. Denis Medical",
-          "episodeName": "Salamat You Too",
-          "seasonNumber": "1",
-          "episodeNumberInSeason": "4",
-          "airTime": "7:00",
-          "channel": "NBC"
-        },
-        {
-          "showName": "Night Court",
-          "episodeName": "The Judge's Boyfriend's Dad, Part 2",
-          "seasonNumber": "3",
-          "episodeNumberInSeason": "2",
-          "airTime": "7:30",
-          "channel": "NBC"
-        }
-      ]
-    },
-    {
-      "date": "November 27, 2024",
-      "list": []
-    },
-    {
-      "date": "November 28, 2024",
-      "list": []
-    },
-    {
-      "date": "November 29, 2024",
-      "list": []
-    },
-    {
-      "date": "November 30, 2024",
-      "list": []
-    },
-    {
-      "date": "December 1, 2024",
-      "list": []
-    },
-    {
       "date": "December 2, 2024",
       "list": [
         {
@@ -104,7 +34,7 @@
       "list": [
         {
           "showName": "St. Denis Medical",
-          "episodeName": "A Peanut and Caramel-Filled Miracle [fall finale]",
+          "episodeName": "A Peanut and Caramel-Filled Miracle",
           "seasonNumber": "1",
           "episodeNumberInSeason": "5",
           "airTime": "7:00",
@@ -112,7 +42,7 @@
         },
         {
           "showName": "Night Court",
-          "episodeName": "The Hole Truth [fall finale]",
+          "episodeName": "The Hole Truth",
           "seasonNumber": "3",
           "episodeNumberInSeason": "3",
           "airTime": "7:30",
@@ -181,6 +111,173 @@
     },
     {
       "date": "December 8, 2024",
+      "list": []
+    },
+    {
+      "date": "December 9, 2024",
+      "list": [
+        {
+          "showName": "The Neighborhood",
+          "episodeName": "Welcome to the Wicked Stepmother",
+          "seasonNumber": "7",
+          "episodeNumberInSeason": "7",
+          "airTime": "7:00",
+          "channel": "CBS"
+        },
+        {
+          "showName": "Poppa's House",
+          "episodeName": "Brokeback",
+          "seasonNumber": "1",
+          "episodeNumberInSeason": "7",
+          "airTime": "7:30",
+          "channel": "CBS"
+        },
+        {
+          "showName": "Brilliant Minds",
+          "episodeName": "The Other Woman [fall finale]",
+          "seasonNumber": "1",
+          "episodeNumberInSeason": "11",
+          "airTime": "9:00",
+          "channel": "NBC"
+        }
+      ]
+    },
+    {
+      "date": "December 10, 2024",
+      "list": []
+    },
+    {
+      "date": "December 11, 2024",
+      "list": []
+    },
+    {
+      "date": "December 12, 2024",
+      "list": [
+        {
+          "showName": "Georgie & Mandy's First Marriage",
+          "episodeName": "An Old Mustang [fall finale]",
+          "seasonNumber": "1",
+          "episodeNumberInSeason": "7",
+          "airTime": "7:00",
+          "channel": "CBS] [G"
+        },
+        {
+          "showName": "The Great Christmas Light Fight",
+          "episodeName": "Episode 1204\" & \"Episode 1201",
+          "seasonNumber": "12",
+          "episodeNumberInSeason": "3 & S12 E4",
+          "airTime": "7:00",
+          "channel": "ABC"
+        },
+        {
+          "showName": "Matlock",
+          "episodeName": "No, No Monsters [fall finale]",
+          "seasonNumber": "1",
+          "episodeNumberInSeason": "8",
+          "airTime": "8:00",
+          "channel": "CBS"
+        }
+      ]
+    },
+    {
+      "date": "December 13, 2024",
+      "list": []
+    },
+    {
+      "date": "December 14, 2024",
+      "list": [
+        {
+          "showName": "Saturday Night Live",
+          "episodeName": "Chris Rock / Gracie Adams",
+          "seasonNumber": "50",
+          "episodeNumberInSeason": "9",
+          "airTime": "10:29",
+          "channel": "NBC] [G"
+        }
+      ]
+    },
+    {
+      "date": "December 15, 2024",
+      "list": []
+    },
+    {
+      "date": "December 16, 2024",
+      "list": [
+        {
+          "showName": "The Neighborhood",
+          "episodeName": "Original [fall finale]",
+          "seasonNumber": "7",
+          "episodeNumberInSeason": "8",
+          "airTime": "7:00",
+          "channel": "CBS"
+        },
+        {
+          "showName": "Poppa's House",
+          "episodeName": "Wig [fall finale]",
+          "seasonNumber": "1",
+          "episodeNumberInSeason": "8",
+          "airTime": "7:30",
+          "channel": "CBS"
+        }
+      ]
+    },
+    {
+      "date": "December 17, 2024",
+      "list": [
+        {
+          "showName": "St. Denis Medical",
+          "episodeName": "Ho-Ho-Hollo [fall finale]",
+          "seasonNumber": "1",
+          "episodeNumberInSeason": "6",
+          "airTime": "7:00",
+          "channel": "NBC"
+        },
+        {
+          "showName": "Night Court",
+          "episodeName": "Feliz Navidad [fall finale]",
+          "seasonNumber": "3",
+          "episodeNumberInSeason": "4",
+          "airTime": "7:30",
+          "channel": "NBC"
+        }
+      ]
+    },
+    {
+      "date": "December 18, 2024",
+      "list": []
+    },
+    {
+      "date": "December 19, 2024",
+      "list": [
+        {
+          "showName": "The Great Christmas Light Fight",
+          "episodeName": "Episode 1205\" & \"Episode 1206 [season finale]",
+          "seasonNumber": "12",
+          "episodeNumberInSeason": "5 & S12 E6",
+          "airTime": "7:00",
+          "channel": "ABC"
+        }
+      ]
+    },
+    {
+      "date": "December 20, 2024",
+      "list": []
+    },
+    {
+      "date": "December 21, 2024",
+      "list": [
+        {
+          "showName": "Saturday Night Live",
+          "episodeName": "Martin Short / Hozier [fall finale]",
+          "seasonNumber": "50",
+          "episodeNumberInSeason": "10",
+          "airTime": "10:29",
+          "channel": "NBC] [G"
+        }
+      ]
+    },
+    {
+      "date": "December 22, 2024",
       "list": []
     }
   ]
