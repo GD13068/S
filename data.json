@@ -1,119 +1,6 @@
 {
   "data": [
     {
-      "date": "December 2, 2024",
-      "list": [
-        {
-          "showName": "The Neighborhood",
-          "episodeName": "Welcome to Daddy Issues",
-          "seasonNumber": "7",
-          "episodeNumberInSeason": "6",
-          "airTime": "7:00",
-          "channel": "CBS"
-        },
-        {
-          "showName": "Poppa's House",
-          "episodeName": "Family Photo",
-          "seasonNumber": "1",
-          "episodeNumberInSeason": "6",
-          "airTime": "7:30",
-          "channel": "CBS"
-        },
-        {
-          "showName": "Brilliant Minds",
-          "episodeName": "The First Responder",
-          "seasonNumber": "1",
-          "episodeNumberInSeason": "10",
-          "airTime": "9:00",
-          "channel": "NBC"
-        }
-      ]
-    },
-    {
-      "date": "December 3, 2024",
-      "list": [
-        {
-          "showName": "St. Denis Medical",
-          "episodeName": "A Peanut and Caramel-Filled Miracle",
-          "seasonNumber": "1",
-          "episodeNumberInSeason": "5",
-          "airTime": "7:00",
-          "channel": "NBC"
-        },
-        {
-          "showName": "Night Court",
-          "episodeName": "The Hole Truth",
-          "seasonNumber": "3",
-          "episodeNumberInSeason": "3",
-          "airTime": "7:30",
-          "channel": "NBC"
-        }
-      ]
-    },
-    {
-      "date": "December 4, 2024",
-      "list": [
-        {
-          "showName": "Abbott Elementary",
-          "episodeName": "Winter Show\" & \"Winter Break [fall finale]",
-          "seasonNumber": "4",
-          "episodeNumberInSeason": "7 & S4 E8",
-          "airTime": "7:00",
-          "channel": "ABC"
-        }
-      ]
-    },
-    {
-      "date": "December 5, 2024",
-      "list": [
-        {
-          "showName": "Georgie & Mandy's First Marriage",
-          "episodeName": "A Regular Samaritan",
-          "seasonNumber": "1",
-          "episodeNumberInSeason": "6",
-          "airTime": "7:00",
-          "channel": "CBS] [G"
-        },
-        {
-          "showName": "The Great Christmas Light Fight",
-          "episodeName": "Episode 1203\" & \"Episode 1202",
-          "seasonNumber": "12",
-          "episodeNumberInSeason": "1 & S12 E2",
-          "airTime": "7:00",
-          "channel": "ABC"
-        },
-        {
-          "showName": "Matlock",
-          "episodeName": "Belly of the Beast",
-          "seasonNumber": "1",
-          "episodeNumberInSeason": "7",
-          "airTime": "8:00",
-          "channel": "CBS"
-        }
-      ]
-    },
-    {
-      "date": "December 6, 2024",
-      "list": []
-    },
-    {
-      "date": "December 7, 2024",
-      "list": [
-        {
-          "showName": "Saturday Night Live",
-          "episodeName": "Paul Mescal / Shaboozey",
-          "seasonNumber": "50",
-          "episodeNumberInSeason": "8",
-          "airTime": "10:29",
-          "channel": "NBC] [G"
-        }
-      ]
-    },
-    {
-      "date": "December 8, 2024",
-      "list": []
-    },
-    {
       "date": "December 9, 2024",
       "list": [
         {
@@ -205,7 +92,7 @@
       "list": [
         {
           "showName": "The Neighborhood",
-          "episodeName": "Original [fall finale]",
+          "episodeName": "Bienvenidos a Nosotros [fall finale]",
           "seasonNumber": "7",
           "episodeNumberInSeason": "8",
           "airTime": "7:00",
@@ -278,6 +165,52 @@
     },
     {
       "date": "December 22, 2024",
+      "list": []
+    },
+    {
+      "date": "December 23, 2024",
+      "list": [
+        {
+          "showName": "All Creatures Great and Small",
+          "episodeName": "All God's Creatures",
+          "seasonNumber": "5",
+          "episodeNumberInSeason": "7",
+          "airTime": "3:00",
+          "channel": "Channel 5"
+        }
+      ]
+    },
+    {
+      "date": "December 24, 2024",
+      "list": []
+    },
+    {
+      "date": "December 25, 2024",
+      "list": [
+        {
+          "showName": "Call the Midwife",
+          "episodeName": "Part 1\" & \"Part 2",
+          "seasonNumber": "14",
+          "episodeNumberInSeason": "0",
+          "airTime": "7:00",
+          "channel": "PBS"
+        }
+      ]
+    },
+    {
+      "date": "December 26, 2024",
+      "list": []
+    },
+    {
+      "date": "December 27, 2024",
+      "list": []
+    },
+    {
+      "date": "December 28, 2024",
+      "list": []
+    },
+    {
+      "date": "December 29, 2024",
       "list": []
     }
   ]
