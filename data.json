@@ -1,173 +1,6 @@
 {
   "data": [
     {
-      "date": "December 9, 2024",
-      "list": [
-        {
-          "showName": "The Neighborhood",
-          "episodeName": "Welcome to the Wicked Stepmother",
-          "seasonNumber": "7",
-          "episodeNumberInSeason": "7",
-          "airTime": "7:00",
-          "channel": "CBS"
-        },
-        {
-          "showName": "Poppa's House",
-          "episodeName": "Brokeback",
-          "seasonNumber": "1",
-          "episodeNumberInSeason": "7",
-          "airTime": "7:30",
-          "channel": "CBS"
-        },
-        {
-          "showName": "Brilliant Minds",
-          "episodeName": "The Other Woman [fall finale]",
-          "seasonNumber": "1",
-          "episodeNumberInSeason": "11",
-          "airTime": "9:00",
-          "channel": "NBC"
-        }
-      ]
-    },
-    {
-      "date": "December 10, 2024",
-      "list": []
-    },
-    {
-      "date": "December 11, 2024",
-      "list": []
-    },
-    {
-      "date": "December 12, 2024",
-      "list": [
-        {
-          "showName": "Georgie & Mandy's First Marriage",
-          "episodeName": "An Old Mustang [fall finale]",
-          "seasonNumber": "1",
-          "episodeNumberInSeason": "7",
-          "airTime": "7:00",
-          "channel": "CBS] [G"
-        },
-        {
-          "showName": "The Great Christmas Light Fight",
-          "episodeName": "Episode 1204\" & \"Episode 1201",
-          "seasonNumber": "12",
-          "episodeNumberInSeason": "3 & S12 E4",
-          "airTime": "7:00",
-          "channel": "ABC"
-        },
-        {
-          "showName": "Matlock",
-          "episodeName": "No, No Monsters [fall finale]",
-          "seasonNumber": "1",
-          "episodeNumberInSeason": "8",
-          "airTime": "8:00",
-          "channel": "CBS"
-        }
-      ]
-    },
-    {
-      "date": "December 13, 2024",
-      "list": []
-    },
-    {
-      "date": "December 14, 2024",
-      "list": [
-        {
-          "showName": "Saturday Night Live",
-          "episodeName": "Chris Rock / Gracie Adams",
-          "seasonNumber": "50",
-          "episodeNumberInSeason": "9",
-          "airTime": "10:29",
-          "channel": "NBC] [G"
-        }
-      ]
-    },
-    {
-      "date": "December 15, 2024",
-      "list": []
-    },
-    {
-      "date": "December 16, 2024",
-      "list": [
-        {
-          "showName": "The Neighborhood",
-          "episodeName": "Bienvenidos a Nosotros [fall finale]",
-          "seasonNumber": "7",
-          "episodeNumberInSeason": "8",
-          "airTime": "7:00",
-          "channel": "CBS"
-        },
-        {
-          "showName": "Poppa's House",
-          "episodeName": "Wig [fall finale]",
-          "seasonNumber": "1",
-          "episodeNumberInSeason": "8",
-          "airTime": "7:30",
-          "channel": "CBS"
-        }
-      ]
-    },
-    {
-      "date": "December 17, 2024",
-      "list": [
-        {
-          "showName": "St. Denis Medical",
-          "episodeName": "Ho-Ho-Hollo [fall finale]",
-          "seasonNumber": "1",
-          "episodeNumberInSeason": "6",
-          "airTime": "7:00",
-          "channel": "NBC"
-        },
-        {
-          "showName": "Night Court",
-          "episodeName": "Feliz Navidad [fall finale]",
-          "seasonNumber": "3",
-          "episodeNumberInSeason": "4",
-          "airTime": "7:30",
-          "channel": "NBC"
-        }
-      ]
-    },
-    {
-      "date": "December 18, 2024",
-      "list": []
-    },
-    {
-      "date": "December 19, 2024",
-      "list": [
-        {
-          "showName": "The Great Christmas Light Fight",
-          "episodeName": "Episode 1205\" & \"Episode 1206 [season finale]",
-          "seasonNumber": "12",
-          "episodeNumberInSeason": "5 & S12 E6",
-          "airTime": "7:00",
-          "channel": "ABC"
-        }
-      ]
-    },
-    {
-      "date": "December 20, 2024",
-      "list": []
-    },
-    {
-      "date": "December 21, 2024",
-      "list": [
-        {
-          "showName": "Saturday Night Live",
-          "episodeName": "Martin Short / Hozier [fall finale]",
-          "seasonNumber": "50",
-          "episodeNumberInSeason": "10",
-          "airTime": "10:29",
-          "channel": "NBC] [G"
-        }
-      ]
-    },
-    {
-      "date": "December 22, 2024",
-      "list": []
-    },
-    {
       "date": "December 23, 2024",
       "list": [
         {
@@ -212,6 +45,115 @@
     {
       "date": "December 29, 2024",
       "list": []
+    },
+    {
+      "date": "December 30, 2024",
+      "list": []
+    },
+    {
+      "date": "December 31, 2024",
+      "list": []
+    },
+    {
+      "date": "January 1, 2025",
+      "list": []
+    },
+    {
+      "date": "January 2, 2025",
+      "list": []
+    },
+    {
+      "date": "January 3, 2025",
+      "list": []
+    },
+    {
+      "date": "January 4, 2025",
+      "list": []
+    },
+    {
+      "date": "January 5, 2025",
+      "list": [
+        {
+          "showName": "Call the Midwife",
+          "episodeName": "Episode 1",
+          "seasonNumber": "14",
+          "episodeNumberInSeason": "1",
+          "airTime": "1:00",
+          "channel": "BBC One"
+        }
+      ]
+    },
+    {
+      "date": "January 6, 2025",
+      "list": [
+        {
+          "showName": "Brilliant Minds",
+          "episodeName": "The Doctor Whose World Collapsed\" & \"The Man Who Can't See Faces [season finale]",
+          "seasonNumber": "1",
+          "episodeNumberInSeason": "12 & S1 E13",
+          "airTime": "8:00",
+          "channel": "NBC"
+        }
+      ]
+    },
+    {
+      "date": "January 7, 2025",
+      "list": [
+        {
+          "showName": "Will Trent",
+          "episodeName": "I'm a Guest Here",
+          "seasonNumber": "3",
+          "episodeNumberInSeason": "1",
+          "airTime": "7:00",
+          "channel": "ABC"
+        }
+      ]
+    },
+    {
+      "date": "January 8, 2025",
+      "list": [
+        {
+          "showName": "Chicago Med",
+          "episodeName": "Winter Premiere",
+          "seasonNumber": "10",
+          "episodeNumberInSeason": "9",
+          "airTime": "7:00",
+          "channel": "NBC"
+        },
+        {
+          "showName": "Abbott Elementary",
+          "episodeName": "Volunteers",
+          "seasonNumber": "4",
+          "episodeNumberInSeason": "9",
+          "airTime": "7:30",
+          "channel": "ABC"
+        }
+      ]
+    },
+    {
+      "date": "January 9, 2025",
+      "list": []
+    },
+    {
+      "date": "January 10, 2025",
+      "list": []
+    },
+    {
+      "date": "January 11, 2025",
+      "list": []
+    },
+    {
+      "date": "January 12, 2025",
+      "list": [
+        {
+          "showName": "Call the Midwife",
+          "episodeName": "Episode 2",
+          "seasonNumber": "14",
+          "episodeNumberInSeason": "2",
+          "airTime": "1:00",
+          "channel": "BBC One"
+        }
+      ]
     }
   ]
 }
