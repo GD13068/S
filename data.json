@@ -76,7 +76,95 @@
           "seasonNumber": "14",
           "episodeNumberInSeason": "3",
           "airTime": "1:00",
-          "channel": "BBC One"
+          "channel": "BBC One] [G"
+        }
+      ]
+    },
+    {
+      "date": "January 20, 2025",
+      "list": []
+    },
+    {
+      "date": "January 21, 2025",
+      "list": [
+        {
+          "showName": "Will Trent",
+          "episodeName": "Find a New Pond",
+          "seasonNumber": "3",
+          "episodeNumberInSeason": "3",
+          "airTime": "7:00",
+          "channel": "ABC"
+        },
+        {
+          "showName": "St. Denis Medical",
+          "episodeName": "Gimme the Scuttlebutt",
+          "seasonNumber": "1",
+          "episodeNumberInSeason": "8",
+          "airTime": "7:00",
+          "channel": "NBC"
+        },
+        {
+          "showName": "Night Court",
+          "episodeName": "The Jakeout",
+          "seasonNumber": "3",
+          "episodeNumberInSeason": "6",
+          "airTime": "7:30",
+          "channel": "NBC"
+        }
+      ]
+    },
+    {
+      "date": "January 22, 2025",
+      "list": [
+        {
+          "showName": "Chicago Med",
+          "episodeName": "Broken Hearts",
+          "seasonNumber": "10",
+          "episodeNumberInSeason": "10",
+          "airTime": "7:00",
+          "channel": "NBC"
+        },
+        {
+          "showName": "Abbott Elementary",
+          "episodeName": "Strike",
+          "seasonNumber": "4",
+          "episodeNumberInSeason": "11",
+          "airTime": "7:30",
+          "channel": "ABC"
+        }
+      ]
+    },
+    {
+      "date": "January 23, 2025",
+      "list": []
+    },
+    {
+      "date": "January 24, 2025",
+      "list": []
+    },
+    {
+      "date": "January 25, 2025",
+      "list": [
+        {
+          "showName": "Saturday Night Live",
+          "episodeName": "Timothée Chalamet / Timothée Chalamet",
+          "seasonNumber": "50",
+          "episodeNumberInSeason": "12",
+          "airTime": "10:29",
+          "channel": "NBC] [G"
+        }
+      ]
+    },
+    {
+      "date": "January 26, 2025",
+      "list": [
+        {
+          "showName": "Call the Midwife",
+          "episodeName": "Episode 4",
+          "seasonNumber": "14",
+          "episodeNumberInSeason": "4",
+          "airTime": "1:00",
+          "channel": "BBC One] [G"
         }
       ]
     }
