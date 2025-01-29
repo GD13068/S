@@ -1,94 +1,6 @@
 {
   "data": [
     {
-      "date": "January 20, 2025",
-      "list": []
-    },
-    {
-      "date": "January 21, 2025",
-      "list": [
-        {
-          "showName": "Will Trent",
-          "episodeName": "Find a New Pond",
-          "seasonNumber": "3",
-          "episodeNumberInSeason": "3",
-          "airTime": "7:00",
-          "channel": "ABC"
-        },
-        {
-          "showName": "St. Denis Medical",
-          "episodeName": "Gimme the Scuttlebutt",
-          "seasonNumber": "1",
-          "episodeNumberInSeason": "8",
-          "airTime": "7:00",
-          "channel": "NBC"
-        },
-        {
-          "showName": "Night Court",
-          "episodeName": "The Jakeout",
-          "seasonNumber": "3",
-          "episodeNumberInSeason": "6",
-          "airTime": "7:30",
-          "channel": "NBC"
-        }
-      ]
-    },
-    {
-      "date": "January 22, 2025",
-      "list": [
-        {
-          "showName": "Chicago Med",
-          "episodeName": "Broken Hearts",
-          "seasonNumber": "10",
-          "episodeNumberInSeason": "10",
-          "airTime": "7:00",
-          "channel": "NBC"
-        },
-        {
-          "showName": "Abbott Elementary",
-          "episodeName": "Strike",
-          "seasonNumber": "4",
-          "episodeNumberInSeason": "11",
-          "airTime": "7:30",
-          "channel": "ABC"
-        }
-      ]
-    },
-    {
-      "date": "January 23, 2025",
-      "list": []
-    },
-    {
-      "date": "January 24, 2025",
-      "list": []
-    },
-    {
-      "date": "January 25, 2025",
-      "list": [
-        {
-          "showName": "Saturday Night Live",
-          "episodeName": "Timothée Chalamet / Timothée Chalamet",
-          "seasonNumber": "50",
-          "episodeNumberInSeason": "12",
-          "airTime": "10:29",
-          "channel": "NBC] [G"
-        }
-      ]
-    },
-    {
-      "date": "January 26, 2025",
-      "list": [
-        {
-          "showName": "Call the Midwife",
-          "episodeName": "Episode 4",
-          "seasonNumber": "14",
-          "episodeNumberInSeason": "4",
-          "airTime": "1:00",
-          "channel": "BBC One] [G"
-        }
-      ]
-    },
-    {
       "date": "January 27, 2025",
       "list": [
         {
@@ -196,6 +108,119 @@
           "episodeName": "Episode 5",
           "seasonNumber": "14",
           "episodeNumberInSeason": "5",
+          "airTime": "1:05",
+          "channel": "BBC One] [G"
+        }
+      ]
+    },
+    {
+      "date": "February 3, 2025",
+      "list": [
+        {
+          "showName": "The Neighborhood",
+          "episodeName": "Welcome to the Pickle",
+          "seasonNumber": "7",
+          "episodeNumberInSeason": "10",
+          "airTime": "7:00",
+          "channel": "CBS"
+        },
+        {
+          "showName": "Poppa's House",
+          "episodeName": "Elevator Friend",
+          "seasonNumber": "1",
+          "episodeNumberInSeason": "10",
+          "airTime": "7:30",
+          "channel": "CBS] [G"
+        }
+      ]
+    },
+    {
+      "date": "February 4, 2025",
+      "list": [
+        {
+          "showName": "Will Trent",
+          "episodeName": "Breathe with Me",
+          "seasonNumber": "3",
+          "episodeNumberInSeason": "5",
+          "airTime": "7:00",
+          "channel": "ABC"
+        },
+        {
+          "showName": "St. Denis Medical",
+          "episodeName": "People Just Say Stuff Online",
+          "seasonNumber": "1",
+          "episodeNumberInSeason": "10",
+          "airTime": "7:00",
+          "channel": "NBC"
+        },
+        {
+          "showName": "Night Court",
+          "episodeName": "Age Against the Machine",
+          "seasonNumber": "3",
+          "episodeNumberInSeason": "8",
+          "airTime": "7:30",
+          "channel": "NBC"
+        }
+      ]
+    },
+    {
+      "date": "February 5, 2025",
+      "list": [
+        {
+          "showName": "Chicago Med",
+          "episodeName": "In the Wake",
+          "seasonNumber": "10",
+          "episodeNumberInSeason": "12",
+          "airTime": "7:00",
+          "channel": "NBC"
+        },
+        {
+          "showName": "Abbott Elementary",
+          "episodeName": "Science Fair",
+          "seasonNumber": "4",
+          "episodeNumberInSeason": "13",
+          "airTime": "7:30",
+          "channel": "ABC"
+        }
+      ]
+    },
+    {
+      "date": "February 6, 2025",
+      "list": [
+        {
+          "showName": "Georgie & Mandy's First Marriage",
+          "episodeName": "A Tire Convention and the Moral High Ground",
+          "seasonNumber": "1",
+          "episodeNumberInSeason": "9",
+          "airTime": "7:00",
+          "channel": "CBS] [G"
+        },
+        {
+          "showName": "Matlock",
+          "episodeName": "Crash Helmets On",
+          "seasonNumber": "1",
+          "episodeNumberInSeason": "10",
+          "airTime": "8:00",
+          "channel": "CBS"
+        }
+      ]
+    },
+    {
+      "date": "February 7, 2025",
+      "list": []
+    },
+    {
+      "date": "February 8, 2025",
+      "list": []
+    },
+    {
+      "date": "February 9, 2025",
+      "list": [
+        {
+          "showName": "Call the Midwife",
+          "episodeName": "Episode 6",
+          "seasonNumber": "14",
+          "episodeNumberInSeason": "6",
           "airTime": "1:05",
           "channel": "BBC One] [G"
         }
