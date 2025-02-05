@@ -1,119 +1,6 @@
 {
   "data": [
     {
-      "date": "January 27, 2025",
-      "list": [
-        {
-          "showName": "The Neighborhood",
-          "episodeName": "Welcome to Pickleball",
-          "seasonNumber": "7",
-          "episodeNumberInSeason": "9",
-          "airTime": "7:00",
-          "channel": "CBS"
-        },
-        {
-          "showName": "Poppa's House",
-          "episodeName": "Puppy",
-          "seasonNumber": "1",
-          "episodeNumberInSeason": "9",
-          "airTime": "7:30",
-          "channel": "CBS] [G"
-        }
-      ]
-    },
-    {
-      "date": "January 28, 2025",
-      "list": [
-        {
-          "showName": "Will Trent",
-          "episodeName": "Floor is Lava",
-          "seasonNumber": "3",
-          "episodeNumberInSeason": "4",
-          "airTime": "7:00",
-          "channel": "ABC"
-        },
-        {
-          "showName": "St. Denis Medical",
-          "episodeName": "You Gotta Have a Plan",
-          "seasonNumber": "1",
-          "episodeNumberInSeason": "9",
-          "airTime": "7:00",
-          "channel": "NBC"
-        },
-        {
-          "showName": "Night Court",
-          "episodeName": "Rebound and Down",
-          "seasonNumber": "3",
-          "episodeNumberInSeason": "7",
-          "airTime": "7:30",
-          "channel": "NBC"
-        }
-      ]
-    },
-    {
-      "date": "January 29, 2025",
-      "list": [
-        {
-          "showName": "Abbott Elementary",
-          "episodeName": "Girard Creek",
-          "seasonNumber": "4",
-          "episodeNumberInSeason": "12",
-          "airTime": "7:30",
-          "channel": "ABC"
-        },
-        {
-          "showName": "Chicago Med",
-          "episodeName": "In the Trenches: Part II [Part 2 of a 3-part Crossover Event]",
-          "seasonNumber": "10",
-          "episodeNumberInSeason": "11",
-          "airTime": "8:00",
-          "channel": "NBC] [G"
-        }
-      ]
-    },
-    {
-      "date": "January 30, 2025",
-      "list": [
-        {
-          "showName": "Georgie & Mandy's First Marriage",
-          "episodeName": "Diet Crap",
-          "seasonNumber": "1",
-          "episodeNumberInSeason": "8",
-          "airTime": "7:00",
-          "channel": "CBS] [G"
-        },
-        {
-          "showName": "Matlock",
-          "episodeName": "Friends",
-          "seasonNumber": "1",
-          "episodeNumberInSeason": "9",
-          "airTime": "8:00",
-          "channel": "CBS"
-        }
-      ]
-    },
-    {
-      "date": "January 31, 2025",
-      "list": []
-    },
-    {
-      "date": "February 1, 2025",
-      "list": []
-    },
-    {
-      "date": "February 2, 2025",
-      "list": [
-        {
-          "showName": "Call the Midwife",
-          "episodeName": "Episode 5",
-          "seasonNumber": "14",
-          "episodeNumberInSeason": "5",
-          "airTime": "1:05",
-          "channel": "BBC One] [G"
-        }
-      ]
-    },
-    {
       "date": "February 3, 2025",
       "list": [
         {
@@ -223,6 +110,119 @@
           "episodeNumberInSeason": "6",
           "airTime": "1:05",
           "channel": "BBC One] [G"
+        }
+      ]
+    },
+    {
+      "date": "February 10, 2025",
+      "list": [
+        {
+          "showName": "The Neighborhood",
+          "episodeName": "Welcome to the E-Neighborhood",
+          "seasonNumber": "7",
+          "episodeNumberInSeason": "11",
+          "airTime": "7:00",
+          "channel": "CBS"
+        },
+        {
+          "showName": "Poppa's House",
+          "episodeName": "Dirty Laundry",
+          "seasonNumber": "1",
+          "episodeNumberInSeason": "11",
+          "airTime": "7:30",
+          "channel": "CBS] [G"
+        }
+      ]
+    },
+    {
+      "date": "February 11, 2025",
+      "list": [
+        {
+          "showName": "Will Trent",
+          "episodeName": "No Faith in Second Chances",
+          "seasonNumber": "3",
+          "episodeNumberInSeason": "6",
+          "airTime": "7:00",
+          "channel": "ABC"
+        },
+        {
+          "showName": "St. Denis Medical",
+          "episodeName": "Nobody Even Mentions the Brownies!",
+          "seasonNumber": "1",
+          "episodeNumberInSeason": "11",
+          "airTime": "7:00",
+          "channel": "NBC"
+        },
+        {
+          "showName": "Night Court",
+          "episodeName": "Ab-ventures in Babysitting",
+          "seasonNumber": "3",
+          "episodeNumberInSeason": "9",
+          "airTime": "7:30",
+          "channel": "NBC"
+        }
+      ]
+    },
+    {
+      "date": "February 12, 2025",
+      "list": [
+        {
+          "showName": "Abbott Elementary",
+          "episodeName": "District Budget Meeting",
+          "seasonNumber": "4",
+          "episodeNumberInSeason": "14",
+          "airTime": "7:30",
+          "channel": "ABC"
+        }
+      ]
+    },
+    {
+      "date": "February 13, 2025",
+      "list": [
+        {
+          "showName": "Georgie & Mandy's First Marriage",
+          "episodeName": "A House Divided",
+          "seasonNumber": "1",
+          "episodeNumberInSeason": "10",
+          "airTime": "7:00",
+          "channel": "CBS] [G"
+        },
+        {
+          "showName": "Matlock",
+          "episodeName": "A Traitor in Thine Own House",
+          "seasonNumber": "1",
+          "episodeNumberInSeason": "11",
+          "airTime": "8:00",
+          "channel": "CBS"
+        }
+      ]
+    },
+    {
+      "date": "February 14, 2025",
+      "list": []
+    },
+    {
+      "date": "February 15, 2025",
+      "list": []
+    },
+    {
+      "date": "February 16, 2025",
+      "list": [
+        {
+          "showName": "Saturday Night Live",
+          "episodeName": "SNL50: The Anniversary Special",
+          "seasonNumber": "50",
+          "episodeNumberInSeason": "0",
+          "airTime": "7:00",
+          "channel": "NBC] [G"
+        },
+        {
+          "showName": "Watson",
+          "episodeName": "Redcoat",
+          "seasonNumber": "1",
+          "episodeNumberInSeason": "2",
+          "airTime": "8:00",
+          "channel": "CBS"
         }
       ]
     }
