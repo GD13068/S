@@ -1,119 +1,6 @@
 {
   "data": [
     {
-      "date": "February 3, 2025",
-      "list": [
-        {
-          "showName": "The Neighborhood",
-          "episodeName": "Welcome to the Pickle",
-          "seasonNumber": "7",
-          "episodeNumberInSeason": "10",
-          "airTime": "7:00",
-          "channel": "CBS"
-        },
-        {
-          "showName": "Poppa's House",
-          "episodeName": "Elevator Friend",
-          "seasonNumber": "1",
-          "episodeNumberInSeason": "10",
-          "airTime": "7:30",
-          "channel": "CBS] [G"
-        }
-      ]
-    },
-    {
-      "date": "February 4, 2025",
-      "list": [
-        {
-          "showName": "Will Trent",
-          "episodeName": "Breathe with Me",
-          "seasonNumber": "3",
-          "episodeNumberInSeason": "5",
-          "airTime": "7:00",
-          "channel": "ABC"
-        },
-        {
-          "showName": "St. Denis Medical",
-          "episodeName": "People Just Say Stuff Online",
-          "seasonNumber": "1",
-          "episodeNumberInSeason": "10",
-          "airTime": "7:00",
-          "channel": "NBC"
-        },
-        {
-          "showName": "Night Court",
-          "episodeName": "Age Against the Machine",
-          "seasonNumber": "3",
-          "episodeNumberInSeason": "8",
-          "airTime": "7:30",
-          "channel": "NBC"
-        }
-      ]
-    },
-    {
-      "date": "February 5, 2025",
-      "list": [
-        {
-          "showName": "Chicago Med",
-          "episodeName": "In the Wake",
-          "seasonNumber": "10",
-          "episodeNumberInSeason": "12",
-          "airTime": "7:00",
-          "channel": "NBC"
-        },
-        {
-          "showName": "Abbott Elementary",
-          "episodeName": "Science Fair",
-          "seasonNumber": "4",
-          "episodeNumberInSeason": "13",
-          "airTime": "7:30",
-          "channel": "ABC"
-        }
-      ]
-    },
-    {
-      "date": "February 6, 2025",
-      "list": [
-        {
-          "showName": "Georgie & Mandy's First Marriage",
-          "episodeName": "A Tire Convention and the Moral High Ground",
-          "seasonNumber": "1",
-          "episodeNumberInSeason": "9",
-          "airTime": "7:00",
-          "channel": "CBS] [G"
-        },
-        {
-          "showName": "Matlock",
-          "episodeName": "Crash Helmets On",
-          "seasonNumber": "1",
-          "episodeNumberInSeason": "10",
-          "airTime": "8:00",
-          "channel": "CBS"
-        }
-      ]
-    },
-    {
-      "date": "February 7, 2025",
-      "list": []
-    },
-    {
-      "date": "February 8, 2025",
-      "list": []
-    },
-    {
-      "date": "February 9, 2025",
-      "list": [
-        {
-          "showName": "Call the Midwife",
-          "episodeName": "Episode 6",
-          "seasonNumber": "14",
-          "episodeNumberInSeason": "6",
-          "airTime": "1:05",
-          "channel": "BBC One] [G"
-        }
-      ]
-    },
-    {
       "date": "February 10, 2025",
       "list": [
         {
@@ -122,7 +9,7 @@
           "seasonNumber": "7",
           "episodeNumberInSeason": "11",
           "airTime": "7:00",
-          "channel": "CBS"
+          "channel": "CBS] [G"
         },
         {
           "showName": "Poppa's House",
@@ -221,6 +108,94 @@
           "episodeName": "Redcoat",
           "seasonNumber": "1",
           "episodeNumberInSeason": "2",
+          "airTime": "8:00",
+          "channel": "CBS"
+        }
+      ]
+    },
+    {
+      "date": "February 17, 2025",
+      "list": []
+    },
+    {
+      "date": "February 18, 2025",
+      "list": [
+        {
+          "showName": "Will Trent",
+          "episodeName": "Mariachi Shelly's Frankenstein",
+          "seasonNumber": "3",
+          "episodeNumberInSeason": "7",
+          "airTime": "7:00",
+          "channel": "ABC"
+        }
+      ]
+    },
+    {
+      "date": "February 19, 2025",
+      "list": [
+        {
+          "showName": "Chicago Med",
+          "episodeName": "Take a Look in the Mirror",
+          "seasonNumber": "10",
+          "episodeNumberInSeason": "13",
+          "airTime": "7:00",
+          "channel": "NBC"
+        }
+      ]
+    },
+    {
+      "date": "February 20, 2025",
+      "list": [
+        {
+          "showName": "Georgie & Mandy's First Marriage",
+          "episodeName": "Working for the Enemy",
+          "seasonNumber": "1",
+          "episodeNumberInSeason": "11",
+          "airTime": "7:00",
+          "channel": "CBS] [G"
+        },
+        {
+          "showName": "Matlock",
+          "episodeName": "This is that Moment",
+          "seasonNumber": "1",
+          "episodeNumberInSeason": "12",
+          "airTime": "8:00",
+          "channel": "CBS"
+        }
+      ]
+    },
+    {
+      "date": "February 21, 2025",
+      "list": []
+    },
+    {
+      "date": "February 22, 2025",
+      "list": []
+    },
+    {
+      "date": "February 23, 2025",
+      "list": [
+        {
+          "showName": "Call the Midwife",
+          "episodeName": "Episode 7",
+          "seasonNumber": "14",
+          "episodeNumberInSeason": "7",
+          "airTime": "2:05",
+          "channel": "BBC One] [G"
+        },
+        {
+          "showName": "Suits LA",
+          "episodeName": "Episode 1",
+          "seasonNumber": "1",
+          "episodeNumberInSeason": "1",
+          "airTime": "8:00",
+          "channel": "NBC"
+        },
+        {
+          "showName": "Watson",
+          "episodeName": "Wait for the Punchline",
+          "seasonNumber": "1",
+          "episodeNumberInSeason": "3",
           "airTime": "8:00",
           "channel": "CBS"
         }
