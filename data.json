@@ -1,119 +1,6 @@
 {
   "data": [
     {
-      "date": "February 10, 2025",
-      "list": [
-        {
-          "showName": "The Neighborhood",
-          "episodeName": "Welcome to the E-Neighborhood",
-          "seasonNumber": "7",
-          "episodeNumberInSeason": "11",
-          "airTime": "7:00",
-          "channel": "CBS] [G"
-        },
-        {
-          "showName": "Poppa's House",
-          "episodeName": "Dirty Laundry",
-          "seasonNumber": "1",
-          "episodeNumberInSeason": "11",
-          "airTime": "7:30",
-          "channel": "CBS] [G"
-        }
-      ]
-    },
-    {
-      "date": "February 11, 2025",
-      "list": [
-        {
-          "showName": "Will Trent",
-          "episodeName": "No Faith in Second Chances",
-          "seasonNumber": "3",
-          "episodeNumberInSeason": "6",
-          "airTime": "7:00",
-          "channel": "ABC"
-        },
-        {
-          "showName": "St. Denis Medical",
-          "episodeName": "Nobody Even Mentions the Brownies!",
-          "seasonNumber": "1",
-          "episodeNumberInSeason": "11",
-          "airTime": "7:00",
-          "channel": "NBC"
-        },
-        {
-          "showName": "Night Court",
-          "episodeName": "Ab-ventures in Babysitting",
-          "seasonNumber": "3",
-          "episodeNumberInSeason": "9",
-          "airTime": "7:30",
-          "channel": "NBC"
-        }
-      ]
-    },
-    {
-      "date": "February 12, 2025",
-      "list": [
-        {
-          "showName": "Abbott Elementary",
-          "episodeName": "District Budget Meeting",
-          "seasonNumber": "4",
-          "episodeNumberInSeason": "14",
-          "airTime": "7:30",
-          "channel": "ABC"
-        }
-      ]
-    },
-    {
-      "date": "February 13, 2025",
-      "list": [
-        {
-          "showName": "Georgie & Mandy's First Marriage",
-          "episodeName": "A House Divided",
-          "seasonNumber": "1",
-          "episodeNumberInSeason": "10",
-          "airTime": "7:00",
-          "channel": "CBS] [G"
-        },
-        {
-          "showName": "Matlock",
-          "episodeName": "A Traitor in Thine Own House",
-          "seasonNumber": "1",
-          "episodeNumberInSeason": "11",
-          "airTime": "8:00",
-          "channel": "CBS"
-        }
-      ]
-    },
-    {
-      "date": "February 14, 2025",
-      "list": []
-    },
-    {
-      "date": "February 15, 2025",
-      "list": []
-    },
-    {
-      "date": "February 16, 2025",
-      "list": [
-        {
-          "showName": "Saturday Night Live",
-          "episodeName": "SNL50: The Anniversary Special",
-          "seasonNumber": "50",
-          "episodeNumberInSeason": "0",
-          "airTime": "7:00",
-          "channel": "NBC] [G"
-        },
-        {
-          "showName": "Watson",
-          "episodeName": "Redcoat",
-          "seasonNumber": "1",
-          "episodeNumberInSeason": "2",
-          "airTime": "8:00",
-          "channel": "CBS"
-        }
-      ]
-    },
-    {
       "date": "February 17, 2025",
       "list": []
     },
@@ -127,6 +14,22 @@
           "episodeNumberInSeason": "7",
           "airTime": "7:00",
           "channel": "ABC"
+        },
+        {
+          "showName": "St. Denis Medical",
+          "episodeName": "Buffalo Bruce and Matty the Kid",
+          "seasonNumber": "1",
+          "episodeNumberInSeason": "12",
+          "airTime": "7:00",
+          "channel": "NBC"
+        },
+        {
+          "showName": "Night Court",
+          "episodeName": "Pension Tension",
+          "seasonNumber": "3",
+          "episodeNumberInSeason": "10",
+          "airTime": "7:30",
+          "channel": "NBC"
         }
       ]
     },
@@ -185,7 +88,7 @@
         },
         {
           "showName": "Suits LA",
-          "episodeName": "Episode 1",
+          "episodeName": "Seven Days a Week and Twice on Sundays",
           "seasonNumber": "1",
           "episodeNumberInSeason": "1",
           "airTime": "8:00",
@@ -196,6 +99,144 @@
           "episodeName": "Wait for the Punchline",
           "seasonNumber": "1",
           "episodeNumberInSeason": "3",
+          "airTime": "8:00",
+          "channel": "CBS"
+        }
+      ]
+    },
+    {
+      "date": "February 24, 2025",
+      "list": [
+        {
+          "showName": "The Neighborhood",
+          "episodeName": "Welcome to Getting Lucky",
+          "seasonNumber": "7",
+          "episodeNumberInSeason": "12",
+          "airTime": "7:00",
+          "channel": "CBS] [G"
+        },
+        {
+          "showName": "Poppa's House",
+          "episodeName": "Slumber Party",
+          "seasonNumber": "1",
+          "episodeNumberInSeason": "12",
+          "airTime": "7:30",
+          "channel": "CBS] [G"
+        }
+      ]
+    },
+    {
+      "date": "February 25, 2025",
+      "list": [
+        {
+          "showName": "Will Trent",
+          "episodeName": "Abigail B.",
+          "seasonNumber": "3",
+          "episodeNumberInSeason": "8",
+          "airTime": "7:00",
+          "channel": "ABC"
+        },
+        {
+          "showName": "St. Denis Medical",
+          "episodeName": "Some Famous Internet Guy",
+          "seasonNumber": "1",
+          "episodeNumberInSeason": "13",
+          "airTime": "7:00",
+          "channel": "NBC"
+        },
+        {
+          "showName": "Night Court",
+          "episodeName": "Abracadabra Alaka-Dan",
+          "seasonNumber": "3",
+          "episodeNumberInSeason": "11",
+          "airTime": "7:30",
+          "channel": "NBC"
+        }
+      ]
+    },
+    {
+      "date": "February 26, 2025",
+      "list": [
+        {
+          "showName": "Chicago Med",
+          "episodeName": "Acid Test",
+          "seasonNumber": "10",
+          "episodeNumberInSeason": "14",
+          "airTime": "7:00",
+          "channel": "NBC"
+        },
+        {
+          "showName": "Abbott Elementary",
+          "episodeName": "100th Day of School",
+          "seasonNumber": "4",
+          "episodeNumberInSeason": "15",
+          "airTime": "7:30",
+          "channel": "ABC"
+        }
+      ]
+    },
+    {
+      "date": "February 27, 2025",
+      "list": [
+        {
+          "showName": "Georgie & Mandy's First Marriage",
+          "episodeName": "Typhoid Georgie",
+          "seasonNumber": "1",
+          "episodeNumberInSeason": "12",
+          "airTime": "7:00",
+          "channel": "CBS] [G"
+        },
+        {
+          "showName": "Matlock",
+          "episodeName": "Pregame",
+          "seasonNumber": "1",
+          "episodeNumberInSeason": "13",
+          "airTime": "8:00",
+          "channel": "CBS"
+        }
+      ]
+    },
+    {
+      "date": "February 28, 2025",
+      "list": []
+    },
+    {
+      "date": "March 1, 2025",
+      "list": [
+        {
+          "showName": "Saturday Night Live",
+          "episodeName": "shane Gillis / Tate McRae",
+          "seasonNumber": "50",
+          "episodeNumberInSeason": "13",
+          "airTime": "10:29",
+          "channel": "NBC"
+        }
+      ]
+    },
+    {
+      "date": "March 2, 2025",
+      "list": [
+        {
+          "showName": "Call the Midwife",
+          "episodeName": "Episode 8",
+          "seasonNumber": "14",
+          "episodeNumberInSeason": "8",
+          "airTime": "2:00",
+          "channel": "BBC One] [G"
+        },
+        {
+          "showName": "Suits LA",
+          "episodeName": "Old Man Hanrahan",
+          "seasonNumber": "1",
+          "episodeNumberInSeason": "2",
+          "airTime": "8:00",
+          "channel": "NBC"
+        },
+        {
+          "showName": "Watson",
+          "episodeName": "Patient Question Mark",
+          "seasonNumber": "1",
+          "episodeNumberInSeason": "4",
           "airTime": "8:00",
           "channel": "CBS"
         }
