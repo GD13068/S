@@ -1,110 +1,6 @@
 {
   "data": [
     {
-      "date": "February 17, 2025",
-      "list": []
-    },
-    {
-      "date": "February 18, 2025",
-      "list": [
-        {
-          "showName": "Will Trent",
-          "episodeName": "Mariachi Shelly's Frankenstein",
-          "seasonNumber": "3",
-          "episodeNumberInSeason": "7",
-          "airTime": "7:00",
-          "channel": "ABC"
-        },
-        {
-          "showName": "St. Denis Medical",
-          "episodeName": "Buffalo Bruce and Matty the Kid",
-          "seasonNumber": "1",
-          "episodeNumberInSeason": "12",
-          "airTime": "7:00",
-          "channel": "NBC"
-        },
-        {
-          "showName": "Night Court",
-          "episodeName": "Pension Tension",
-          "seasonNumber": "3",
-          "episodeNumberInSeason": "10",
-          "airTime": "7:30",
-          "channel": "NBC"
-        }
-      ]
-    },
-    {
-      "date": "February 19, 2025",
-      "list": [
-        {
-          "showName": "Chicago Med",
-          "episodeName": "Take a Look in the Mirror",
-          "seasonNumber": "10",
-          "episodeNumberInSeason": "13",
-          "airTime": "7:00",
-          "channel": "NBC"
-        }
-      ]
-    },
-    {
-      "date": "February 20, 2025",
-      "list": [
-        {
-          "showName": "Georgie & Mandy's First Marriage",
-          "episodeName": "Working for the Enemy",
-          "seasonNumber": "1",
-          "episodeNumberInSeason": "11",
-          "airTime": "7:00",
-          "channel": "CBS] [G"
-        },
-        {
-          "showName": "Matlock",
-          "episodeName": "This is that Moment",
-          "seasonNumber": "1",
-          "episodeNumberInSeason": "12",
-          "airTime": "8:00",
-          "channel": "CBS"
-        }
-      ]
-    },
-    {
-      "date": "February 21, 2025",
-      "list": []
-    },
-    {
-      "date": "February 22, 2025",
-      "list": []
-    },
-    {
-      "date": "February 23, 2025",
-      "list": [
-        {
-          "showName": "Call the Midwife",
-          "episodeName": "Episode 7",
-          "seasonNumber": "14",
-          "episodeNumberInSeason": "7",
-          "airTime": "2:05",
-          "channel": "BBC One] [G"
-        },
-        {
-          "showName": "Suits LA",
-          "episodeName": "Seven Days a Week and Twice on Sundays",
-          "seasonNumber": "1",
-          "episodeNumberInSeason": "1",
-          "airTime": "8:00",
-          "channel": "NBC"
-        },
-        {
-          "showName": "Watson",
-          "episodeName": "Wait for the Punchline",
-          "seasonNumber": "1",
-          "episodeNumberInSeason": "3",
-          "airTime": "8:00",
-          "channel": "CBS"
-        }
-      ]
-    },
-    {
       "date": "February 24, 2025",
       "list": [
         {
@@ -205,7 +101,7 @@
       "list": [
         {
           "showName": "Saturday Night Live",
-          "episodeName": "shane Gillis / Tate McRae",
+          "episodeName": "Shane Gillis / Tate McRae",
           "seasonNumber": "50",
           "episodeNumberInSeason": "13",
           "airTime": "10:29",
@@ -218,7 +114,7 @@
       "list": [
         {
           "showName": "Call the Midwife",
-          "episodeName": "Episode 8",
+          "episodeName": "Episode 8 [season finale]",
           "seasonNumber": "14",
           "episodeNumberInSeason": "8",
           "airTime": "2:00",
@@ -237,6 +133,111 @@
           "episodeName": "Patient Question Mark",
           "seasonNumber": "1",
           "episodeNumberInSeason": "4",
+          "airTime": "8:00",
+          "channel": "CBS"
+        }
+      ]
+    },
+    {
+      "date": "March 3, 2025",
+      "list": [
+        {
+          "showName": "The Neighborhood",
+          "episodeName": "Welcome to Not Being In It",
+          "seasonNumber": "7",
+          "episodeNumberInSeason": "13",
+          "airTime": "7:00",
+          "channel": "CBS] [G"
+        },
+        {
+          "showName": "Poppa's House",
+          "episodeName": "Graduation",
+          "seasonNumber": "1",
+          "episodeNumberInSeason": "13",
+          "airTime": "7:30",
+          "channel": "CBS] [G"
+        }
+      ]
+    },
+    {
+      "date": "March 4, 2025",
+      "list": []
+    },
+    {
+      "date": "March 5, 2025",
+      "list": [
+        {
+          "showName": "Chicago Med",
+          "episodeName": "Down in a Hole",
+          "seasonNumber": "10",
+          "episodeNumberInSeason": "15",
+          "airTime": "7:00",
+          "channel": "NBC"
+        },
+        {
+          "showName": "Abbott Elementary",
+          "episodeName": "Books",
+          "seasonNumber": "4",
+          "episodeNumberInSeason": "16",
+          "airTime": "7:30",
+          "channel": "ABC"
+        }
+      ]
+    },
+    {
+      "date": "March 6, 2025",
+      "list": [
+        {
+          "showName": "Georgie & Mandy's First Marriage",
+          "episodeName": "McAllister Auto Loves the Ladies",
+          "seasonNumber": "1",
+          "episodeNumberInSeason": "13",
+          "airTime": "7:00",
+          "channel": "CBS] [G"
+        },
+        {
+          "showName": "Matlock",
+          "episodeName": "Game Day",
+          "seasonNumber": "1",
+          "episodeNumberInSeason": "14",
+          "airTime": "8:00",
+          "channel": "CBS"
+        }
+      ]
+    },
+    {
+      "date": "March 7, 2025",
+      "list": []
+    },
+    {
+      "date": "March 8, 2025",
+      "list": [
+        {
+          "showName": "Saturday Night Live",
+          "episodeName": "Lady Gaga / Lady Gaga",
+          "seasonNumber": "50",
+          "episodeNumberInSeason": "14",
+          "airTime": "10:29",
+          "channel": "NBC"
+        }
+      ]
+    },
+    {
+      "date": "March 9, 2025",
+      "list": [
+        {
+          "showName": "Suits LA",
+          "episodeName": "He Knew",
+          "seasonNumber": "1",
+          "episodeNumberInSeason": "3",
+          "airTime": "8:00",
+          "channel": "NBC"
+        },
+        {
+          "showName": "Watson",
+          "episodeName": "The Man with the Glowing Chest",
+          "seasonNumber": "1",
+          "episodeNumberInSeason": "5",
           "airTime": "8:00",
           "channel": "CBS"
         }
