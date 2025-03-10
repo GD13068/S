@@ -1,111 +1,6 @@
 {
   "data": [
     {
-      "date": "March 3, 2025",
-      "list": [
-        {
-          "showName": "The Neighborhood",
-          "episodeName": "Welcome to Not Being In It",
-          "seasonNumber": "7",
-          "episodeNumberInSeason": "13",
-          "airTime": "7:00",
-          "channel": "CBS] [G"
-        },
-        {
-          "showName": "Poppa's House",
-          "episodeName": "Graduation",
-          "seasonNumber": "1",
-          "episodeNumberInSeason": "13",
-          "airTime": "7:30",
-          "channel": "CBS] [G"
-        }
-      ]
-    },
-    {
-      "date": "March 4, 2025",
-      "list": []
-    },
-    {
-      "date": "March 5, 2025",
-      "list": [
-        {
-          "showName": "Chicago Med",
-          "episodeName": "Down in a Hole",
-          "seasonNumber": "10",
-          "episodeNumberInSeason": "15",
-          "airTime": "7:00",
-          "channel": "NBC"
-        },
-        {
-          "showName": "Abbott Elementary",
-          "episodeName": "Books",
-          "seasonNumber": "4",
-          "episodeNumberInSeason": "16",
-          "airTime": "7:30",
-          "channel": "ABC"
-        }
-      ]
-    },
-    {
-      "date": "March 6, 2025",
-      "list": [
-        {
-          "showName": "Georgie & Mandy's First Marriage",
-          "episodeName": "McAllister Auto Loves the Ladies",
-          "seasonNumber": "1",
-          "episodeNumberInSeason": "13",
-          "airTime": "7:00",
-          "channel": "CBS] [G"
-        },
-        {
-          "showName": "Matlock",
-          "episodeName": "Game Day",
-          "seasonNumber": "1",
-          "episodeNumberInSeason": "14",
-          "airTime": "8:00",
-          "channel": "CBS"
-        }
-      ]
-    },
-    {
-      "date": "March 7, 2025",
-      "list": []
-    },
-    {
-      "date": "March 8, 2025",
-      "list": [
-        {
-          "showName": "Saturday Night Live",
-          "episodeName": "Lady Gaga / Lady Gaga",
-          "seasonNumber": "50",
-          "episodeNumberInSeason": "14",
-          "airTime": "10:29",
-          "channel": "NBC"
-        }
-      ]
-    },
-    {
-      "date": "March 9, 2025",
-      "list": [
-        {
-          "showName": "Suits LA",
-          "episodeName": "He Knew",
-          "seasonNumber": "1",
-          "episodeNumberInSeason": "3",
-          "airTime": "8:00",
-          "channel": "NBC"
-        },
-        {
-          "showName": "Watson",
-          "episodeName": "The Man with the Glowing Chest",
-          "seasonNumber": "1",
-          "episodeNumberInSeason": "5",
-          "airTime": "8:00",
-          "channel": "CBS"
-        }
-      ]
-    },
-    {
       "date": "March 10, 2025",
       "list": []
     },
@@ -196,6 +91,69 @@
           "episodeName": "The Camgirl Inquiry",
           "seasonNumber": "1",
           "episodeNumberInSeason": "6",
+          "airTime": "8:00",
+          "channel": "CBS"
+        }
+      ]
+    },
+    {
+      "date": "March 17, 2025",
+      "list": []
+    },
+    {
+      "date": "March 18, 2025",
+      "list": [
+        {
+          "showName": "Will Trent",
+          "episodeName": "Regarding the Death of Whitney McAdams",
+          "seasonNumber": "3",
+          "episodeNumberInSeason": "10",
+          "airTime": "7:00",
+          "channel": "ABC"
+        }
+      ]
+    },
+    {
+      "date": "March 19, 2025",
+      "list": [
+        {
+          "showName": "Abbott Elementary",
+          "episodeName": "Audit",
+          "seasonNumber": "4",
+          "episodeNumberInSeason": "18",
+          "airTime": "7:30",
+          "channel": "ABC"
+        }
+      ]
+    },
+    {
+      "date": "March 20, 2025",
+      "list": []
+    },
+    {
+      "date": "March 21, 2025",
+      "list": []
+    },
+    {
+      "date": "March 22, 2025",
+      "list": []
+    },
+    {
+      "date": "March 23, 2025",
+      "list": [
+        {
+          "showName": "Suits LA",
+          "episodeName": "You're On Your Own",
+          "seasonNumber": "1",
+          "episodeNumberInSeason": "5",
+          "airTime": "8:00",
+          "channel": "NBC"
+        },
+        {
+          "showName": "Watson",
+          "episodeName": "Teeth Marks",
+          "seasonNumber": "1",
+          "episodeNumberInSeason": "7",
           "airTime": "8:00",
           "channel": "CBS"
         }
