@@ -1,102 +1,6 @@
 {
   "data": [
     {
-      "date": "March 10, 2025",
-      "list": []
-    },
-    {
-      "date": "March 11, 2025",
-      "list": [
-        {
-          "showName": "Will Trent",
-          "episodeName": "This Kid's Gonna Be Alright",
-          "seasonNumber": "3",
-          "episodeNumberInSeason": "9",
-          "airTime": "7:00",
-          "channel": "ABC"
-        },
-        {
-          "showName": "St. Denis Medical",
-          "episodeName": "Listen to Your Ladybugs",
-          "seasonNumber": "1",
-          "episodeNumberInSeason": "14",
-          "airTime": "7:00",
-          "channel": "NBC"
-        },
-        {
-          "showName": "Night Court",
-          "episodeName": "A Little Night Court Music",
-          "seasonNumber": "3",
-          "episodeNumberInSeason": "12",
-          "airTime": "7:30",
-          "channel": "NBC"
-        }
-      ]
-    },
-    {
-      "date": "March 12, 2025",
-      "list": [
-        {
-          "showName": "Abbott Elementary",
-          "episodeName": "Karaoke",
-          "seasonNumber": "4",
-          "episodeNumberInSeason": "17",
-          "airTime": "7:30",
-          "channel": "ABC"
-        }
-      ]
-    },
-    {
-      "date": "March 13, 2025",
-      "list": [
-        {
-          "showName": "Georgie & Mandy's First Marriage",
-          "episodeName": "A Sportsbook and a Breakup",
-          "seasonNumber": "1",
-          "episodeNumberInSeason": "14",
-          "airTime": "7:00",
-          "channel": "CBS] [G"
-        },
-        {
-          "showName": "Matlock",
-          "episodeName": "Game Face",
-          "seasonNumber": "1",
-          "episodeNumberInSeason": "15",
-          "airTime": "8:00",
-          "channel": "CBS"
-        }
-      ]
-    },
-    {
-      "date": "March 14, 2025",
-      "list": []
-    },
-    {
-      "date": "March 15, 2025",
-      "list": []
-    },
-    {
-      "date": "March 16, 2025",
-      "list": [
-        {
-          "showName": "Suits LA",
-          "episodeName": "Batman Returns",
-          "seasonNumber": "1",
-          "episodeNumberInSeason": "4",
-          "airTime": "8:00",
-          "channel": "NBC"
-        },
-        {
-          "showName": "Watson",
-          "episodeName": "The Camgirl Inquiry",
-          "seasonNumber": "1",
-          "episodeNumberInSeason": "6",
-          "airTime": "8:00",
-          "channel": "CBS"
-        }
-      ]
-    },
-    {
       "date": "March 17, 2025",
       "list": []
     },
@@ -154,6 +58,127 @@
           "episodeName": "Teeth Marks",
           "seasonNumber": "1",
           "episodeNumberInSeason": "7",
+          "airTime": "8:00",
+          "channel": "CBS"
+        }
+      ]
+    },
+    {
+      "date": "March 24, 2025",
+      "list": [
+        {
+          "showName": "The Neighborhood",
+          "episodeName": "Welcome to the Blowout",
+          "seasonNumber": "7",
+          "episodeNumberInSeason": "14",
+          "airTime": "7:00",
+          "channel": "CBS] [G"
+        },
+        {
+          "showName": "Poppa's House",
+          "episodeName": "Melvin",
+          "seasonNumber": "1",
+          "episodeNumberInSeason": "14",
+          "airTime": "7:30",
+          "channel": "CBS] [G"
+        }
+      ]
+    },
+    {
+      "date": "March 25, 2025",
+      "list": [
+        {
+          "showName": "Will Trent",
+          "episodeName": "Best of Your Recollection",
+          "seasonNumber": "3",
+          "episodeNumberInSeason": "11",
+          "airTime": "7:00",
+          "channel": "ABC"
+        },
+        {
+          "showName": "St. Denis Medical",
+          "episodeName": "Sometimes It's Good to Be Cautious",
+          "seasonNumber": "1",
+          "episodeNumberInSeason": "15",
+          "airTime": "7:00",
+          "channel": "NBC"
+        },
+        {
+          "showName": "Night Court",
+          "episodeName": "A Few Good Hens",
+          "seasonNumber": "3",
+          "episodeNumberInSeason": "13",
+          "airTime": "7:30",
+          "channel": "NBC"
+        }
+      ]
+    },
+    {
+      "date": "March 26, 2025",
+      "list": [
+        {
+          "showName": "Chicago Med",
+          "episodeName": "Poster Child",
+          "seasonNumber": "10",
+          "episodeNumberInSeason": "16",
+          "airTime": "7:00",
+          "channel": "NBC"
+        },
+        {
+          "showName": "The Conners",
+          "episodeName": "It's Gonna Be a Great Day",
+          "seasonNumber": "7",
+          "episodeNumberInSeason": "1",
+          "airTime": "7:00",
+          "channel": "ABC"
+        },
+        {
+          "showName": "Abbott Elementary",
+          "episodeName": "Music Class",
+          "seasonNumber": "4",
+          "episodeNumberInSeason": "19",
+          "airTime": "7:30",
+          "channel": "ABC"
+        }
+      ]
+    },
+    {
+      "date": "March 27, 2025",
+      "list": []
+    },
+    {
+      "date": "March 28, 2025",
+      "list": []
+    },
+    {
+      "date": "March 29, 2025",
+      "list": [
+        {
+          "showName": "Saturday Night Live",
+          "episodeName": "Mikey Madison / Morgan Wallen",
+          "seasonNumber": "50",
+          "episodeNumberInSeason": "15",
+          "airTime": "10:29",
+          "channel": "NBC"
+        }
+      ]
+    },
+    {
+      "date": "March 30, 2025",
+      "list": [
+        {
+          "showName": "Suits LA",
+          "episodeName": "Dester",
+          "seasonNumber": "1",
+          "episodeNumberInSeason": "6",
+          "airTime": "8:00",
+          "channel": "NBC"
+        },
+        {
+          "showName": "Watson",
+          "episodeName": "A Variant of Unknown Significance",
+          "seasonNumber": "1",
+          "episodeNumberInSeason": "8",
           "airTime": "8:00",
           "channel": "CBS"
         }
