@@ -1,69 +1,6 @@
 {
   "data": [
     {
-      "date": "March 17, 2025",
-      "list": []
-    },
-    {
-      "date": "March 18, 2025",
-      "list": [
-        {
-          "showName": "Will Trent",
-          "episodeName": "Regarding the Death of Whitney McAdams",
-          "seasonNumber": "3",
-          "episodeNumberInSeason": "10",
-          "airTime": "7:00",
-          "channel": "ABC"
-        }
-      ]
-    },
-    {
-      "date": "March 19, 2025",
-      "list": [
-        {
-          "showName": "Abbott Elementary",
-          "episodeName": "Audit",
-          "seasonNumber": "4",
-          "episodeNumberInSeason": "18",
-          "airTime": "7:30",
-          "channel": "ABC"
-        }
-      ]
-    },
-    {
-      "date": "March 20, 2025",
-      "list": []
-    },
-    {
-      "date": "March 21, 2025",
-      "list": []
-    },
-    {
-      "date": "March 22, 2025",
-      "list": []
-    },
-    {
-      "date": "March 23, 2025",
-      "list": [
-        {
-          "showName": "Suits LA",
-          "episodeName": "You're On Your Own",
-          "seasonNumber": "1",
-          "episodeNumberInSeason": "5",
-          "airTime": "8:00",
-          "channel": "NBC"
-        },
-        {
-          "showName": "Watson",
-          "episodeName": "Teeth Marks",
-          "seasonNumber": "1",
-          "episodeNumberInSeason": "7",
-          "airTime": "8:00",
-          "channel": "CBS"
-        }
-      ]
-    },
-    {
       "date": "March 24, 2025",
       "list": [
         {
@@ -130,7 +67,7 @@
           "seasonNumber": "7",
           "episodeNumberInSeason": "1",
           "airTime": "7:00",
-          "channel": "ABC"
+          "channel": "ABC] [G"
         },
         {
           "showName": "Abbott Elementary",
@@ -181,6 +118,136 @@
           "episodeNumberInSeason": "8",
           "airTime": "8:00",
           "channel": "CBS"
+        }
+      ]
+    },
+    {
+      "date": "March 31, 2025",
+      "list": [
+        {
+          "showName": "The Neighborhood",
+          "episodeName": "Welcome to the Signature Service Loyalty Rewards Program",
+          "seasonNumber": "7",
+          "episodeNumberInSeason": "15",
+          "airTime": "7:00",
+          "channel": "CBS] [G"
+        },
+        {
+          "showName": "Poppa's House",
+          "episodeName": "Say Wha?!",
+          "seasonNumber": "1",
+          "episodeNumberInSeason": "15",
+          "airTime": "7:30",
+          "channel": "CBS] [G"
+        }
+      ]
+    },
+    {
+      "date": "April 1, 2025",
+      "list": [
+        {
+          "showName": "Will Trent",
+          "episodeName": "You're the Worst Person in the World",
+          "seasonNumber": "3",
+          "episodeNumberInSeason": "12",
+          "airTime": "7:00",
+          "channel": "ABC"
+        },
+        {
+          "showName": "St. Denis Medical",
+          "episodeName": "Anything to Push Zaluva",
+          "seasonNumber": "1",
+          "episodeNumberInSeason": "16",
+          "airTime": "7:00",
+          "channel": "NBC"
+        },
+        {
+          "showName": "Night Court",
+          "episodeName": "Hot to Trot",
+          "seasonNumber": "3",
+          "episodeNumberInSeason": "14",
+          "airTime": "7:30",
+          "channel": "NBC"
+        }
+      ]
+    },
+    {
+      "date": "April 2, 2025",
+      "list": [
+        {
+          "showName": "Chicago Med",
+          "episodeName": "The Book of Archer",
+          "seasonNumber": "10",
+          "episodeNumberInSeason": "17",
+          "airTime": "7:00",
+          "channel": "NBC"
+        },
+        {
+          "showName": "The Conners",
+          "episodeName": "Fame, Flying Fists, and Cold Feet",
+          "seasonNumber": "7",
+          "episodeNumberInSeason": "2",
+          "airTime": "7:00",
+          "channel": "ABC] [G"
+        },
+        {
+          "showName": "Abbott Elementary",
+          "episodeName": "Ava Fest: Tokyo Drift",
+          "seasonNumber": "4",
+          "episodeNumberInSeason": "20",
+          "airTime": "7:30",
+          "channel": "ABC"
+        }
+      ]
+    },
+    {
+      "date": "April 3, 2025",
+      "list": [
+        {
+          "showName": "Georgie & Mandy's First Marriage",
+          "episodeName": "Goddess of the Music Store",
+          "seasonNumber": "1",
+          "episodeNumberInSeason": "15",
+          "airTime": "7:00",
+          "channel": "CBS] [G"
+        },
+        {
+          "showName": "Matlock",
+          "episodeName": "The Johnson Case",
+          "seasonNumber": "1",
+          "episodeNumberInSeason": "16",
+          "airTime": "8:00",
+          "channel": "CBS"
+        }
+      ]
+    },
+    {
+      "date": "April 4, 2025",
+      "list": []
+    },
+    {
+      "date": "April 5, 2025",
+      "list": [
+        {
+          "showName": "Saturday Night Live",
+          "episodeName": "Jack Black / Elton John & Brandi Carlile",
+          "seasonNumber": "50",
+          "episodeNumberInSeason": "16",
+          "airTime": "10:29",
+          "channel": "NBC"
+        }
+      ]
+    },
+    {
+      "date": "April 6, 2025",
+      "list": [
+        {
+          "showName": "Suits LA",
+          "episodeName": "Good Times",
+          "seasonNumber": "1",
+          "episodeNumberInSeason": "7",
+          "airTime": "8:00",
+          "channel": "NBC"
         }
       ]
     }
