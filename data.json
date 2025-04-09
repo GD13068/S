@@ -1,136 +1,6 @@
 {
   "data": [
     {
-      "date": "March 31, 2025",
-      "list": [
-        {
-          "showName": "The Neighborhood",
-          "episodeName": "Welcome to the Signature Service Loyalty Rewards Program",
-          "seasonNumber": "7",
-          "episodeNumberInSeason": "15",
-          "airTime": "7:00",
-          "channel": "CBS] [G"
-        },
-        {
-          "showName": "Poppa's House",
-          "episodeName": "Say Wha?!",
-          "seasonNumber": "1",
-          "episodeNumberInSeason": "15",
-          "airTime": "7:30",
-          "channel": "CBS] [G"
-        }
-      ]
-    },
-    {
-      "date": "April 1, 2025",
-      "list": [
-        {
-          "showName": "Will Trent",
-          "episodeName": "You're the Worst Person in the World",
-          "seasonNumber": "3",
-          "episodeNumberInSeason": "12",
-          "airTime": "7:00",
-          "channel": "ABC"
-        },
-        {
-          "showName": "St. Denis Medical",
-          "episodeName": "Anything to Push Zaluva",
-          "seasonNumber": "1",
-          "episodeNumberInSeason": "16",
-          "airTime": "7:00",
-          "channel": "NBC"
-        },
-        {
-          "showName": "Night Court",
-          "episodeName": "Hot to Trot",
-          "seasonNumber": "3",
-          "episodeNumberInSeason": "14",
-          "airTime": "7:30",
-          "channel": "NBC"
-        }
-      ]
-    },
-    {
-      "date": "April 2, 2025",
-      "list": [
-        {
-          "showName": "Chicago Med",
-          "episodeName": "The Book of Archer",
-          "seasonNumber": "10",
-          "episodeNumberInSeason": "17",
-          "airTime": "7:00",
-          "channel": "NBC"
-        },
-        {
-          "showName": "The Conners",
-          "episodeName": "Fame, Flying Fists, and Cold Feet",
-          "seasonNumber": "7",
-          "episodeNumberInSeason": "2",
-          "airTime": "7:00",
-          "channel": "ABC] [G"
-        },
-        {
-          "showName": "Abbott Elementary",
-          "episodeName": "Ava Fest: Tokyo Drift",
-          "seasonNumber": "4",
-          "episodeNumberInSeason": "20",
-          "airTime": "7:30",
-          "channel": "ABC"
-        }
-      ]
-    },
-    {
-      "date": "April 3, 2025",
-      "list": [
-        {
-          "showName": "Georgie & Mandy's First Marriage",
-          "episodeName": "Goddess of the Music Store",
-          "seasonNumber": "1",
-          "episodeNumberInSeason": "15",
-          "airTime": "7:00",
-          "channel": "CBS] [G"
-        },
-        {
-          "showName": "Matlock",
-          "episodeName": "The Johnson Case",
-          "seasonNumber": "1",
-          "episodeNumberInSeason": "16",
-          "airTime": "8:00",
-          "channel": "CBS"
-        }
-      ]
-    },
-    {
-      "date": "April 4, 2025",
-      "list": []
-    },
-    {
-      "date": "April 5, 2025",
-      "list": [
-        {
-          "showName": "Saturday Night Live",
-          "episodeName": "Jack Black / Elton John & Brandi Carlile",
-          "seasonNumber": "50",
-          "episodeNumberInSeason": "16",
-          "airTime": "10:29",
-          "channel": "NBC"
-        }
-      ]
-    },
-    {
-      "date": "April 6, 2025",
-      "list": [
-        {
-          "showName": "Suits LA",
-          "episodeName": "Good Times",
-          "seasonNumber": "1",
-          "episodeNumberInSeason": "7",
-          "airTime": "8:00",
-          "channel": "NBC"
-        }
-      ]
-    },
-    {
       "date": "April 7, 2025",
       "list": []
     },
@@ -224,6 +94,119 @@
           "episodeNumberInSeason": "9",
           "airTime": "8:00",
           "channel": "CBS"
+        }
+      ]
+    },
+    {
+      "date": "April 14, 2025",
+      "list": [
+        {
+          "showName": "The Neighborhood",
+          "episodeName": "Welcome to the Sting",
+          "seasonNumber": "7",
+          "episodeNumberInSeason": "16",
+          "airTime": "7:00",
+          "channel": "CBS] [G"
+        },
+        {
+          "showName": "Poppa's House",
+          "episodeName": "Game of Phones",
+          "seasonNumber": "1",
+          "episodeNumberInSeason": "16",
+          "airTime": "7:30",
+          "channel": "CBS] [G"
+        }
+      ]
+    },
+    {
+      "date": "April 15, 2025",
+      "list": [
+        {
+          "showName": "Will Trent",
+          "episodeName": "A Funeral Fit For a Quartermaine",
+          "seasonNumber": "3",
+          "episodeNumberInSeason": "14",
+          "airTime": "7:00",
+          "channel": "ABC"
+        }
+      ]
+    },
+    {
+      "date": "April 16, 2025",
+      "list": [
+        {
+          "showName": "Chicago Med",
+          "episodeName": "Together One Last Time",
+          "seasonNumber": "10",
+          "episodeNumberInSeason": "18",
+          "airTime": "7:00",
+          "channel": "NBC"
+        },
+        {
+          "showName": "The Conners",
+          "episodeName": "Danny Boy, the Interview, the New Hire, and the Hanging Chad",
+          "seasonNumber": "7",
+          "episodeNumberInSeason": "4",
+          "airTime": "7:00",
+          "channel": "ABC] [G"
+        },
+        {
+          "showName": "Abbott Elementary",
+          "episodeName": "Please Touch Museum [season finale]",
+          "seasonNumber": "4",
+          "episodeNumberInSeason": "22",
+          "airTime": "7:30",
+          "channel": "ABC"
+        }
+      ]
+    },
+    {
+      "date": "April 17, 2025",
+      "list": [
+        {
+          "showName": "Georgie & Mandy's First Marriage",
+          "episodeName": "Two Idiots On a Dirt Bike",
+          "seasonNumber": "1",
+          "episodeNumberInSeason": "17",
+          "airTime": "7:00",
+          "channel": "CBS] [G"
+        },
+        {
+          "showName": "Matlock",
+          "episodeName": "Tricks of the Trade - Part One\" & \"Tricks of the Trade - Part Two [season finale]",
+          "seasonNumber": "1",
+          "episodeNumberInSeason": "18 & S1 E19",
+          "airTime": "8:00",
+          "channel": "CBS"
+        }
+      ]
+    },
+    {
+      "date": "April 18, 2025",
+      "list": []
+    },
+    {
+      "date": "April 19, 2025",
+      "list": []
+    },
+    {
+      "date": "April 20, 2025",
+      "list": [
+        {
+          "showName": "Watson",
+          "episodeName": "The Man with the Alien Hand",
+          "seasonNumber": "1",
+          "episodeNumberInSeason": "10",
+          "airTime": "8:00",
+          "channel": "CBS"
+        },
+        {
+          "showName": "Suits LA",
+          "episodeName": "Bat Signal",
+          "seasonNumber": "1",
+          "episodeNumberInSeason": "9",
+          "airTime": "8:01",
+          "channel": "NBC"
         }
       ]
     }
