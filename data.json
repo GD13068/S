@@ -1,82 +1,6 @@
 {
   "data": [
     {
-      "date": "April 7, 2025",
-      "list": []
-    },
-    {
-      "date": "April 8, 2025",
-      "list": [
-        {
-          "showName": "Will Trent",
-          "episodeName": "One Of Us Now",
-          "seasonNumber": "3",
-          "episodeNumberInSeason": "13",
-          "airTime": "7:00",
-          "channel": "ABC"
-        }
-      ]
-    },
-    {
-      "date": "April 9, 2025",
-      "list": [
-        {
-          "showName": "The Conners",
-          "episodeName": "Applications, Accusations and a Man-bag",
-          "seasonNumber": "7",
-          "episodeNumberInSeason": "3",
-          "airTime": "7:00",
-          "channel": "ABC] [G"
-        },
-        {
-          "showName": "Abbott Elementary",
-          "episodeName": "Rally",
-          "seasonNumber": "4",
-          "episodeNumberInSeason": "21",
-          "airTime": "7:30",
-          "channel": "ABC"
-        }
-      ]
-    },
-    {
-      "date": "April 10, 2025",
-      "list": [
-        {
-          "showName": "Georgie & Mandy's First Marriage",
-          "episodeName": "Baby Fight",
-          "seasonNumber": "1",
-          "episodeNumberInSeason": "16",
-          "airTime": "7:00",
-          "channel": "CBS] [G"
-        },
-        {
-          "showName": "Matlock",
-          "episodeName": "I Was That, Too",
-          "seasonNumber": "1",
-          "episodeNumberInSeason": "17",
-          "airTime": "8:00",
-          "channel": "CBS"
-        }
-      ]
-    },
-    {
-      "date": "April 11, 2025",
-      "list": []
-    },
-    {
-      "date": "April 12, 2025",
-      "list": [
-        {
-          "showName": "Saturday Night Live",
-          "episodeName": "Jon Hamm / Lizzo",
-          "seasonNumber": "50",
-          "episodeNumberInSeason": "17",
-          "airTime": "10:29",
-          "channel": "NBC"
-        }
-      ]
-    },
-    {
       "date": "April 13, 2025",
       "list": [
         {
@@ -207,6 +131,119 @@
           "episodeNumberInSeason": "9",
           "airTime": "8:01",
           "channel": "NBC"
+        }
+      ]
+    },
+    {
+      "date": "April 21, 2025",
+      "list": [
+        {
+          "showName": "The Neighborhood",
+          "episodeName": "Welcome to Your Own Medicine",
+          "seasonNumber": "7",
+          "episodeNumberInSeason": "17",
+          "airTime": "7:00",
+          "channel": "CBS] [G"
+        },
+        {
+          "showName": "Poppa's House",
+          "episodeName": "Baby Girl",
+          "seasonNumber": "1",
+          "episodeNumberInSeason": "17",
+          "airTime": "7:30",
+          "channel": "CBS] [G"
+        }
+      ]
+    },
+    {
+      "date": "April 22, 2025",
+      "list": [
+        {
+          "showName": "Will Trent",
+          "episodeName": "The Most Beautiful, Fierce, Smart, Powerful Creature in the World",
+          "seasonNumber": "3",
+          "episodeNumberInSeason": "15",
+          "airTime": "7:00",
+          "channel": "ABC"
+        },
+        {
+          "showName": "St. Denis Medical",
+          "episodeName": "Bruce-ic and the Mus-ic",
+          "seasonNumber": "1",
+          "episodeNumberInSeason": "17",
+          "airTime": "7:00",
+          "channel": "NBC"
+        },
+        {
+          "showName": "Night Court",
+          "episodeName": "Passing the Bar",
+          "seasonNumber": "3",
+          "episodeNumberInSeason": "15",
+          "airTime": "7:30",
+          "channel": "NBC"
+        }
+      ]
+    },
+    {
+      "date": "April 23, 2025",
+      "list": [
+        {
+          "showName": "Chicago Med",
+          "episodeName": "The Stories We Tell Ourselves",
+          "seasonNumber": "10",
+          "episodeNumberInSeason": "19",
+          "airTime": "7:00",
+          "channel": "NBC"
+        },
+        {
+          "showName": "The Conners",
+          "episodeName": "Exercise Bands, Money Plans, and Faraway Lands\" & \"The Truck Stops Here [series finale]",
+          "seasonNumber": "7",
+          "episodeNumberInSeason": "5 & S7 E6",
+          "airTime": "7:00",
+          "channel": "ABC] [G"
+        }
+      ]
+    },
+    {
+      "date": "April 24, 2025",
+      "list": [
+        {
+          "showName": "Georgie & Mandy's First Marriage",
+          "episodeName": "TV Money",
+          "seasonNumber": "1",
+          "episodeNumberInSeason": "18",
+          "airTime": "7:00",
+          "channel": "CBS] [G"
+        }
+      ]
+    },
+    {
+      "date": "April 25, 2025",
+      "list": []
+    },
+    {
+      "date": "April 26, 2025",
+      "list": []
+    },
+    {
+      "date": "April 27, 2025",
+      "list": [
+        {
+          "showName": "Suits LA",
+          "episodeName": "Slugfest [season finale; not yet renewed]",
+          "seasonNumber": "1",
+          "episodeNumberInSeason": "10",
+          "airTime": "8:00",
+          "channel": "NBC"
+        },
+        {
+          "showName": "Watson",
+          "episodeName": "The Dark Day Deduction",
+          "seasonNumber": "1",
+          "episodeNumberInSeason": "11",
+          "airTime": "8:00",
+          "channel": "CBS"
         }
       ]
     }
