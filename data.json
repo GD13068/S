@@ -1,27 +1,6 @@
 {
   "data": [
     {
-      "date": "April 13, 2025",
-      "list": [
-        {
-          "showName": "Suits LA",
-          "episodeName": "Acapulco",
-          "seasonNumber": "1",
-          "episodeNumberInSeason": "8",
-          "airTime": "8:00",
-          "channel": "NBC"
-        },
-        {
-          "showName": "Watson",
-          "episodeName": "Take a Family History",
-          "seasonNumber": "1",
-          "episodeNumberInSeason": "9",
-          "airTime": "8:00",
-          "channel": "CBS"
-        }
-      ]
-    },
-    {
       "date": "April 14, 2025",
       "list": [
         {
@@ -38,7 +17,7 @@
           "seasonNumber": "1",
           "episodeNumberInSeason": "16",
           "airTime": "7:30",
-          "channel": "CBS] [G"
+          "channel": "CBS"
         }
       ]
     },
@@ -151,7 +130,7 @@
           "seasonNumber": "1",
           "episodeNumberInSeason": "17",
           "airTime": "7:30",
-          "channel": "CBS] [G"
+          "channel": "CBS"
         }
       ]
     },
