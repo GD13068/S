@@ -1,69 +1,6 @@
 {
   "data": [
     {
-      "date": "April 14, 2025",
-      "list": [
-        {
-          "showName": "The Neighborhood",
-          "episodeName": "Welcome to the Sting",
-          "seasonNumber": "7",
-          "episodeNumberInSeason": "16",
-          "airTime": "7:00",
-          "channel": "CBS] [G"
-        },
-        {
-          "showName": "Poppa's House",
-          "episodeName": "Game of Phones",
-          "seasonNumber": "1",
-          "episodeNumberInSeason": "16",
-          "airTime": "7:30",
-          "channel": "CBS"
-        }
-      ]
-    },
-    {
-      "date": "April 15, 2025",
-      "list": [
-        {
-          "showName": "Will Trent",
-          "episodeName": "A Funeral Fit For a Quartermaine",
-          "seasonNumber": "3",
-          "episodeNumberInSeason": "14",
-          "airTime": "7:00",
-          "channel": "ABC"
-        }
-      ]
-    },
-    {
-      "date": "April 16, 2025",
-      "list": [
-        {
-          "showName": "Chicago Med",
-          "episodeName": "Together One Last Time",
-          "seasonNumber": "10",
-          "episodeNumberInSeason": "18",
-          "airTime": "7:00",
-          "channel": "NBC"
-        },
-        {
-          "showName": "The Conners",
-          "episodeName": "Danny Boy, the Interview, the New Hire, and the Hanging Chad",
-          "seasonNumber": "7",
-          "episodeNumberInSeason": "4",
-          "airTime": "7:00",
-          "channel": "ABC] [G"
-        },
-        {
-          "showName": "Abbott Elementary",
-          "episodeName": "Please Touch Museum [season finale]",
-          "seasonNumber": "4",
-          "episodeNumberInSeason": "22",
-          "airTime": "7:30",
-          "channel": "ABC"
-        }
-      ]
-    },
-    {
       "date": "April 17, 2025",
       "list": [
         {
@@ -210,7 +147,7 @@
       "list": [
         {
           "showName": "Suits LA",
-          "episodeName": "Slugfest [season finale; not yet renewed]",
+          "episodeName": "Slugfest",
           "seasonNumber": "1",
           "episodeNumberInSeason": "10",
           "airTime": "8:00",
@@ -221,6 +158,111 @@
           "episodeName": "The Dark Day Deduction",
           "seasonNumber": "1",
           "episodeNumberInSeason": "11",
+          "airTime": "8:00",
+          "channel": "CBS"
+        }
+      ]
+    },
+    {
+      "date": "April 28, 2025",
+      "list": [
+        {
+          "showName": "The Neighborhood",
+          "episodeName": "Welcome to the Yippedy-dip",
+          "seasonNumber": "7",
+          "episodeNumberInSeason": "18",
+          "airTime": "7:00",
+          "channel": "CBS] [G"
+        },
+        {
+          "showName": "Poppa's House",
+          "episodeName": "Magic Shine Again [season finale; not yet renewed]",
+          "seasonNumber": "1",
+          "episodeNumberInSeason": "18",
+          "airTime": "7:30",
+          "channel": "CBS"
+        }
+      ]
+    },
+    {
+      "date": "April 29, 2025",
+      "list": [
+        {
+          "showName": "Will Trent",
+          "episodeName": "Push, Jump, Fall",
+          "seasonNumber": "3",
+          "episodeNumberInSeason": "16",
+          "airTime": "7:00",
+          "channel": "ABC"
+        },
+        {
+          "showName": "St. Denis Medical",
+          "episodeName": "This Place Is Our Everything [season finale]",
+          "seasonNumber": "1",
+          "episodeNumberInSeason": "18",
+          "airTime": "7:00",
+          "channel": "NBC"
+        },
+        {
+          "showName": "Night Court",
+          "episodeName": "Blood Moonstruck",
+          "seasonNumber": "3",
+          "episodeNumberInSeason": "16",
+          "airTime": "7:30",
+          "channel": "NBC"
+        }
+      ]
+    },
+    {
+      "date": "April 30, 2025",
+      "list": []
+    },
+    {
+      "date": "May 1, 2025",
+      "list": [
+        {
+          "showName": "Georgie & Mandy's First Marriage",
+          "episodeName": "Snitch v. Deadbeat",
+          "seasonNumber": "1",
+          "episodeNumberInSeason": "19",
+          "airTime": "7:00",
+          "channel": "CBS] [G"
+        }
+      ]
+    },
+    {
+      "date": "May 2, 2025",
+      "list": []
+    },
+    {
+      "date": "May 3, 2025",
+      "list": [
+        {
+          "showName": "Saturday Night Live",
+          "episodeName": "Qunita Brunson / Benson Boone",
+          "seasonNumber": "50",
+          "episodeNumberInSeason": "18",
+          "airTime": "10:29",
+          "channel": "NBC"
+        }
+      ]
+    },
+    {
+      "date": "May 4, 2025",
+      "list": [
+        {
+          "showName": "Suits LA",
+          "episodeName": "Tearin' Up My Heart",
+          "seasonNumber": "1",
+          "episodeNumberInSeason": "11",
+          "airTime": "8:00",
+          "channel": "NBC"
+        },
+        {
+          "showName": "Watson",
+          "episodeName": "My Life's Work Part 1",
+          "seasonNumber": "1",
+          "episodeNumberInSeason": "12",
           "airTime": "8:00",
           "channel": "CBS"
         }
