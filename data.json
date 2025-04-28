@@ -1,169 +1,6 @@
 {
   "data": [
     {
-      "date": "April 17, 2025",
-      "list": [
-        {
-          "showName": "Georgie & Mandy's First Marriage",
-          "episodeName": "Two Idiots On a Dirt Bike",
-          "seasonNumber": "1",
-          "episodeNumberInSeason": "17",
-          "airTime": "7:00",
-          "channel": "CBS] [G"
-        },
-        {
-          "showName": "Matlock",
-          "episodeName": "Tricks of the Trade - Part One\" & \"Tricks of the Trade - Part Two [season finale]",
-          "seasonNumber": "1",
-          "episodeNumberInSeason": "18 & S1 E19",
-          "airTime": "8:00",
-          "channel": "CBS"
-        }
-      ]
-    },
-    {
-      "date": "April 18, 2025",
-      "list": []
-    },
-    {
-      "date": "April 19, 2025",
-      "list": []
-    },
-    {
-      "date": "April 20, 2025",
-      "list": [
-        {
-          "showName": "Watson",
-          "episodeName": "The Man with the Alien Hand",
-          "seasonNumber": "1",
-          "episodeNumberInSeason": "10",
-          "airTime": "8:00",
-          "channel": "CBS"
-        },
-        {
-          "showName": "Suits LA",
-          "episodeName": "Bat Signal",
-          "seasonNumber": "1",
-          "episodeNumberInSeason": "9",
-          "airTime": "8:01",
-          "channel": "NBC"
-        }
-      ]
-    },
-    {
-      "date": "April 21, 2025",
-      "list": [
-        {
-          "showName": "The Neighborhood",
-          "episodeName": "Welcome to Your Own Medicine",
-          "seasonNumber": "7",
-          "episodeNumberInSeason": "17",
-          "airTime": "7:00",
-          "channel": "CBS] [G"
-        },
-        {
-          "showName": "Poppa's House",
-          "episodeName": "Baby Girl",
-          "seasonNumber": "1",
-          "episodeNumberInSeason": "17",
-          "airTime": "7:30",
-          "channel": "CBS"
-        }
-      ]
-    },
-    {
-      "date": "April 22, 2025",
-      "list": [
-        {
-          "showName": "Will Trent",
-          "episodeName": "The Most Beautiful, Fierce, Smart, Powerful Creature in the World",
-          "seasonNumber": "3",
-          "episodeNumberInSeason": "15",
-          "airTime": "7:00",
-          "channel": "ABC"
-        },
-        {
-          "showName": "St. Denis Medical",
-          "episodeName": "Bruce-ic and the Mus-ic",
-          "seasonNumber": "1",
-          "episodeNumberInSeason": "17",
-          "airTime": "7:00",
-          "channel": "NBC"
-        },
-        {
-          "showName": "Night Court",
-          "episodeName": "Passing the Bar",
-          "seasonNumber": "3",
-          "episodeNumberInSeason": "15",
-          "airTime": "7:30",
-          "channel": "NBC"
-        }
-      ]
-    },
-    {
-      "date": "April 23, 2025",
-      "list": [
-        {
-          "showName": "Chicago Med",
-          "episodeName": "The Stories We Tell Ourselves",
-          "seasonNumber": "10",
-          "episodeNumberInSeason": "19",
-          "airTime": "7:00",
-          "channel": "NBC"
-        },
-        {
-          "showName": "The Conners",
-          "episodeName": "Exercise Bands, Money Plans, and Faraway Lands\" & \"The Truck Stops Here [series finale]",
-          "seasonNumber": "7",
-          "episodeNumberInSeason": "5 & S7 E6",
-          "airTime": "7:00",
-          "channel": "ABC] [G"
-        }
-      ]
-    },
-    {
-      "date": "April 24, 2025",
-      "list": [
-        {
-          "showName": "Georgie & Mandy's First Marriage",
-          "episodeName": "TV Money",
-          "seasonNumber": "1",
-          "episodeNumberInSeason": "18",
-          "airTime": "7:00",
-          "channel": "CBS] [G"
-        }
-      ]
-    },
-    {
-      "date": "April 25, 2025",
-      "list": []
-    },
-    {
-      "date": "April 26, 2025",
-      "list": []
-    },
-    {
-      "date": "April 27, 2025",
-      "list": [
-        {
-          "showName": "Suits LA",
-          "episodeName": "Slugfest",
-          "seasonNumber": "1",
-          "episodeNumberInSeason": "10",
-          "airTime": "8:00",
-          "channel": "NBC"
-        },
-        {
-          "showName": "Watson",
-          "episodeName": "The Dark Day Deduction",
-          "seasonNumber": "1",
-          "episodeNumberInSeason": "11",
-          "airTime": "8:00",
-          "channel": "CBS"
-        }
-      ]
-    },
-    {
       "date": "April 28, 2025",
       "list": [
         {
@@ -176,7 +13,7 @@
         },
         {
           "showName": "Poppa's House",
-          "episodeName": "Magic Shine Again [season finale; not yet renewed]",
+          "episodeName": "Magic Shine Again [series finale]",
           "seasonNumber": "1",
           "episodeNumberInSeason": "18",
           "airTime": "7:30",
@@ -267,6 +104,214 @@
           "channel": "CBS"
         }
       ]
+    },
+    {
+      "date": "May 5, 2025",
+      "list": [
+        {
+          "showName": "The Neighborhood",
+          "episodeName": "Welcome to Pomp and Circumstance\" & \"Welcome to Venice [season finale]",
+          "seasonNumber": "7",
+          "episodeNumberInSeason": "19 & S7 E20",
+          "airTime": "7:00",
+          "channel": "CBS] [G"
+        }
+      ]
+    },
+    {
+      "date": "May 6, 2025",
+      "list": [
+        {
+          "showName": "Will Trent",
+          "episodeName": "Why Hello, Sheriff",
+          "seasonNumber": "3",
+          "episodeNumberInSeason": "17",
+          "airTime": "7:00",
+          "channel": "ABC"
+        },
+        {
+          "showName": "Night Court",
+          "episodeName": "Funnest Judge in the City\" & \"A Decent Proposal [season finale; not yet renewed]",
+          "seasonNumber": "3",
+          "episodeNumberInSeason": "17 & S3 E18",
+          "airTime": "7:30",
+          "channel": "NBC"
+        }
+      ]
+    },
+    {
+      "date": "May 7, 2025",
+      "list": [
+        {
+          "showName": "Chicago Med",
+          "episodeName": "The Invisible Hand",
+          "seasonNumber": "10",
+          "episodeNumberInSeason": "20",
+          "airTime": "7:00",
+          "channel": "NBC"
+        }
+      ]
+    },
+    {
+      "date": "May 8, 2025",
+      "list": [
+        {
+          "showName": "Georgie & Mandy's First Marriage",
+          "episodeName": "Ladies Love Brunch",
+          "seasonNumber": "1",
+          "episodeNumberInSeason": "20",
+          "airTime": "7:00",
+          "channel": "CBS] [G"
+        }
+      ]
+    },
+    {
+      "date": "May 9, 2025",
+      "list": []
+    },
+    {
+      "date": "May 10, 2025",
+      "list": [
+        {
+          "showName": "Saturday Night Live",
+          "episodeName": "Walton Goggins / Arcade Fire",
+          "seasonNumber": "50",
+          "episodeNumberInSeason": "19",
+          "airTime": "10:29",
+          "channel": "NBC"
+        }
+      ]
+    },
+    {
+      "date": "May 11, 2025",
+      "list": [
+        {
+          "showName": "Suits LA",
+          "episodeName": "TBA",
+          "seasonNumber": "1",
+          "episodeNumberInSeason": "12",
+          "airTime": "8:00",
+          "channel": "NBC"
+        },
+        {
+          "showName": "Watson",
+          "episodeName": "My Life's Work Part 2 [season finale]",
+          "seasonNumber": "1",
+          "episodeNumberInSeason": "13",
+          "airTime": "8:00",
+          "channel": "CBS"
+        }
+      ]
+    },
+    {
+      "date": "May 12, 2025",
+      "list": []
+    },
+    {
+      "date": "May 13, 2025",
+      "list": [
+        {
+          "showName": "Will Trent",
+          "episodeName": "Listening to a Heartbeat [season finale]",
+          "seasonNumber": "3",
+          "episodeNumberInSeason": "18",
+          "airTime": "7:00",
+          "channel": "ABC"
+        }
+      ]
+    },
+    {
+      "date": "May 14, 2025",
+      "list": [
+        {
+          "showName": "Chicago Med",
+          "episodeName": "TBA",
+          "seasonNumber": "10",
+          "episodeNumberInSeason": "21",
+          "airTime": "7:00",
+          "channel": "NBC"
+        }
+      ]
+    },
+    {
+      "date": "May 15, 2025",
+      "list": [
+        {
+          "showName": "Georgie & Mandy's First Marriage",
+          "episodeName": "Guilt Boots\" & \"Big Decisions [season finale]",
+          "seasonNumber": "1",
+          "episodeNumberInSeason": "21 & S1 E22",
+          "airTime": "7:00",
+          "channel": "CBS] [G"
+        }
+      ]
+    },
+    {
+      "date": "May 16, 2025",
+      "list": []
+    },
+    {
+      "date": "May 17, 2025",
+      "list": [
+        {
+          "showName": "Saturday Night Live",
+          "episodeName": "Scarlett Johansson / Bad Bunny [season finale; not yet renewed]",
+          "seasonNumber": "50",
+          "episodeNumberInSeason": "20",
+          "airTime": "10:29",
+          "channel": "NBC"
+        }
+      ]
+    },
+    {
+      "date": "May 18, 2025",
+      "list": [
+        {
+          "showName": "Suits LA",
+          "episodeName": "TBA [season finale; not yet renewed]",
+          "seasonNumber": "1",
+          "episodeNumberInSeason": "13",
+          "airTime": "8:00",
+          "channel": "NBC"
+        }
+      ]
+    },
+    {
+      "date": "May 19, 2025",
+      "list": []
+    },
+    {
+      "date": "May 20, 2025",
+      "list": []
+    },
+    {
+      "date": "May 21, 2025",
+      "list": [
+        {
+          "showName": "Chicago Med",
+          "episodeName": "TBA [season finale; not yet renewed]",
+          "seasonNumber": "10",
+          "episodeNumberInSeason": "22",
+          "airTime": "7:00",
+          "channel": "NBC"
+        }
+      ]
+    },
+    {
+      "date": "May 22, 2025",
+      "list": []
+    },
+    {
+      "date": "May 23, 2025",
+      "list": []
+    },
+    {
+      "date": "May 24, 2025",
+      "list": []
+    },
+    {
+      "date": "May 25, 2025",
+      "list": []
     }
   ]
 }
