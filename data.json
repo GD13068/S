@@ -1,47 +1,6 @@
 {
   "data": [
     {
-      "date": "May 19, 2025",
-      "list": []
-    },
-    {
-      "date": "May 20, 2025",
-      "list": []
-    },
-    {
-      "date": "May 21, 2025",
-      "list": [
-        {
-          "showName": "Chicago Med",
-          "episodeName": "...Don't You Cry [season finale]",
-          "seasonNumber": "10",
-          "episodeNumberInSeason": "22",
-          "airTime": "7:00",
-          "channel": "NBC"
-        }
-      ]
-    },
-    {
-      "date": "May 22, 2025",
-      "list": []
-    },
-    {
-      "date": "May 23, 2025",
-      "list": []
-    },
-    {
-      "date": "May 24, 2025",
-      "list": []
-    },
-    {
-      "date": "May 25, 2025",
-      "list": []
-    },
-    {
-      "date": "May 26, 2025",
-      "list": []
-    },
-    {
       "date": "May 27, 2025",
       "list": [
         {
@@ -53,30 +12,6 @@
           "channel": "NBC"
         }
       ]
-    },
-    {
-      "date": "May 28, 2025",
-      "list": []
-    },
-    {
-      "date": "May 29, 2025",
-      "list": []
-    },
-    {
-      "date": "May 30, 2025",
-      "list": []
-    },
-    {
-      "date": "May 31, 2025",
-      "list": []
-    },
-    {
-      "date": "June 1, 2025",
-      "list": []
-    },
-    {
-      "date": "June 2, 2025",
-      "list": []
     },
     {
       "date": "June 3, 2025",
@@ -109,6 +44,117 @@
     },
     {
       "date": "June 8, 2025",
+      "list": []
+    },
+    {
+      "date": "June 9, 2025",
+      "list": []
+    },
+    {
+      "date": "June 10, 2025",
+      "list": [
+        {
+          "showName": "America's Got Talent",
+          "episodeName": "Auditions 3",
+          "seasonNumber": "20",
+          "episodeNumberInSeason": "3",
+          "airTime": "7:00",
+          "channel": "NBC"
+        }
+      ]
+    },
+    {
+      "date": "June 11, 2025",
+      "list": []
+    },
+    {
+      "date": "June 12, 2025",
+      "list": []
+    },
+    {
+      "date": "June 13, 2025",
+      "list": []
+    },
+    {
+      "date": "June 14, 2025",
+      "list": []
+    },
+    {
+      "date": "June 15, 2025",
+      "list": []
+    },
+    {
+      "date": "June 16, 2025",
+      "list": []
+    },
+    {
+      "date": "June 17, 2025",
+      "list": [
+        {
+          "showName": "America's Got Talent",
+          "episodeName": "Auditions 4",
+          "seasonNumber": "20",
+          "episodeNumberInSeason": "4",
+          "airTime": "7:00",
+          "channel": "NBC"
+        }
+      ]
+    },
+    {
+      "date": "June 18, 2025",
+      "list": []
+    },
+    {
+      "date": "June 19, 2025",
+      "list": []
+    },
+    {
+      "date": "June 20, 2025",
+      "list": []
+    },
+    {
+      "date": "June 21, 2025",
+      "list": []
+    },
+    {
+      "date": "June 22, 2025",
+      "list": []
+    },
+    {
+      "date": "June 23, 2025",
+      "list": []
+    },
+    {
+      "date": "June 24, 2025",
+      "list": [
+        {
+          "showName": "America's Got Talent",
+          "episodeName": "Auditions 5",
+          "seasonNumber": "20",
+          "episodeNumberInSeason": "5",
+          "airTime": "7:00",
+          "channel": "NBC"
+        }
+      ]
+    },
+    {
+      "date": "June 25, 2025",
+      "list": []
+    },
+    {
+      "date": "June 26, 2025",
+      "list": []
+    },
+    {
+      "date": "June 27, 2025",
+      "list": []
+    },
+    {
+      "date": "June 28, 2025",
+      "list": []
+    },
+    {
+      "date": "June 29, 2025",
       "list": []
     }
   ]
