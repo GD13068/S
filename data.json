@@ -1,151 +1,6 @@
 {
   "data": [
     {
-      "date": "May 27, 2025",
-      "list": [
-        {
-          "showName": "America's Got Talent",
-          "episodeName": "Auditions 1",
-          "seasonNumber": "20",
-          "episodeNumberInSeason": "1",
-          "airTime": "7:00",
-          "channel": "NBC"
-        }
-      ]
-    },
-    {
-      "date": "June 3, 2025",
-      "list": [
-        {
-          "showName": "America's Got Talent",
-          "episodeName": "Auditions 2",
-          "seasonNumber": "20",
-          "episodeNumberInSeason": "2",
-          "airTime": "7:00",
-          "channel": "NBC"
-        }
-      ]
-    },
-    {
-      "date": "June 4, 2025",
-      "list": []
-    },
-    {
-      "date": "June 5, 2025",
-      "list": []
-    },
-    {
-      "date": "June 6, 2025",
-      "list": []
-    },
-    {
-      "date": "June 7, 2025",
-      "list": []
-    },
-    {
-      "date": "June 8, 2025",
-      "list": []
-    },
-    {
-      "date": "June 9, 2025",
-      "list": []
-    },
-    {
-      "date": "June 10, 2025",
-      "list": [
-        {
-          "showName": "America's Got Talent",
-          "episodeName": "Auditions 3",
-          "seasonNumber": "20",
-          "episodeNumberInSeason": "3",
-          "airTime": "7:00",
-          "channel": "NBC"
-        }
-      ]
-    },
-    {
-      "date": "June 11, 2025",
-      "list": []
-    },
-    {
-      "date": "June 12, 2025",
-      "list": []
-    },
-    {
-      "date": "June 13, 2025",
-      "list": []
-    },
-    {
-      "date": "June 14, 2025",
-      "list": []
-    },
-    {
-      "date": "June 15, 2025",
-      "list": []
-    },
-    {
-      "date": "June 16, 2025",
-      "list": []
-    },
-    {
-      "date": "June 17, 2025",
-      "list": [
-        {
-          "showName": "America's Got Talent",
-          "episodeName": "Auditions 4",
-          "seasonNumber": "20",
-          "episodeNumberInSeason": "4",
-          "airTime": "7:00",
-          "channel": "NBC"
-        }
-      ]
-    },
-    {
-      "date": "June 18, 2025",
-      "list": []
-    },
-    {
-      "date": "June 19, 2025",
-      "list": []
-    },
-    {
-      "date": "June 20, 2025",
-      "list": []
-    },
-    {
-      "date": "June 21, 2025",
-      "list": []
-    },
-    {
-      "date": "June 22, 2025",
-      "list": []
-    },
-    {
-      "date": "June 23, 2025",
-      "list": []
-    },
-    {
-      "date": "June 24, 2025",
-      "list": [
-        {
-          "showName": "America's Got Talent",
-          "episodeName": "Auditions 5",
-          "seasonNumber": "20",
-          "episodeNumberInSeason": "5",
-          "airTime": "7:00",
-          "channel": "NBC"
-        }
-      ]
-    },
-    {
-      "date": "June 25, 2025",
-      "list": []
-    },
-    {
-      "date": "June 26, 2025",
-      "list": []
-    },
-    {
       "date": "June 27, 2025",
       "list": []
     },
@@ -156,6 +11,89 @@
     {
       "date": "June 29, 2025",
       "list": []
+    },
+    {
+      "date": "June 30, 2025",
+      "list": []
+    },
+    {
+      "date": "July 1, 2025",
+      "list": []
+    },
+    {
+      "date": "July 2, 2025",
+      "list": []
+    },
+    {
+      "date": "July 3, 2025",
+      "list": []
+    },
+    {
+      "date": "July 4, 2025",
+      "list": []
+    },
+    {
+      "date": "July 5, 2025",
+      "list": []
+    },
+    {
+      "date": "July 6, 2025",
+      "list": []
+    },
+    {
+      "date": "July 7, 2025",
+      "list": []
+    },
+    {
+      "date": "July 8, 2025",
+      "list": [
+        {
+          "showName": "America's Got Talent",
+          "episodeName": "Auditions 6",
+          "seasonNumber": "20",
+          "episodeNumberInSeason": "6",
+          "airTime": "7:00",
+          "channel": "NBC"
+        }
+      ]
+    },
+    {
+      "date": "July 9, 2025",
+      "list": []
+    },
+    {
+      "date": "July 10, 2025",
+      "list": [
+        {
+          "showName": "Big Brother",
+          "episodeName": "TBA",
+          "seasonNumber": "27",
+          "episodeNumberInSeason": "1",
+          "airTime": "7:00",
+          "channel": "CBS"
+        }
+      ]
+    },
+    {
+      "date": "July 11, 2025",
+      "list": []
+    },
+    {
+      "date": "July 12, 2025",
+      "list": []
+    },
+    {
+      "date": "July 13, 2025",
+      "list": [
+        {
+          "showName": "Big Brother",
+          "episodeName": "TBA",
+          "seasonNumber": "27",
+          "episodeNumberInSeason": "2",
+          "airTime": "7:00",
+          "channel": "CBS"
+        }
+      ]
     }
   ]
 }
