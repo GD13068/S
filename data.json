@@ -1,38 +1,6 @@
 {
   "data": [
     {
-      "date": "June 27, 2025",
-      "list": []
-    },
-    {
-      "date": "June 28, 2025",
-      "list": []
-    },
-    {
-      "date": "June 29, 2025",
-      "list": []
-    },
-    {
-      "date": "June 30, 2025",
-      "list": []
-    },
-    {
-      "date": "July 1, 2025",
-      "list": []
-    },
-    {
-      "date": "July 2, 2025",
-      "list": []
-    },
-    {
-      "date": "July 3, 2025",
-      "list": []
-    },
-    {
-      "date": "July 4, 2025",
-      "list": []
-    },
-    {
       "date": "July 5, 2025",
       "list": []
     },
@@ -66,7 +34,7 @@
       "list": [
         {
           "showName": "Big Brother",
-          "episodeName": "TBA",
+          "episodeName": "2701 [90 minutes]",
           "seasonNumber": "27",
           "episodeNumberInSeason": "1",
           "airTime": "7:00",
@@ -87,9 +55,73 @@
       "list": [
         {
           "showName": "Big Brother",
-          "episodeName": "TBA",
+          "episodeName": "2702 [90 minutes]",
           "seasonNumber": "27",
           "episodeNumberInSeason": "2",
+          "airTime": "7:00",
+          "channel": "CBS"
+        }
+      ]
+    },
+    {
+      "date": "July 14, 2025",
+      "list": []
+    },
+    {
+      "date": "July 15, 2025",
+      "list": [
+        {
+          "showName": "America's Got Talent",
+          "episodeName": "Auditions 7",
+          "seasonNumber": "20",
+          "episodeNumberInSeason": "7",
+          "airTime": "7:00",
+          "channel": "NBC"
+        }
+      ]
+    },
+    {
+      "date": "July 16, 2025",
+      "list": [
+        {
+          "showName": "Big Brother",
+          "episodeName": "2703 [90 minutes]",
+          "seasonNumber": "27",
+          "episodeNumberInSeason": "3",
+          "airTime": "7:00",
+          "channel": "CBS"
+        }
+      ]
+    },
+    {
+      "date": "July 17, 2025",
+      "list": [
+        {
+          "showName": "Big Brother",
+          "episodeName": "2704",
+          "seasonNumber": "27",
+          "episodeNumberInSeason": "4",
+          "airTime": "7:00",
+          "channel": "CBS"
+        }
+      ]
+    },
+    {
+      "date": "July 18, 2025",
+      "list": []
+    },
+    {
+      "date": "July 19, 2025",
+      "list": []
+    },
+    {
+      "date": "July 20, 2025",
+      "list": [
+        {
+          "showName": "Big Brother",
+          "episodeName": "2705",
+          "seasonNumber": "27",
+          "episodeNumberInSeason": "5",
           "airTime": "7:00",
           "channel": "CBS"
         }
