@@ -1,112 +1,6 @@
 {
   "data": [
     {
-      "date": "July 5, 2025",
-      "list": []
-    },
-    {
-      "date": "July 6, 2025",
-      "list": []
-    },
-    {
-      "date": "July 7, 2025",
-      "list": []
-    },
-    {
-      "date": "July 8, 2025",
-      "list": [
-        {
-          "showName": "America's Got Talent",
-          "episodeName": "Auditions 6",
-          "seasonNumber": "20",
-          "episodeNumberInSeason": "6",
-          "airTime": "7:00",
-          "channel": "NBC"
-        }
-      ]
-    },
-    {
-      "date": "July 9, 2025",
-      "list": []
-    },
-    {
-      "date": "July 10, 2025",
-      "list": [
-        {
-          "showName": "Big Brother",
-          "episodeName": "2701 [90 minutes]",
-          "seasonNumber": "27",
-          "episodeNumberInSeason": "1",
-          "airTime": "7:00",
-          "channel": "CBS"
-        }
-      ]
-    },
-    {
-      "date": "July 11, 2025",
-      "list": []
-    },
-    {
-      "date": "July 12, 2025",
-      "list": []
-    },
-    {
-      "date": "July 13, 2025",
-      "list": [
-        {
-          "showName": "Big Brother",
-          "episodeName": "2702 [90 minutes]",
-          "seasonNumber": "27",
-          "episodeNumberInSeason": "2",
-          "airTime": "7:00",
-          "channel": "CBS"
-        }
-      ]
-    },
-    {
-      "date": "July 14, 2025",
-      "list": []
-    },
-    {
-      "date": "July 15, 2025",
-      "list": [
-        {
-          "showName": "America's Got Talent",
-          "episodeName": "Auditions 7",
-          "seasonNumber": "20",
-          "episodeNumberInSeason": "7",
-          "airTime": "7:00",
-          "channel": "NBC"
-        }
-      ]
-    },
-    {
-      "date": "July 16, 2025",
-      "list": [
-        {
-          "showName": "Big Brother",
-          "episodeName": "2703 [90 minutes]",
-          "seasonNumber": "27",
-          "episodeNumberInSeason": "3",
-          "airTime": "7:00",
-          "channel": "CBS"
-        }
-      ]
-    },
-    {
-      "date": "July 17, 2025",
-      "list": [
-        {
-          "showName": "Big Brother",
-          "episodeName": "2704",
-          "seasonNumber": "27",
-          "episodeNumberInSeason": "4",
-          "airTime": "7:00",
-          "channel": "CBS"
-        }
-      ]
-    },
-    {
       "date": "July 18, 2025",
       "list": []
     },
@@ -122,6 +16,143 @@
           "episodeName": "2705",
           "seasonNumber": "27",
           "episodeNumberInSeason": "5",
+          "airTime": "7:00",
+          "channel": "CBS"
+        }
+      ]
+    },
+    {
+      "date": "July 21, 2025",
+      "list": []
+    },
+    {
+      "date": "July 22, 2025",
+      "list": [
+        {
+          "showName": "America's Got Talent",
+          "episodeName": "Greatest Golden Buzzers!",
+          "seasonNumber": "20",
+          "episodeNumberInSeason": "8",
+          "airTime": "7:00",
+          "channel": "NBC"
+        }
+      ]
+    },
+    {
+      "date": "July 23, 2025",
+      "list": [
+        {
+          "showName": "Big Brother",
+          "episodeName": "2706 [90 minutes]",
+          "seasonNumber": "27",
+          "episodeNumberInSeason": "6",
+          "airTime": "7:00",
+          "channel": "CBS"
+        }
+      ]
+    },
+    {
+      "date": "July 24, 2025",
+      "list": [
+        {
+          "showName": "Big Brother",
+          "episodeName": "2707",
+          "seasonNumber": "27",
+          "episodeNumberInSeason": "7",
+          "airTime": "7:00",
+          "channel": "CBS"
+        }
+      ]
+    },
+    {
+      "date": "July 25, 2025",
+      "list": [
+        {
+          "showName": "Big Brother",
+          "episodeName": "2708",
+          "seasonNumber": "27",
+          "episodeNumberInSeason": "8",
+          "airTime": "7:00",
+          "channel": "CBS"
+        }
+      ]
+    },
+    {
+      "date": "July 26, 2025",
+      "list": []
+    },
+    {
+      "date": "July 27, 2025",
+      "list": [
+        {
+          "showName": "Big Brother",
+          "episodeName": "2709",
+          "seasonNumber": "27",
+          "episodeNumberInSeason": "9",
+          "airTime": "7:00",
+          "channel": "CBS"
+        }
+      ]
+    },
+    {
+      "date": "July 28, 2025",
+      "list": []
+    },
+    {
+      "date": "July 29, 2025",
+      "list": [
+        {
+          "showName": "America's Got Talent",
+          "episodeName": "Auditions 8",
+          "seasonNumber": "20",
+          "episodeNumberInSeason": "9",
+          "airTime": "7:00",
+          "channel": "NBC"
+        }
+      ]
+    },
+    {
+      "date": "July 30, 2025",
+      "list": [
+        {
+          "showName": "Big Brother",
+          "episodeName": "2710 [90 minutes]",
+          "seasonNumber": "27",
+          "episodeNumberInSeason": "10",
+          "airTime": "7:00",
+          "channel": "CBS"
+        }
+      ]
+    },
+    {
+      "date": "July 31, 2025",
+      "list": [
+        {
+          "showName": "Big Brother",
+          "episodeName": "2711",
+          "seasonNumber": "27",
+          "episodeNumberInSeason": "11",
+          "airTime": "7:00",
+          "channel": "CBS"
+        }
+      ]
+    },
+    {
+      "date": "August 1, 2025",
+      "list": []
+    },
+    {
+      "date": "August 2, 2025",
+      "list": []
+    },
+    {
+      "date": "August 3, 2025",
+      "list": [
+        {
+          "showName": "Big Brother",
+          "episodeName": "2712",
+          "seasonNumber": "27",
+          "episodeNumberInSeason": "12",
           "airTime": "7:00",
           "channel": "CBS"
         }
