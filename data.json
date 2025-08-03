@@ -68,6 +68,14 @@
       "date": "August 6, 2025",
       "list": [
         {
+          "showName": "Wednesday",
+          "episodeName": "Part 1 [4 episodes]",
+          "seasonNumber": "2",
+          "episodeNumberInSeason": "1 - S2 E4",
+          "airTime": "2:01",
+          "channel": "Netflix"
+        },
+        {
           "showName": "Big Brother",
           "episodeName": "2713 [90 minutes]",
           "seasonNumber": "27",
@@ -248,7 +256,7 @@
       "list": [
         {
           "showName": "Big Brother",
-          "episodeName": "TBA [2 hours]",
+          "episodeName": "2722 [2 hours]",
           "seasonNumber": "27",
           "episodeNumberInSeason": "22",
           "airTime": "7:00",
@@ -286,7 +294,7 @@
         },
         {
           "showName": "Big Brother",
-          "episodeName": "TBA [90 minutes]",
+          "episodeName": "2723 [90 minutes]",
           "seasonNumber": "27",
           "episodeNumberInSeason": "23",
           "airTime": "7:00",
@@ -299,7 +307,7 @@
       "list": [
         {
           "showName": "Big Brother",
-          "episodeName": "2721",
+          "episodeName": "2724",
           "seasonNumber": "27",
           "episodeNumberInSeason": "24",
           "airTime": "7:00",
