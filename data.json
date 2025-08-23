@@ -98,7 +98,7 @@
       "list": [
         {
           "showName": "Big Brother",
-          "episodeName": "2722 [2 hours]",
+          "episodeName": "2722 [90 minutes]",
           "seasonNumber": "27",
           "episodeNumberInSeason": "22",
           "airTime": "7:00",
@@ -187,7 +187,7 @@
       "list": [
         {
           "showName": "America's Got Talent",
-          "episodeName": "TBA",
+          "episodeName": "Quarterfinals 3",
           "seasonNumber": "20",
           "episodeNumberInSeason": "16",
           "airTime": "7:00",
@@ -208,7 +208,7 @@
         },
         {
           "showName": "America's Got Talent",
-          "episodeName": "TBA",
+          "episodeName": "Quarterfinals 3 Results",
           "seasonNumber": "20",
           "episodeNumberInSeason": "17",
           "airTime": "7:00",
@@ -229,9 +229,9 @@
       "list": [
         {
           "showName": "The Paper",
-          "episodeName": "TBA [4 episodes]",
+          "episodeName": "Season 1 [10 episodes]",
           "seasonNumber": "1",
-          "episodeNumberInSeason": "1-S1 E4",
+          "episodeNumberInSeason": "1-S1 E10",
           "airTime": "7:00",
           "channel": "CBS"
         },
@@ -291,7 +291,7 @@
         },
         {
           "showName": "America's Got Talent",
-          "episodeName": "TBA",
+          "episodeName": "Quarterfinals 4",
           "seasonNumber": "20",
           "episodeNumberInSeason": "18",
           "airTime": "7:00",
@@ -304,7 +304,7 @@
       "list": [
         {
           "showName": "America's Got Talent",
-          "episodeName": "TBA",
+          "episodeName": "Quarterfinals 4 Results",
           "seasonNumber": "20",
           "episodeNumberInSeason": "19",
           "airTime": "7:00",
@@ -324,16 +324,8 @@
       "date": "September 11, 2025",
       "list": [
         {
-          "showName": "The Paper",
-          "episodeName": "TBA [2 episodes]",
-          "seasonNumber": "1",
-          "episodeNumberInSeason": "5 & S1 E6",
-          "airTime": "7:00",
-          "channel": "CBS"
-        },
-        {
           "showName": "Big Brother",
-          "episodeName": "2731",
+          "episodeName": "2731 [2 hours]",
           "seasonNumber": "27",
           "episodeNumberInSeason": "31",
           "airTime": "7:00",
