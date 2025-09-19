@@ -1,90 +1,6 @@
 {
   "data": [
     {
-      "date": "September 11, 2025",
-      "list": [
-        {
-          "showName": "Big Brother",
-          "episodeName": "2731",
-          "seasonNumber": "27",
-          "episodeNumberInSeason": "31",
-          "airTime": "7:00",
-          "channel": "CBS"
-        }
-      ]
-    },
-    {
-      "date": "September 12, 2025",
-      "list": []
-    },
-    {
-      "date": "September 13, 2025",
-      "list": []
-    },
-    {
-      "date": "September 14, 2025",
-      "list": []
-    },
-    {
-      "date": "September 15, 2025",
-      "list": []
-    },
-    {
-      "date": "September 16, 2025",
-      "list": [
-        {
-          "showName": "Only Murders in the Building",
-          "episodeName": "TBA",
-          "seasonNumber": "5",
-          "episodeNumberInSeason": "4",
-          "airTime": "11:01 (Monday)",
-          "channel": "Hulu] [G"
-        },
-        {
-          "showName": "America's Got Talent",
-          "episodeName": "Semifinals",
-          "seasonNumber": "20",
-          "episodeNumberInSeason": "20",
-          "airTime": "7:00",
-          "channel": "NBC"
-        }
-      ]
-    },
-    {
-      "date": "September 17, 2025",
-      "list": [
-        {
-          "showName": "America's Got Talent",
-          "episodeName": "Semifinals Results",
-          "seasonNumber": "20",
-          "episodeNumberInSeason": "21",
-          "airTime": "7:00",
-          "channel": "NBC"
-        },
-        {
-          "showName": "Big Brother",
-          "episodeName": "2732 [2 hours]",
-          "seasonNumber": "27",
-          "episodeNumberInSeason": "32",
-          "airTime": "7:00",
-          "channel": "CBS"
-        }
-      ]
-    },
-    {
-      "date": "September 18, 2025",
-      "list": [
-        {
-          "showName": "Big Brother",
-          "episodeName": "2733 [2 hours]",
-          "seasonNumber": "27",
-          "episodeNumberInSeason": "33",
-          "airTime": "7:00",
-          "channel": "CBS"
-        }
-      ]
-    },
-    {
       "date": "September 19, 2025",
       "list": [
         {
@@ -155,7 +71,7 @@
           "showName": "America's Got Talent",
           "episodeName": "Special\" & \"Finale Results",
           "seasonNumber": "20",
-          "episodeNumberInSeason": "23",
+          "episodeNumberInSeason": "23 & S20 E24",
           "airTime": "7:00",
           "channel": "NBC"
         },
@@ -174,7 +90,7 @@
       "list": [
         {
           "showName": "All Creatures Great and Small",
-          "episodeName": "TBA",
+          "episodeName": "Gathering the Flock",
           "seasonNumber": "6",
           "episodeNumberInSeason": "1",
           "airTime": "3:00",
@@ -219,6 +135,78 @@
           "channel": "CBS"
         }
       ]
+    },
+    {
+      "date": "September 29, 2025",
+      "list": [
+        {
+          "showName": "Brilliant Minds",
+          "episodeName": "The Contestant",
+          "seasonNumber": "2",
+          "episodeNumberInSeason": "2",
+          "airTime": "9:00",
+          "channel": "NBC"
+        }
+      ]
+    },
+    {
+      "date": "September 30, 2025",
+      "list": [
+        {
+          "showName": "Only Murders in the Building",
+          "episodeName": "TBA",
+          "seasonNumber": "5",
+          "episodeNumberInSeason": "6",
+          "airTime": "11:01 (Monday)",
+          "channel": "Hulu] [G"
+        }
+      ]
+    },
+    {
+      "date": "October 1, 2025",
+      "list": [
+        {
+          "showName": "Chicago Med",
+          "episodeName": "We All Fall Down",
+          "seasonNumber": "11",
+          "episodeNumberInSeason": "1",
+          "airTime": "7:00",
+          "channel": "NBC] [G"
+        },
+        {
+          "showName": "Abbott Elementary",
+          "episodeName": "Team Building",
+          "seasonNumber": "5",
+          "episodeNumberInSeason": "1",
+          "airTime": "7:30",
+          "channel": "ABC"
+        }
+      ]
+    },
+    {
+      "date": "October 2, 2025",
+      "list": [
+        {
+          "showName": "All Creatures Great and Small",
+          "episodeName": "TBA",
+          "seasonNumber": "6",
+          "episodeNumberInSeason": "2",
+          "airTime": "3:00",
+          "channel": "Channel 5"
+        }
+      ]
+    },
+    {
+      "date": "October 3, 2025",
+      "list": []
+    },
+    {
+      "date": "October 4, 2025",
+      "list": []
+    },
+    {
+      "date": "October 5, 2025",
+      "list": []
     }
   ]
 }
