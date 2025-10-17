@@ -1,217 +1,6 @@
 {
   "data": [
     {
-      "date": "October 1, 2025",
-      "list": [
-        {
-          "showName": "Chicago Med",
-          "episodeName": "We All Fall Down",
-          "seasonNumber": "11",
-          "episodeNumberInSeason": "1",
-          "airTime": "7:00",
-          "channel": "NBC] [G"
-        },
-        {
-          "showName": "Abbott Elementary",
-          "episodeName": "Team Building",
-          "seasonNumber": "5",
-          "episodeNumberInSeason": "1",
-          "airTime": "7:30",
-          "channel": "ABC"
-        }
-      ]
-    },
-    {
-      "date": "October 2, 2025",
-      "list": [
-        {
-          "showName": "All Creatures Great and Small",
-          "episodeName": "Old Dog, New Tricks",
-          "seasonNumber": "6",
-          "episodeNumberInSeason": "2",
-          "airTime": "3:00",
-          "channel": "Channel 5"
-        }
-      ]
-    },
-    {
-      "date": "October 3, 2025",
-      "list": []
-    },
-    {
-      "date": "October 4, 2025",
-      "list": []
-    },
-    {
-      "date": "October 5, 2025",
-      "list": []
-    },
-    {
-      "date": "October 6, 2025",
-      "list": [
-        {
-          "showName": "Brilliant Minds",
-          "episodeName": "The Witness",
-          "seasonNumber": "2",
-          "episodeNumberInSeason": "3",
-          "airTime": "9:00",
-          "channel": "NBC"
-        }
-      ]
-    },
-    {
-      "date": "October 7, 2025",
-      "list": [
-        {
-          "showName": "Only Murders in the Building",
-          "episodeName": "TBA",
-          "seasonNumber": "5",
-          "episodeNumberInSeason": "7",
-          "airTime": "11:01 (Monday)",
-          "channel": "Hulu] [G"
-        }
-      ]
-    },
-    {
-      "date": "October 8, 2025",
-      "list": [
-        {
-          "showName": "Chicago Med",
-          "episodeName": "A Game of Inches",
-          "seasonNumber": "11",
-          "episodeNumberInSeason": "2",
-          "airTime": "7:00",
-          "channel": "NBC] [G"
-        },
-        {
-          "showName": "Abbott Elementary",
-          "episodeName": "Cheating",
-          "seasonNumber": "5",
-          "episodeNumberInSeason": "2",
-          "airTime": "7:30",
-          "channel": "ABC"
-        }
-      ]
-    },
-    {
-      "date": "October 9, 2025",
-      "list": [
-        {
-          "showName": "All Creatures Great and Small",
-          "episodeName": "Captain Farnon?",
-          "seasonNumber": "6",
-          "episodeNumberInSeason": "3",
-          "airTime": "3:00",
-          "channel": "Channel 5"
-        }
-      ]
-    },
-    {
-      "date": "October 10, 2025",
-      "list": []
-    },
-    {
-      "date": "October 11, 2025",
-      "list": []
-    },
-    {
-      "date": "October 12, 2025",
-      "list": [
-        {
-          "showName": "Matlock",
-          "episodeName": "The Before Times",
-          "seasonNumber": "2",
-          "episodeNumberInSeason": "1",
-          "airTime": "7:30",
-          "channel": "CBS"
-        }
-      ]
-    },
-    {
-      "date": "October 13, 2025",
-      "list": [
-        {
-          "showName": "The Neighborhood",
-          "episodeName": "Welcome to the New Normals",
-          "seasonNumber": "8",
-          "episodeNumberInSeason": "1",
-          "airTime": "7:00",
-          "channel": "CBS] [G"
-        },
-        {
-          "showName": "Brilliant Minds",
-          "episodeName": "Lady Liberty",
-          "seasonNumber": "2",
-          "episodeNumberInSeason": "4",
-          "airTime": "9:00",
-          "channel": "NBC"
-        }
-      ]
-    },
-    {
-      "date": "October 14, 2025",
-      "list": [
-        {
-          "showName": "Only Murders in the Building",
-          "episodeName": "TBA",
-          "seasonNumber": "5",
-          "episodeNumberInSeason": "8",
-          "airTime": "11:01 (Monday)",
-          "channel": "Hulu] [G"
-        }
-      ]
-    },
-    {
-      "date": "October 15, 2025",
-      "list": [
-        {
-          "showName": "Chicago Med",
-          "episodeName": "Horseshoes and Hand Grenades",
-          "seasonNumber": "11",
-          "episodeNumberInSeason": "3",
-          "airTime": "7:00",
-          "channel": "NBC] [G"
-        },
-        {
-          "showName": "Abbott Elementary",
-          "episodeName": "Ballgame",
-          "seasonNumber": "5",
-          "episodeNumberInSeason": "3",
-          "airTime": "7:30",
-          "channel": "ABC"
-        }
-      ]
-    },
-    {
-      "date": "October 16, 2025",
-      "list": [
-        {
-          "showName": "All Creatures Great and Small",
-          "episodeName": "Jenny Wren",
-          "seasonNumber": "6",
-          "episodeNumberInSeason": "4",
-          "airTime": "3:00",
-          "channel": "Channel 5"
-        },
-        {
-          "showName": "Georgie & Mandy's First Marriage",
-          "episodeName": "A Tie Breaker and a Huge Mistake",
-          "seasonNumber": "2",
-          "episodeNumberInSeason": "1",
-          "airTime": "7:00",
-          "channel": "CBS] [G"
-        },
-        {
-          "showName": "Matlock",
-          "episodeName": "Another Matlock",
-          "seasonNumber": "2",
-          "episodeNumberInSeason": "2",
-          "airTime": "8:01",
-          "channel": "CBS"
-        }
-      ]
-    },
-    {
       "date": "October 17, 2025",
       "list": []
     },
@@ -221,6 +10,214 @@
     },
     {
       "date": "October 19, 2025",
+      "list": []
+    },
+    {
+      "date": "October 20, 2025",
+      "list": [
+        {
+          "showName": "The Neighborhood",
+          "episodeName": "Welcome to the Downsizing",
+          "seasonNumber": "8",
+          "episodeNumberInSeason": "2",
+          "airTime": "7:00",
+          "channel": "CBS] [G"
+        },
+        {
+          "showName": "Brilliant Minds",
+          "episodeName": "Once Upon a Time in America",
+          "seasonNumber": "2",
+          "episodeNumberInSeason": "5",
+          "airTime": "9:00",
+          "channel": "NBC"
+        },
+        {
+          "showName": "Watson",
+          "episodeName": "Back from the Dead",
+          "seasonNumber": "2",
+          "episodeNumberInSeason": "2",
+          "airTime": "9:00",
+          "channel": "CBS"
+        }
+      ]
+    },
+    {
+      "date": "October 21, 2025",
+      "list": [
+        {
+          "showName": "Only Murders in the Building",
+          "episodeName": "TBA",
+          "seasonNumber": "5",
+          "episodeNumberInSeason": "9",
+          "airTime": "11:01 (Monday)",
+          "channel": "Hulu] [G"
+        }
+      ]
+    },
+    {
+      "date": "October 22, 2025",
+      "list": [
+        {
+          "showName": "Chicago Med",
+          "episodeName": "Found Family",
+          "seasonNumber": "11",
+          "episodeNumberInSeason": "4",
+          "airTime": "7:00",
+          "channel": "NBC] [G"
+        },
+        {
+          "showName": "Abbott Elementary",
+          "episodeName": "Game Night",
+          "seasonNumber": "5",
+          "episodeNumberInSeason": "4",
+          "airTime": "7:30",
+          "channel": "ABC"
+        }
+      ]
+    },
+    {
+      "date": "October 23, 2025",
+      "list": [
+        {
+          "showName": "All Creatures Great and Small",
+          "episodeName": "TBA",
+          "seasonNumber": "6",
+          "episodeNumberInSeason": "5",
+          "airTime": "3:00",
+          "channel": "Channel 5"
+        },
+        {
+          "showName": "Georgie & Mandy's First Marriage",
+          "episodeName": "Fan Mail and Old-timey Organ Music",
+          "seasonNumber": "2",
+          "episodeNumberInSeason": "2",
+          "airTime": "7:00",
+          "channel": "CBS] [G"
+        },
+        {
+          "showName": "Matlock",
+          "episodeName": "Tomorrow is Still Tomorrow",
+          "seasonNumber": "2",
+          "episodeNumberInSeason": "3",
+          "airTime": "8:01",
+          "channel": "CBS"
+        }
+      ]
+    },
+    {
+      "date": "October 24, 2025",
+      "list": []
+    },
+    {
+      "date": "October 25, 2025",
+      "list": []
+    },
+    {
+      "date": "October 26, 2025",
+      "list": []
+    },
+    {
+      "date": "October 27, 2025",
+      "list": [
+        {
+          "showName": "The Neighborhood",
+          "episodeName": "Welcome to Spades",
+          "seasonNumber": "8",
+          "episodeNumberInSeason": "3",
+          "airTime": "7:00",
+          "channel": "CBS] [G"
+        },
+        {
+          "showName": "Brilliant Minds",
+          "episodeName": "The Doctor's Graveyard",
+          "seasonNumber": "2",
+          "episodeNumberInSeason": "6",
+          "airTime": "9:00",
+          "channel": "NBC"
+        },
+        {
+          "showName": "Watson",
+          "episodeName": "Expletive Deleted",
+          "seasonNumber": "2",
+          "episodeNumberInSeason": "3",
+          "airTime": "9:00",
+          "channel": "CBS"
+        }
+      ]
+    },
+    {
+      "date": "October 28, 2025",
+      "list": [
+        {
+          "showName": "Only Murders in the Building",
+          "episodeName": "TBA [season finale; not yet renewed]",
+          "seasonNumber": "5",
+          "episodeNumberInSeason": "10",
+          "airTime": "11:01 (Monday)",
+          "channel": "Hulu] [G"
+        }
+      ]
+    },
+    {
+      "date": "October 29, 2025",
+      "list": [
+        {
+          "showName": "Chicago Med",
+          "episodeName": "What's Hiding in the Dark",
+          "seasonNumber": "11",
+          "episodeNumberInSeason": "5",
+          "airTime": "7:00",
+          "channel": "NBC] [G"
+        },
+        {
+          "showName": "Abbott Elementary",
+          "episodeName": "Camping",
+          "seasonNumber": "5",
+          "episodeNumberInSeason": "5",
+          "airTime": "7:30",
+          "channel": "ABC"
+        }
+      ]
+    },
+    {
+      "date": "October 30, 2025",
+      "list": [
+        {
+          "showName": "All Creatures Great and Small",
+          "episodeName": "TBA [season finale]",
+          "seasonNumber": "6",
+          "episodeNumberInSeason": "6",
+          "airTime": "3:00",
+          "channel": "Channel 5"
+        },
+        {
+          "showName": "Georgie & Mandy's First Marriage",
+          "episodeName": "A Will and a Dead Man's Wife",
+          "seasonNumber": "2",
+          "episodeNumberInSeason": "3",
+          "airTime": "7:00",
+          "channel": "CBS] [G"
+        },
+        {
+          "showName": "Matlock",
+          "episodeName": "Piece of My Heart",
+          "seasonNumber": "2",
+          "episodeNumberInSeason": "4",
+          "airTime": "8:01",
+          "channel": "CBS"
+        }
+      ]
+    },
+    {
+      "date": "October 31, 2025",
+      "list": []
+    },
+    {
+      "date": "November 1, 2025",
+      "list": []
+    },
+    {
+      "date": "November 2, 2025",
       "list": []
     }
   ]
