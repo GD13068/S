@@ -1,122 +1,6 @@
 {
   "data": [
     {
-      "date": "October 17, 2025",
-      "list": []
-    },
-    {
-      "date": "October 18, 2025",
-      "list": []
-    },
-    {
-      "date": "October 19, 2025",
-      "list": []
-    },
-    {
-      "date": "October 20, 2025",
-      "list": [
-        {
-          "showName": "The Neighborhood",
-          "episodeName": "Welcome to the Downsizing",
-          "seasonNumber": "8",
-          "episodeNumberInSeason": "2",
-          "airTime": "7:00",
-          "channel": "CBS] [G"
-        },
-        {
-          "showName": "Brilliant Minds",
-          "episodeName": "Once Upon a Time in America",
-          "seasonNumber": "2",
-          "episodeNumberInSeason": "5",
-          "airTime": "9:00",
-          "channel": "NBC"
-        },
-        {
-          "showName": "Watson",
-          "episodeName": "Back from the Dead",
-          "seasonNumber": "2",
-          "episodeNumberInSeason": "2",
-          "airTime": "9:00",
-          "channel": "CBS"
-        }
-      ]
-    },
-    {
-      "date": "October 21, 2025",
-      "list": [
-        {
-          "showName": "Only Murders in the Building",
-          "episodeName": "TBA",
-          "seasonNumber": "5",
-          "episodeNumberInSeason": "9",
-          "airTime": "11:01 (Monday)",
-          "channel": "Hulu] [G"
-        }
-      ]
-    },
-    {
-      "date": "October 22, 2025",
-      "list": [
-        {
-          "showName": "Chicago Med",
-          "episodeName": "Found Family",
-          "seasonNumber": "11",
-          "episodeNumberInSeason": "4",
-          "airTime": "7:00",
-          "channel": "NBC] [G"
-        },
-        {
-          "showName": "Abbott Elementary",
-          "episodeName": "Game Night",
-          "seasonNumber": "5",
-          "episodeNumberInSeason": "4",
-          "airTime": "7:30",
-          "channel": "ABC"
-        }
-      ]
-    },
-    {
-      "date": "October 23, 2025",
-      "list": [
-        {
-          "showName": "All Creatures Great and Small",
-          "episodeName": "TBA",
-          "seasonNumber": "6",
-          "episodeNumberInSeason": "5",
-          "airTime": "3:00",
-          "channel": "Channel 5"
-        },
-        {
-          "showName": "Georgie & Mandy's First Marriage",
-          "episodeName": "Fan Mail and Old-timey Organ Music",
-          "seasonNumber": "2",
-          "episodeNumberInSeason": "2",
-          "airTime": "7:00",
-          "channel": "CBS] [G"
-        },
-        {
-          "showName": "Matlock",
-          "episodeName": "Tomorrow is Still Tomorrow",
-          "seasonNumber": "2",
-          "episodeNumberInSeason": "3",
-          "airTime": "8:01",
-          "channel": "CBS"
-        }
-      ]
-    },
-    {
-      "date": "October 24, 2025",
-      "list": []
-    },
-    {
-      "date": "October 25, 2025",
-      "list": []
-    },
-    {
-      "date": "October 26, 2025",
-      "list": []
-    },
-    {
       "date": "October 27, 2025",
       "list": [
         {
@@ -218,6 +102,180 @@
     },
     {
       "date": "November 2, 2025",
+      "list": []
+    },
+    {
+      "date": "November 3, 2025",
+      "list": [
+        {
+          "showName": "The Neighborhood",
+          "episodeName": "Welcome to Family Value",
+          "seasonNumber": "8",
+          "episodeNumberInSeason": "4",
+          "airTime": "7:00",
+          "channel": "CBS] [G"
+        },
+        {
+          "showName": "St. Denis Medical",
+          "episodeName": "Aloha, Everyone\" & \"Mama Bear Activated",
+          "seasonNumber": "2",
+          "episodeNumberInSeason": "1 & S2 E2",
+          "airTime": "7:00",
+          "channel": "NBC"
+        },
+        {
+          "showName": "Brilliant Minds",
+          "episodeName": "The One That Got Away",
+          "seasonNumber": "2",
+          "episodeNumberInSeason": "7",
+          "airTime": "9:00",
+          "channel": "NBC"
+        },
+        {
+          "showName": "Watson",
+          "episodeName": "Happy When It Rains",
+          "seasonNumber": "2",
+          "episodeNumberInSeason": "4",
+          "airTime": "9:00",
+          "channel": "CBS"
+        }
+      ]
+    },
+    {
+      "date": "November 4, 2025",
+      "list": []
+    },
+    {
+      "date": "November 5, 2025",
+      "list": [
+        {
+          "showName": "Chicago Med",
+          "episodeName": "The Story Of Us",
+          "seasonNumber": "11",
+          "episodeNumberInSeason": "6",
+          "airTime": "7:00",
+          "channel": "NBC] [G"
+        },
+        {
+          "showName": "Abbott Elementary",
+          "episodeName": "No Phones",
+          "seasonNumber": "5",
+          "episodeNumberInSeason": "6",
+          "airTime": "7:30",
+          "channel": "ABC"
+        }
+      ]
+    },
+    {
+      "date": "November 6, 2025",
+      "list": [
+        {
+          "showName": "Georgie & Mandy's First Marriage",
+          "episodeName": "Dirty Hands and a Barbed-Wire Fence",
+          "seasonNumber": "2",
+          "episodeNumberInSeason": "4",
+          "airTime": "7:00",
+          "channel": "CBS] [G"
+        },
+        {
+          "showName": "Matlock",
+          "episodeName": "Mousetrap",
+          "seasonNumber": "2",
+          "episodeNumberInSeason": "5",
+          "airTime": "8:01",
+          "channel": "CBS"
+        }
+      ]
+    },
+    {
+      "date": "November 7, 2025",
+      "list": []
+    },
+    {
+      "date": "November 8, 2025",
+      "list": []
+    },
+    {
+      "date": "November 9, 2025",
+      "list": []
+    },
+    {
+      "date": "November 10, 2025",
+      "list": [
+        {
+          "showName": "The Neighborhood",
+          "episodeName": "Welcome to New Horizons",
+          "seasonNumber": "8",
+          "episodeNumberInSeason": "5",
+          "airTime": "7:00",
+          "channel": "CBS] [G"
+        },
+        {
+          "showName": "St. Denis Medical",
+          "episodeName": "Get Me in the Pod, Brother",
+          "seasonNumber": "2",
+          "episodeNumberInSeason": "3",
+          "airTime": "7:00",
+          "channel": "NBC"
+        },
+        {
+          "showName": "Watson",
+          "episodeName": "Lucky",
+          "seasonNumber": "2",
+          "episodeNumberInSeason": "5",
+          "airTime": "9:00",
+          "channel": "CBS"
+        }
+      ]
+    },
+    {
+      "date": "November 11, 2025",
+      "list": []
+    },
+    {
+      "date": "November 12, 2025",
+      "list": [
+        {
+          "showName": "Chicago Med",
+          "episodeName": "Double Down",
+          "seasonNumber": "11",
+          "episodeNumberInSeason": "7",
+          "airTime": "7:00",
+          "channel": "NBC] [G"
+        }
+      ]
+    },
+    {
+      "date": "November 13, 2025",
+      "list": [
+        {
+          "showName": "Georgie & Mandy's First Marriage",
+          "episodeName": "A Pregnancy Test and an Old Man's Prostate",
+          "seasonNumber": "2",
+          "episodeNumberInSeason": "5",
+          "airTime": "7:00",
+          "channel": "CBS] [G"
+        },
+        {
+          "showName": "Matlock",
+          "episodeName": "Harm Reduction",
+          "seasonNumber": "2",
+          "episodeNumberInSeason": "6",
+          "airTime": "8:01",
+          "channel": "CBS"
+        }
+      ]
+    },
+    {
+      "date": "November 14, 2025",
+      "list": []
+    },
+    {
+      "date": "November 15, 2025",
+      "list": []
+    },
+    {
+      "date": "November 16, 2025",
       "list": []
     }
   ]
