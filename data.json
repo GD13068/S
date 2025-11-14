@@ -1,73 +1,6 @@
 {
   "data": [
     {
-      "date": "November 10, 2025",
-      "list": [
-        {
-          "showName": "The Neighborhood",
-          "episodeName": "Welcome to New Horizons",
-          "seasonNumber": "8",
-          "episodeNumberInSeason": "5",
-          "airTime": "7:00",
-          "channel": "CBS] [G"
-        },
-        {
-          "showName": "St. Denis Medical",
-          "episodeName": "Get Me in the Pod, Brother",
-          "seasonNumber": "2",
-          "episodeNumberInSeason": "3",
-          "airTime": "7:00",
-          "channel": "NBC"
-        },
-        {
-          "showName": "Watson",
-          "episodeName": "Lucky",
-          "seasonNumber": "2",
-          "episodeNumberInSeason": "5",
-          "airTime": "9:00",
-          "channel": "CBS"
-        }
-      ]
-    },
-    {
-      "date": "November 11, 2025",
-      "list": []
-    },
-    {
-      "date": "November 12, 2025",
-      "list": [
-        {
-          "showName": "Chicago Med",
-          "episodeName": "Double Down [fall finale]",
-          "seasonNumber": "11",
-          "episodeNumberInSeason": "7",
-          "airTime": "7:00",
-          "channel": "NBC] [G"
-        }
-      ]
-    },
-    {
-      "date": "November 13, 2025",
-      "list": [
-        {
-          "showName": "Georgie & Mandy's First Marriage",
-          "episodeName": "A Pregnancy Test and an Old Man's Prostate",
-          "seasonNumber": "2",
-          "episodeNumberInSeason": "5",
-          "airTime": "7:00",
-          "channel": "CBS] [G"
-        },
-        {
-          "showName": "Matlock",
-          "episodeName": "Harm Reduction",
-          "seasonNumber": "2",
-          "episodeNumberInSeason": "6",
-          "airTime": "8:01",
-          "channel": "CBS"
-        }
-      ]
-    },
-    {
       "date": "November 14, 2025",
       "list": []
     },
@@ -147,6 +80,154 @@
     },
     {
       "date": "November 23, 2025",
+      "list": []
+    },
+    {
+      "date": "November 24, 2025",
+      "list": [
+        {
+          "showName": "St. Denis Medical",
+          "episodeName": "A Strong Cup of Coffee",
+          "seasonNumber": "2",
+          "episodeNumberInSeason": "5",
+          "airTime": "7:00",
+          "channel": "NBC"
+        },
+        {
+          "showName": "Watson",
+          "episodeName": "Giant Steps",
+          "seasonNumber": "2",
+          "episodeNumberInSeason": "7",
+          "airTime": "9:00",
+          "channel": "CBS"
+        },
+        {
+          "showName": "Brilliant Minds",
+          "episodeName": "The Fire Fighter",
+          "seasonNumber": "2",
+          "episodeNumberInSeason": "9",
+          "airTime": "9:00",
+          "channel": "NBC"
+        }
+      ]
+    },
+    {
+      "date": "November 25, 2025",
+      "list": []
+    },
+    {
+      "date": "November 26, 2025",
+      "list": []
+    },
+    {
+      "date": "November 27, 2025",
+      "list": []
+    },
+    {
+      "date": "November 28, 2025",
+      "list": []
+    },
+    {
+      "date": "November 29, 2025",
+      "list": []
+    },
+    {
+      "date": "November 30, 2025",
+      "list": []
+    },
+    {
+      "date": "December 1, 2025",
+      "list": [
+        {
+          "showName": "St. Denis Medical",
+          "episodeName": "I Left a Woman on the Table",
+          "seasonNumber": "2",
+          "episodeNumberInSeason": "6",
+          "airTime": "7:00",
+          "channel": "NBC"
+        },
+        {
+          "showName": "The Neighborhood",
+          "episodeName": "Welcome to Babies and Bathwater [special time]",
+          "seasonNumber": "8",
+          "episodeNumberInSeason": "7",
+          "airTime": "7:30",
+          "channel": "CBS] [G"
+        },
+        {
+          "showName": "Watson",
+          "episodeName": "Livvy Sees the Doctor",
+          "seasonNumber": "2",
+          "episodeNumberInSeason": "8",
+          "airTime": "9:00",
+          "channel": "CBS"
+        },
+        {
+          "showName": "Brilliant Minds",
+          "episodeName": "The Gala [Fall finale]",
+          "seasonNumber": "2",
+          "episodeNumberInSeason": "10",
+          "airTime": "9:00",
+          "channel": "NBC"
+        }
+      ]
+    },
+    {
+      "date": "December 2, 2025",
+      "list": []
+    },
+    {
+      "date": "December 3, 2025",
+      "list": [
+        {
+          "showName": "Abbott Elementary",
+          "episodeName": "Goofgirl",
+          "seasonNumber": "5",
+          "episodeNumberInSeason": "7",
+          "airTime": "7:30",
+          "channel": "ABC"
+        }
+      ]
+    },
+    {
+      "date": "December 4, 2025",
+      "list": [
+        {
+          "showName": "Georgie & Mandy's First Marriage",
+          "episodeName": "A Bus Bench and Faith Out the Wazoo",
+          "seasonNumber": "2",
+          "episodeNumberInSeason": "7",
+          "airTime": "7:00",
+          "channel": "CBS] [G"
+        },
+        {
+          "showName": "Matlock",
+          "episodeName": "Prior Bad Acts",
+          "seasonNumber": "2",
+          "episodeNumberInSeason": "7",
+          "airTime": "8:00",
+          "channel": "CBS"
+        },
+        {
+          "showName": "The Great Christmas Light Fight",
+          "episodeName": "The Holiday Express\" & \"Santa's Making His List",
+          "seasonNumber": "13",
+          "episodeNumberInSeason": "1 & S13 E2",
+          "airTime": "8:00",
+          "channel": "ABC"
+        }
+      ]
+    },
+    {
+      "date": "December 5, 2025",
+      "list": []
+    },
+    {
+      "date": "December 6, 2025",
+      "list": []
+    },
+    {
+      "date": "December 7, 2025",
       "list": []
     }
   ]
