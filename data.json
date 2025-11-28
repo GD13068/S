@@ -1,141 +1,6 @@
 {
   "data": [
     {
-      "date": "November 14, 2025",
-      "list": []
-    },
-    {
-      "date": "November 15, 2025",
-      "list": []
-    },
-    {
-      "date": "November 16, 2025",
-      "list": []
-    },
-    {
-      "date": "November 17, 2025",
-      "list": [
-        {
-          "showName": "The Neighborhood",
-          "episodeName": "Welcome to the Walk of Roses",
-          "seasonNumber": "8",
-          "episodeNumberInSeason": "6",
-          "airTime": "7:00",
-          "channel": "CBS] [G"
-        },
-        {
-          "showName": "St. Denis Medical",
-          "episodeName": "Two Docs, One Conf",
-          "seasonNumber": "2",
-          "episodeNumberInSeason": "4",
-          "airTime": "7:00",
-          "channel": "NBC"
-        },
-        {
-          "showName": "Watson",
-          "episodeName": "Buying Time",
-          "seasonNumber": "2",
-          "episodeNumberInSeason": "6",
-          "airTime": "9:00",
-          "channel": "CBS"
-        },
-        {
-          "showName": "Brilliant Minds",
-          "episodeName": "The Upside Down",
-          "seasonNumber": "2",
-          "episodeNumberInSeason": "8",
-          "airTime": "9:00",
-          "channel": "NBC"
-        }
-      ]
-    },
-    {
-      "date": "November 18, 2025",
-      "list": []
-    },
-    {
-      "date": "November 19, 2025",
-      "list": []
-    },
-    {
-      "date": "November 20, 2025",
-      "list": [
-        {
-          "showName": "Georgie & Mandy's First Marriage",
-          "episodeName": "Heartbreak and the Refuge of the Downtrodden",
-          "seasonNumber": "2",
-          "episodeNumberInSeason": "6",
-          "airTime": "7:00",
-          "channel": "CBS] [G"
-        }
-      ]
-    },
-    {
-      "date": "November 21, 2025",
-      "list": []
-    },
-    {
-      "date": "November 22, 2025",
-      "list": []
-    },
-    {
-      "date": "November 23, 2025",
-      "list": []
-    },
-    {
-      "date": "November 24, 2025",
-      "list": [
-        {
-          "showName": "St. Denis Medical",
-          "episodeName": "A Strong Cup of Coffee",
-          "seasonNumber": "2",
-          "episodeNumberInSeason": "5",
-          "airTime": "7:00",
-          "channel": "NBC"
-        },
-        {
-          "showName": "Watson",
-          "episodeName": "Giant Steps",
-          "seasonNumber": "2",
-          "episodeNumberInSeason": "7",
-          "airTime": "9:00",
-          "channel": "CBS"
-        },
-        {
-          "showName": "Brilliant Minds",
-          "episodeName": "The Fire Fighter",
-          "seasonNumber": "2",
-          "episodeNumberInSeason": "9",
-          "airTime": "9:00",
-          "channel": "NBC"
-        }
-      ]
-    },
-    {
-      "date": "November 25, 2025",
-      "list": []
-    },
-    {
-      "date": "November 26, 2025",
-      "list": []
-    },
-    {
-      "date": "November 27, 2025",
-      "list": []
-    },
-    {
-      "date": "November 28, 2025",
-      "list": []
-    },
-    {
-      "date": "November 29, 2025",
-      "list": []
-    },
-    {
-      "date": "November 30, 2025",
-      "list": []
-    },
-    {
       "date": "December 1, 2025",
       "list": [
         {
@@ -228,6 +93,155 @@
     },
     {
       "date": "December 7, 2025",
+      "list": []
+    },
+    {
+      "date": "December 8, 2025",
+      "list": [
+        {
+          "showName": "St. Denis Medical",
+          "episodeName": "No Wonder His Kidney Wants Out",
+          "seasonNumber": "2",
+          "episodeNumberInSeason": "7",
+          "airTime": "7:00",
+          "channel": "NBC"
+        },
+        {
+          "showName": "The Neighborhood",
+          "episodeName": "Welcome to Secrets and Santa [Fall finale; special time]",
+          "seasonNumber": "8",
+          "episodeNumberInSeason": "8",
+          "airTime": "7:30",
+          "channel": "CBS] [G"
+        },
+        {
+          "showName": "Watson",
+          "episodeName": "Shannon Says Bex Loves Micah",
+          "seasonNumber": "2",
+          "episodeNumberInSeason": "9",
+          "airTime": "9:00",
+          "channel": "CBS"
+        }
+      ]
+    },
+    {
+      "date": "December 9, 2025",
+      "list": []
+    },
+    {
+      "date": "December 10, 2025",
+      "list": [
+        {
+          "showName": "Abbott Elementary",
+          "episodeName": "Birthday [Fall finale]",
+          "seasonNumber": "5",
+          "episodeNumberInSeason": "8",
+          "airTime": "7:30",
+          "channel": "ABC"
+        }
+      ]
+    },
+    {
+      "date": "December 11, 2025",
+      "list": [
+        {
+          "showName": "Georgie & Mandy's First Marriage",
+          "episodeName": "Bitin', Spankin' and a Load of Yankee Psychobabble",
+          "seasonNumber": "2",
+          "episodeNumberInSeason": "8",
+          "airTime": "7:00",
+          "channel": "CBS] [G"
+        },
+        {
+          "showName": "Matlock",
+          "episodeName": "Call it a Christmas [Fall finale]",
+          "seasonNumber": "2",
+          "episodeNumberInSeason": "8",
+          "airTime": "8:00",
+          "channel": "CBS"
+        },
+        {
+          "showName": "The Great Christmas Light Fight",
+          "episodeName": "Christmas Vacation\" & \"Holiday Igloomination",
+          "seasonNumber": "13",
+          "episodeNumberInSeason": "3 & S13 E4",
+          "airTime": "8:00",
+          "channel": "ABC"
+        }
+      ]
+    },
+    {
+      "date": "December 12, 2025",
+      "list": []
+    },
+    {
+      "date": "December 13, 2025",
+      "list": []
+    },
+    {
+      "date": "December 14, 2025",
+      "list": []
+    },
+    {
+      "date": "December 15, 2025",
+      "list": [
+        {
+          "showName": "St. Denis Medical",
+          "episodeName": "A Waste of Time and Marble",
+          "seasonNumber": "2",
+          "episodeNumberInSeason": "8",
+          "airTime": "7:00",
+          "channel": "NBC"
+        },
+        {
+          "showName": "Watson",
+          "episodeName": "Never Been Crispr'd [Fall finale]",
+          "seasonNumber": "2",
+          "episodeNumberInSeason": "10",
+          "airTime": "9:00",
+          "channel": "CBS"
+        }
+      ]
+    },
+    {
+      "date": "December 16, 2025",
+      "list": []
+    },
+    {
+      "date": "December 17, 2025",
+      "list": []
+    },
+    {
+      "date": "December 18, 2025",
+      "list": [
+        {
+          "showName": "Georgie & Mandy's First Marriage",
+          "episodeName": "Payback and Partial Shebang\" & \"Miami Beach and a Magical Family Christmas [Fall finale]",
+          "seasonNumber": "2",
+          "episodeNumberInSeason": "9 & S2 E10",
+          "airTime": "7:00",
+          "channel": "CBS] [G"
+        },
+        {
+          "showName": "The Great Christmas Light Fight",
+          "episodeName": "You Decked My Battleship\" & \"It's Gonna Be Elftastic [season finale]",
+          "seasonNumber": "13",
+          "episodeNumberInSeason": "5 & S13 E6",
+          "airTime": "8:00",
+          "channel": "ABC"
+        }
+      ]
+    },
+    {
+      "date": "December 19, 2025",
+      "list": []
+    },
+    {
+      "date": "December 20, 2025",
+      "list": []
+    },
+    {
+      "date": "December 21, 2025",
       "list": []
     }
   ]
