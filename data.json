@@ -1,101 +1,6 @@
 {
   "data": [
     {
-      "date": "December 1, 2025",
-      "list": [
-        {
-          "showName": "St. Denis Medical",
-          "episodeName": "I Left a Woman on the Table",
-          "seasonNumber": "2",
-          "episodeNumberInSeason": "6",
-          "airTime": "7:00",
-          "channel": "NBC"
-        },
-        {
-          "showName": "The Neighborhood",
-          "episodeName": "Welcome to Babies and Bathwater [special time]",
-          "seasonNumber": "8",
-          "episodeNumberInSeason": "7",
-          "airTime": "7:30",
-          "channel": "CBS] [G"
-        },
-        {
-          "showName": "Watson",
-          "episodeName": "Livvy Sees the Doctor",
-          "seasonNumber": "2",
-          "episodeNumberInSeason": "8",
-          "airTime": "9:00",
-          "channel": "CBS"
-        },
-        {
-          "showName": "Brilliant Minds",
-          "episodeName": "The Gala [Fall finale]",
-          "seasonNumber": "2",
-          "episodeNumberInSeason": "10",
-          "airTime": "9:00",
-          "channel": "NBC"
-        }
-      ]
-    },
-    {
-      "date": "December 2, 2025",
-      "list": []
-    },
-    {
-      "date": "December 3, 2025",
-      "list": [
-        {
-          "showName": "Abbott Elementary",
-          "episodeName": "Goofgirl",
-          "seasonNumber": "5",
-          "episodeNumberInSeason": "7",
-          "airTime": "7:30",
-          "channel": "ABC"
-        }
-      ]
-    },
-    {
-      "date": "December 4, 2025",
-      "list": [
-        {
-          "showName": "Georgie & Mandy's First Marriage",
-          "episodeName": "A Bus Bench and Faith Out the Wazoo",
-          "seasonNumber": "2",
-          "episodeNumberInSeason": "7",
-          "airTime": "7:00",
-          "channel": "CBS] [G"
-        },
-        {
-          "showName": "Matlock",
-          "episodeName": "Prior Bad Acts",
-          "seasonNumber": "2",
-          "episodeNumberInSeason": "7",
-          "airTime": "8:00",
-          "channel": "CBS"
-        },
-        {
-          "showName": "The Great Christmas Light Fight",
-          "episodeName": "The Holiday Express\" & \"Santa's Making His List",
-          "seasonNumber": "13",
-          "episodeNumberInSeason": "1 & S13 E2",
-          "airTime": "8:00",
-          "channel": "ABC"
-        }
-      ]
-    },
-    {
-      "date": "December 5, 2025",
-      "list": []
-    },
-    {
-      "date": "December 6, 2025",
-      "list": []
-    },
-    {
-      "date": "December 7, 2025",
-      "list": []
-    },
-    {
       "date": "December 8, 2025",
       "list": [
         {
@@ -187,7 +92,7 @@
       "list": [
         {
           "showName": "St. Denis Medical",
-          "episodeName": "A Waste of Time and Marble",
+          "episodeName": "A Waste of Time and Marble [Fall finale]",
           "seasonNumber": "2",
           "episodeNumberInSeason": "8",
           "airTime": "7:00",
@@ -242,6 +147,76 @@
     },
     {
       "date": "December 21, 2025",
+      "list": []
+    },
+    {
+      "date": "December 22, 2025",
+      "list": []
+    },
+    {
+      "date": "December 23, 2025",
+      "list": []
+    },
+    {
+      "date": "December 24, 2025",
+      "list": [
+        {
+          "showName": "All Creatures Great and Small",
+          "episodeName": "Comfort and Joy",
+          "seasonNumber": "6",
+          "episodeNumberInSeason": "7",
+          "airTime": "3:00",
+          "channel": "Channel 5"
+        }
+      ]
+    },
+    {
+      "date": "December 25, 2025",
+      "list": [
+        {
+          "showName": "Call the Midwife",
+          "episodeName": "Holiday Special 2025 [2 hours]",
+          "seasonNumber": "15",
+          "episodeNumberInSeason": "0",
+          "airTime": "7:00",
+          "channel": "PBS] [G"
+        }
+      ]
+    },
+    {
+      "date": "December 26, 2025",
+      "list": []
+    },
+    {
+      "date": "December 27, 2025",
+      "list": []
+    },
+    {
+      "date": "December 28, 2025",
+      "list": []
+    },
+    {
+      "date": "December 29, 2025",
+      "list": []
+    },
+    {
+      "date": "December 30, 2025",
+      "list": []
+    },
+    {
+      "date": "December 31, 2025",
+      "list": []
+    },
+    {
+      "date": "January 1, 2025",
+      "list": []
+    },
+    {
+      "date": "January 2, 2025",
+      "list": []
+    },
+    {
+      "date": "January 3, 2025",
       "list": []
     }
   ]
