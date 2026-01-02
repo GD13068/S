@@ -1,223 +1,84 @@
 {
   "data": [
     {
-      "date": "December 8, 2025",
+      "date": "January 5, 2026",
       "list": [
         {
           "showName": "St. Denis Medical",
-          "episodeName": "No Wonder His Kidney Wants Out",
-          "seasonNumber": "2",
-          "episodeNumberInSeason": "7",
-          "airTime": "7:00",
-          "channel": "NBC"
-        },
-        {
-          "showName": "The Neighborhood",
-          "episodeName": "Welcome to Secrets and Santa [Fall finale; special time]",
-          "seasonNumber": "8",
-          "episodeNumberInSeason": "8",
-          "airTime": "7:30",
-          "channel": "CBS] [G"
-        },
-        {
-          "showName": "Watson",
-          "episodeName": "Shannon Says Bex Loves Micah",
+          "episodeName": "You're In His Bubble Space",
           "seasonNumber": "2",
           "episodeNumberInSeason": "9",
+          "airTime": "7:00",
+          "channel": "NBC"
+        },
+        {
+          "showName": "Brilliant Minds",
+          "episodeName": "TBA",
+          "seasonNumber": "2",
+          "episodeNumberInSeason": "11",
           "airTime": "9:00",
-          "channel": "CBS"
+          "channel": "NBC"
         }
       ]
     },
     {
-      "date": "December 9, 2025",
-      "list": []
-    },
-    {
-      "date": "December 10, 2025",
+      "date": "January 6, 2026",
       "list": [
         {
-          "showName": "Abbott Elementary",
-          "episodeName": "Birthday [Fall finale]",
-          "seasonNumber": "5",
+          "showName": "Will Trent",
+          "episodeName": "... Speaking of Sharks",
+          "seasonNumber": "4",
+          "episodeNumberInSeason": "1",
+          "airTime": "7:00",
+          "channel": "ABC"
+        }
+      ]
+    },
+    {
+      "date": "January 7, 2026",
+      "list": [
+        {
+          "showName": "Chicago Med",
+          "episodeName": "Triple Threat",
+          "seasonNumber": "11",
           "episodeNumberInSeason": "8",
+          "airTime": "7:00",
+          "channel": "NBC] [G"
+        },
+        {
+          "showName": "Abbott Elementary",
+          "episodeName": "Mall",
+          "seasonNumber": "5",
+          "episodeNumberInSeason": "9",
           "airTime": "7:30",
           "channel": "ABC"
         }
       ]
     },
     {
-      "date": "December 11, 2025",
-      "list": [
-        {
-          "showName": "Georgie & Mandy's First Marriage",
-          "episodeName": "Bitin', Spankin' and a Load of Yankee Psychobabble",
-          "seasonNumber": "2",
-          "episodeNumberInSeason": "8",
-          "airTime": "7:00",
-          "channel": "CBS] [G"
-        },
-        {
-          "showName": "Matlock",
-          "episodeName": "Call it a Christmas [Fall finale]",
-          "seasonNumber": "2",
-          "episodeNumberInSeason": "8",
-          "airTime": "8:00",
-          "channel": "CBS"
-        },
-        {
-          "showName": "The Great Christmas Light Fight",
-          "episodeName": "Christmas Vacation\" & \"Holiday Igloomination",
-          "seasonNumber": "13",
-          "episodeNumberInSeason": "3 & S13 E4",
-          "airTime": "8:00",
-          "channel": "ABC"
-        }
-      ]
-    },
-    {
-      "date": "December 12, 2025",
+      "date": "January 8, 2026",
       "list": []
     },
     {
-      "date": "December 13, 2025",
+      "date": "January 9, 2026",
       "list": []
     },
     {
-      "date": "December 14, 2025",
+      "date": "January 10, 2026",
       "list": []
     },
     {
-      "date": "December 15, 2025",
-      "list": [
-        {
-          "showName": "St. Denis Medical",
-          "episodeName": "A Waste of Time and Marble [Fall finale]",
-          "seasonNumber": "2",
-          "episodeNumberInSeason": "8",
-          "airTime": "7:00",
-          "channel": "NBC"
-        },
-        {
-          "showName": "Watson",
-          "episodeName": "Never Been Crispr'd [Fall finale]",
-          "seasonNumber": "2",
-          "episodeNumberInSeason": "10",
-          "airTime": "9:00",
-          "channel": "CBS"
-        }
-      ]
-    },
-    {
-      "date": "December 16, 2025",
-      "list": []
-    },
-    {
-      "date": "December 17, 2025",
-      "list": []
-    },
-    {
-      "date": "December 18, 2025",
-      "list": [
-        {
-          "showName": "Georgie & Mandy's First Marriage",
-          "episodeName": "Payback and Partial Shebang\" & \"Miami Beach and a Magical Family Christmas [Fall finale]",
-          "seasonNumber": "2",
-          "episodeNumberInSeason": "9 & S2 E10",
-          "airTime": "7:00",
-          "channel": "CBS] [G"
-        },
-        {
-          "showName": "The Great Christmas Light Fight",
-          "episodeName": "You Decked My Battleship\" & \"It's Gonna Be Elftastic [season finale]",
-          "seasonNumber": "13",
-          "episodeNumberInSeason": "5 & S13 E6",
-          "airTime": "8:00",
-          "channel": "ABC"
-        }
-      ]
-    },
-    {
-      "date": "December 19, 2025",
-      "list": []
-    },
-    {
-      "date": "December 20, 2025",
-      "list": []
-    },
-    {
-      "date": "December 21, 2025",
-      "list": []
-    },
-    {
-      "date": "December 22, 2025",
-      "list": []
-    },
-    {
-      "date": "December 23, 2025",
-      "list": []
-    },
-    {
-      "date": "December 24, 2025",
-      "list": [
-        {
-          "showName": "All Creatures Great and Small",
-          "episodeName": "Comfort and Joy",
-          "seasonNumber": "6",
-          "episodeNumberInSeason": "7",
-          "airTime": "3:00",
-          "channel": "Channel 5"
-        }
-      ]
-    },
-    {
-      "date": "December 25, 2025",
+      "date": "January 11, 2026",
       "list": [
         {
           "showName": "Call the Midwife",
-          "episodeName": "Holiday Special 2025 [2 hours]",
+          "episodeName": "Episode 1",
           "seasonNumber": "15",
-          "episodeNumberInSeason": "0",
-          "airTime": "7:00",
-          "channel": "PBS] [G"
+          "episodeNumberInSeason": "1",
+          "airTime": "2:00",
+          "channel": "BBC One"
         }
       ]
-    },
-    {
-      "date": "December 26, 2025",
-      "list": []
-    },
-    {
-      "date": "December 27, 2025",
-      "list": []
-    },
-    {
-      "date": "December 28, 2025",
-      "list": []
-    },
-    {
-      "date": "December 29, 2025",
-      "list": []
-    },
-    {
-      "date": "December 30, 2025",
-      "list": []
-    },
-    {
-      "date": "December 31, 2025",
-      "list": []
-    },
-    {
-      "date": "January 1, 2025",
-      "list": []
-    },
-    {
-      "date": "January 2, 2025",
-      "list": []
-    },
-    {
-      "date": "January 3, 2025",
-      "list": []
     }
   ]
 }
