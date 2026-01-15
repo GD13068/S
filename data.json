@@ -1,86 +1,6 @@
 {
   "data": [
     {
-      "date": "January 11, 2026",
-      "list": [
-        {
-          "showName": "Call the Midwife",
-          "episodeName": "Episode 1",
-          "seasonNumber": "15",
-          "episodeNumberInSeason": "1",
-          "airTime": "2:00",
-          "channel": "BBC One"
-        }
-      ]
-    },
-    {
-      "date": "January 12, 2026",
-      "list": [
-        {
-          "showName": "St. Denis Medical",
-          "episodeName": "This is From Joyce",
-          "seasonNumber": "2",
-          "episodeNumberInSeason": "10",
-          "airTime": "7:00",
-          "channel": "NBC"
-        },
-        {
-          "showName": "Brilliant Minds",
-          "episodeName": "The Rider",
-          "seasonNumber": "2",
-          "episodeNumberInSeason": "12",
-          "airTime": "9:00",
-          "channel": "NBC"
-        }
-      ]
-    },
-    {
-      "date": "January 13, 2026",
-      "list": [
-        {
-          "showName": "Will Trent",
-          "episodeName": "Love Takes Time",
-          "seasonNumber": "4",
-          "episodeNumberInSeason": "2",
-          "airTime": "7:00",
-          "channel": "ABC"
-        }
-      ]
-    },
-    {
-      "date": "January 14, 2026",
-      "list": [
-        {
-          "showName": "Chicago Med",
-          "episodeName": "Blindsided",
-          "seasonNumber": "11",
-          "episodeNumberInSeason": "9",
-          "airTime": "7:00",
-          "channel": "NBC] [G"
-        },
-        {
-          "showName": "Abbott Elementary",
-          "episodeName": "Mall Part 2: Questions & Concerns",
-          "seasonNumber": "5",
-          "episodeNumberInSeason": "10",
-          "airTime": "7:30",
-          "channel": "ABC"
-        }
-      ]
-    },
-    {
-      "date": "January 15, 2026",
-      "list": []
-    },
-    {
-      "date": "January 16, 2026",
-      "list": []
-    },
-    {
-      "date": "January 17, 2026",
-      "list": []
-    },
-    {
       "date": "January 18, 2026",
       "list": [
         {
@@ -141,6 +61,86 @@
     },
     {
       "date": "January 24, 2026",
+      "list": []
+    },
+    {
+      "date": "January 25, 2026",
+      "list": [
+        {
+          "showName": "Call the Midwife",
+          "episodeName": "Episode 3",
+          "seasonNumber": "15",
+          "episodeNumberInSeason": "3",
+          "airTime": "2:00",
+          "channel": "BBC One"
+        }
+      ]
+    },
+    {
+      "date": "January 26, 2026",
+      "list": [
+        {
+          "showName": "St. Denis Medical",
+          "episodeName": "This Isn't Bingo",
+          "seasonNumber": "2",
+          "episodeNumberInSeason": "11",
+          "airTime": "7:00",
+          "channel": "NBC"
+        },
+        {
+          "showName": "Brilliant Minds",
+          "episodeName": "The Rabbit Hole",
+          "seasonNumber": "2",
+          "episodeNumberInSeason": "13",
+          "airTime": "9:00",
+          "channel": "NBC"
+        }
+      ]
+    },
+    {
+      "date": "January 27, 2026",
+      "list": [
+        {
+          "showName": "Will Trent",
+          "episodeName": "The Man From Nowhere",
+          "seasonNumber": "4",
+          "episodeNumberInSeason": "4",
+          "airTime": "7:00",
+          "channel": "ABC"
+        }
+      ]
+    },
+    {
+      "date": "January 28, 2026",
+      "list": [
+        {
+          "showName": "Chicago Med",
+          "episodeName": "Our So-called Lives",
+          "seasonNumber": "11",
+          "episodeNumberInSeason": "11",
+          "airTime": "7:00",
+          "channel": "NBC] [G"
+        },
+        {
+          "showName": "Abbott Elementary",
+          "episodeName": "Picture Day",
+          "seasonNumber": "5",
+          "episodeNumberInSeason": "12",
+          "airTime": "7:30",
+          "channel": "ABC"
+        }
+      ]
+    },
+    {
+      "date": "January 29, 2026",
+      "list": []
+    },
+    {
+      "date": "January 30, 2026",
+      "list": []
+    },
+    {
+      "date": "January 31, 2026",
       "list": []
     }
   ]
