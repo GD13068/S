@@ -1,116 +1,6 @@
 {
   "data": [
     {
-      "date": "January 18, 2026",
-      "list": [
-        {
-          "showName": "Call the Midwife",
-          "episodeName": "Episode 2",
-          "seasonNumber": "15",
-          "episodeNumberInSeason": "2",
-          "airTime": "2:00",
-          "channel": "BBC One"
-        }
-      ]
-    },
-    {
-      "date": "January 19, 2026",
-      "list": []
-    },
-    {
-      "date": "January 20, 2026",
-      "list": [
-        {
-          "showName": "Will Trent",
-          "episodeName": "Studio 4B",
-          "seasonNumber": "4",
-          "episodeNumberInSeason": "3",
-          "airTime": "7:00",
-          "channel": "ABC"
-        }
-      ]
-    },
-    {
-      "date": "January 21, 2026",
-      "list": [
-        {
-          "showName": "Chicago Med",
-          "episodeName": "Frost on Fire",
-          "seasonNumber": "11",
-          "episodeNumberInSeason": "10",
-          "airTime": "7:00",
-          "channel": "NBC] [G"
-        },
-        {
-          "showName": "Abbott Elementary",
-          "episodeName": "Mall Part 3: Heroes",
-          "seasonNumber": "5",
-          "episodeNumberInSeason": "11",
-          "airTime": "7:30",
-          "channel": "ABC"
-        }
-      ]
-    },
-    {
-      "date": "January 22, 2026",
-      "list": []
-    },
-    {
-      "date": "January 23, 2026",
-      "list": []
-    },
-    {
-      "date": "January 24, 2026",
-      "list": []
-    },
-    {
-      "date": "January 25, 2026",
-      "list": [
-        {
-          "showName": "Call the Midwife",
-          "episodeName": "Episode 3",
-          "seasonNumber": "15",
-          "episodeNumberInSeason": "3",
-          "airTime": "2:00",
-          "channel": "BBC One"
-        }
-      ]
-    },
-    {
-      "date": "January 26, 2026",
-      "list": [
-        {
-          "showName": "St. Denis Medical",
-          "episodeName": "This Isn't Bingo",
-          "seasonNumber": "2",
-          "episodeNumberInSeason": "11",
-          "airTime": "7:00",
-          "channel": "NBC"
-        },
-        {
-          "showName": "Brilliant Minds",
-          "episodeName": "The Rabbit Hole",
-          "seasonNumber": "2",
-          "episodeNumberInSeason": "13",
-          "airTime": "9:00",
-          "channel": "NBC"
-        }
-      ]
-    },
-    {
-      "date": "January 27, 2026",
-      "list": [
-        {
-          "showName": "Will Trent",
-          "episodeName": "The Man From Nowhere",
-          "seasonNumber": "4",
-          "episodeNumberInSeason": "4",
-          "airTime": "7:00",
-          "channel": "ABC"
-        }
-      ]
-    },
-    {
       "date": "January 28, 2026",
       "list": [
         {
@@ -141,6 +31,103 @@
     },
     {
       "date": "January 31, 2026",
+      "list": []
+    },
+    {
+      "date": "February 1, 2026",
+      "list": [
+        {
+          "showName": "Call the Midwife",
+          "episodeName": "Episode 4",
+          "seasonNumber": "15",
+          "episodeNumberInSeason": "4",
+          "airTime": "2:00",
+          "channel": "BBC One"
+        }
+      ]
+    }
+    {
+      "date": "February 2, 2026",
+      "list": [
+        {
+          "showName": "St. Denis Medical",
+          "episodeName": "Nod and Agree",
+          "seasonNumber": "2",
+          "episodeNumberInSeason": "12",
+          "airTime": "7:00",
+          "channel": "NBC"
+        },
+        {
+          "showName": "Brilliant Minds",
+          "episodeName": "The Invisible Man",
+          "seasonNumber": "2",
+          "episodeNumberInSeason": "14",
+          "airTime": "9:00",
+          "channel": "NBC"
+        }
+      ]
+    },
+    {
+      "date": "February 3, 2026",
+      "list": [
+        {
+          "showName": "Will Trent",
+          "episodeName": "Nice to Meet You, Malcolm",
+          "seasonNumber": "4",
+          "episodeNumberInSeason": "5",
+          "airTime": "7:00",
+          "channel": "ABC"
+        }
+      ]
+    },
+    {
+      "date": "February 4, 2026",
+      "list": [
+        {
+          "showName": "Chicago Med",
+          "episodeName": "Spill Your Guts",
+          "seasonNumber": "11",
+          "episodeNumberInSeason": "12",
+          "airTime": "7:00",
+          "channel": "NBC] [G"
+        },
+        {
+          "showName": "Abbott Elementary",
+          "episodeName": "Candygrams",
+          "seasonNumber": "5",
+          "episodeNumberInSeason": "13",
+          "airTime": "7:30",
+          "channel": "ABC"
+        }
+      ]
+    },
+    {
+      "date": "February 5, 2026",
+      "list": []
+    },
+    {
+      "date": "February 6, 2026",
+      "list": []
+    },
+    {
+      "date": "February 7, 2026",
+      "list": []
+    },
+    {
+      "date": "February 8, 2026",
+      "list": [
+        {
+          "showName": "Call the Midwife",
+          "episodeName": "Episode 5",
+          "seasonNumber": "15",
+          "episodeNumberInSeason": "5",
+          "airTime": "2:00",
+          "channel": "BBC One"
+        }
+      ]
+    },
+    {
+      "date": "February 9, 2026",
       "list": []
     }
   ]
