@@ -1,86 +1,6 @@
 {
   "data": [
     {
-      "date": "January 28, 2026",
-      "list": [
-        {
-          "showName": "Chicago Med",
-          "episodeName": "Our So-called Lives",
-          "seasonNumber": "11",
-          "episodeNumberInSeason": "11",
-          "airTime": "7:00",
-          "channel": "NBC] [G"
-        },
-        {
-          "showName": "Abbott Elementary",
-          "episodeName": "Picture Day",
-          "seasonNumber": "5",
-          "episodeNumberInSeason": "12",
-          "airTime": "7:30",
-          "channel": "ABC"
-        }
-      ]
-    },
-    {
-      "date": "January 29, 2026",
-      "list": []
-    },
-    {
-      "date": "January 30, 2026",
-      "list": []
-    },
-    {
-      "date": "January 31, 2026",
-      "list": []
-    },
-    {
-      "date": "February 1, 2026",
-      "list": [
-        {
-          "showName": "Call the Midwife",
-          "episodeName": "Episode 4",
-          "seasonNumber": "15",
-          "episodeNumberInSeason": "4",
-          "airTime": "2:00",
-          "channel": "BBC One"
-        }
-      ]
-    },
-    {
-      "date": "February 2, 2026",
-      "list": [
-        {
-          "showName": "St. Denis Medical",
-          "episodeName": "Nod and Agree",
-          "seasonNumber": "2",
-          "episodeNumberInSeason": "12",
-          "airTime": "7:00",
-          "channel": "NBC"
-        },
-        {
-          "showName": "Brilliant Minds",
-          "episodeName": "The Invisible Man",
-          "seasonNumber": "2",
-          "episodeNumberInSeason": "14",
-          "airTime": "9:00",
-          "channel": "NBC"
-        }
-      ]
-    },
-    {
-      "date": "February 3, 2026",
-      "list": [
-        {
-          "showName": "Will Trent",
-          "episodeName": "Nice to Meet You, Malcolm",
-          "seasonNumber": "4",
-          "episodeNumberInSeason": "5",
-          "airTime": "7:00",
-          "channel": "ABC"
-        }
-      ]
-    },
-    {
       "date": "February 4, 2026",
       "list": [
         {
@@ -128,6 +48,81 @@
     },
     {
       "date": "February 9, 2026",
+      "list": []
+    },
+    {
+      "date": "February 10, 2026",
+      "list": [
+        {
+          "showName": "Will Trent",
+          "episodeName": "You're Not That Person Anymore",
+          "seasonNumber": "4",
+          "episodeNumberInSeason": "6",
+          "airTime": "7:00",
+          "channel": "ABC"
+        }
+      ]
+    },
+    {
+      "date": "February 11, 2026",
+      "list": []
+    },
+    {
+      "date": "February 12, 2026",
+      "list": []
+    },
+    {
+      "date": "February 13, 2026",
+      "list": []
+    },
+    {
+      "date": "February 14, 2026",
+      "list": []
+    },
+    {
+      "date": "February 15, 2026",
+      "list": [
+        {
+          "showName": "Call the Midwife",
+          "episodeName": "Episode 6",
+          "seasonNumber": "15",
+          "episodeNumberInSeason": "6",
+          "airTime": "2:00",
+          "channel": "BBC One"
+        }
+      ]
+    },
+    {
+      "date": "February 16, 2026",
+      "list": []
+    },
+    {
+      "date": "February 17, 2026",
+      "list": [
+        {
+          "showName": "Will Trent",
+          "episodeName": "Call Paul",
+          "seasonNumber": "4",
+          "episodeNumberInSeason": "7",
+          "airTime": "7:00",
+          "channel": "ABC"
+        }
+      ]
+    },
+    {
+      "date": "February 18, 2026",
+      "list": []
+    },
+    {
+      "date": "February 19, 2026",
+      "list": []
+    },
+    {
+      "date": "February 20, 2026",
+      "list": []
+    },
+    {
+      "date": "February 21, 2026",
       "list": []
     }
   ]
