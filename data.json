@@ -1,119 +1,6 @@
 {
   "data": [
     {
-      "date": "February 4, 2026",
-      "list": [
-        {
-          "showName": "Chicago Med",
-          "episodeName": "Spill Your Guts",
-          "seasonNumber": "11",
-          "episodeNumberInSeason": "12",
-          "airTime": "7:00",
-          "channel": "NBC] [G"
-        },
-        {
-          "showName": "Abbott Elementary",
-          "episodeName": "Candygrams",
-          "seasonNumber": "5",
-          "episodeNumberInSeason": "13",
-          "airTime": "7:30",
-          "channel": "ABC"
-        }
-      ]
-    },
-    {
-      "date": "February 5, 2026",
-      "list": []
-    },
-    {
-      "date": "February 6, 2026",
-      "list": []
-    },
-    {
-      "date": "February 7, 2026",
-      "list": []
-    },
-    {
-      "date": "February 8, 2026",
-      "list": [
-        {
-          "showName": "Call the Midwife",
-          "episodeName": "Episode 5",
-          "seasonNumber": "15",
-          "episodeNumberInSeason": "5",
-          "airTime": "2:00",
-          "channel": "BBC One"
-        }
-      ]
-    },
-    {
-      "date": "February 9, 2026",
-      "list": []
-    },
-    {
-      "date": "February 10, 2026",
-      "list": [
-        {
-          "showName": "Will Trent",
-          "episodeName": "You're Not That Person Anymore",
-          "seasonNumber": "4",
-          "episodeNumberInSeason": "6",
-          "airTime": "7:00",
-          "channel": "ABC"
-        }
-      ]
-    },
-    {
-      "date": "February 11, 2026",
-      "list": []
-    },
-    {
-      "date": "February 12, 2026",
-      "list": []
-    },
-    {
-      "date": "February 13, 2026",
-      "list": []
-    },
-    {
-      "date": "February 14, 2026",
-      "list": []
-    },
-    {
-      "date": "February 15, 2026",
-      "list": [
-        {
-          "showName": "Call the Midwife",
-          "episodeName": "Episode 6",
-          "seasonNumber": "15",
-          "episodeNumberInSeason": "6",
-          "airTime": "2:00",
-          "channel": "BBC One"
-        }
-      ]
-    },
-    {
-      "date": "February 16, 2026",
-      "list": []
-    },
-    {
-      "date": "February 17, 2026",
-      "list": [
-        {
-          "showName": "Will Trent",
-          "episodeName": "Call Paul",
-          "seasonNumber": "4",
-          "episodeNumberInSeason": "7",
-          "airTime": "7:00",
-          "channel": "ABC"
-        }
-      ]
-    },
-    {
-      "date": "February 18, 2026",
-      "list": []
-    },
-    {
       "date": "February 19, 2026",
       "list": []
     },
@@ -123,6 +10,191 @@
     },
     {
       "date": "February 21, 2026",
+      "list": []
+    },
+    {
+      "date": "February 22, 2026",
+      "list": []
+    },
+    {
+      "date": "February 23, 2026",
+      "list": [
+        {
+          "showName": "The Neighborhood",
+          "episodeName": "Welcome to the Zhuzh",
+          "seasonNumber": "8",
+          "episodeNumberInSeason": "9",
+          "airTime": "7:00",
+          "channel": "CBS] [G"
+        }
+      ]
+    },
+    {
+      "date": "February 24, 2026",
+      "list": [
+        {
+          "showName": "Will Trent",
+          "episodeName": "We're Looking For a Vampire",
+          "seasonNumber": "4",
+          "episodeNumberInSeason": "8",
+          "airTime": "7:00",
+          "channel": "ABC"
+        }
+      ]
+    },
+    {
+      "date": "February 25, 2026",
+      "list": [
+        {
+          "showName": "Scrubs",
+          "episodeName": "My Return\" & \"My 2nd First Day",
+          "seasonNumber": "10",
+          "episodeNumberInSeason": "1 & S10 E2",
+          "airTime": "7:00",
+          "channel": "ABC"
+        }
+      ]
+    },
+    {
+      "date": "February 26, 2026",
+      "list": [
+        {
+          "showName": "Georgie & Mandy's First Marriage",
+          "episodeName": "A New Hobby, a Pervert and a Part-time Job",
+          "seasonNumber": "2",
+          "episodeNumberInSeason": "11",
+          "airTime": "7:00",
+          "channel": "CBS] [G"
+        },
+        {
+          "showName": "Matlock",
+          "episodeName": "Collateral",
+          "seasonNumber": "2",
+          "episodeNumberInSeason": "9",
+          "airTime": "8:00",
+          "channel": "CBS"
+        }
+      ]
+    },
+    {
+      "date": "February 27, 2026",
+      "list": []
+    },
+    {
+      "date": "February 28, 2026",
+      "list": []
+    },
+    {
+      "date": "March 1, 2026",
+      "list": [
+        {
+          "showName": "Call the Midwife",
+          "episodeName": "Episode 7",
+          "seasonNumber": "15",
+          "episodeNumberInSeason": "7",
+          "airTime": "2:00",
+          "channel": "BBC One"
+        },
+        {
+          "showName": "Watson",
+          "episodeName": "The Tunnel Under the Elms",
+          "seasonNumber": "2",
+          "episodeNumberInSeason": "11",
+          "airTime": "9:00",
+          "channel": "CBS"
+        }
+      ]
+    },
+    {
+      "date": "March 2, 2026",
+      "list": [
+        {
+          "showName": "The Neighborhood",
+          "episodeName": "Welcome to the Hoodwink",
+          "seasonNumber": "8",
+          "episodeNumberInSeason": "10",
+          "airTime": "7:00",
+          "channel": "CBS] [G"
+        },
+        {
+          "showName": "St. Denis Medical",
+          "episodeName": "A New Best Friend",
+          "seasonNumber": "2",
+          "episodeNumberInSeason": "13",
+          "airTime": "7:00",
+          "channel": "NBC"
+        }
+      ]
+    },
+    {
+      "date": "March 3, 2026",
+      "list": [
+        {
+          "showName": "Will Trent",
+          "episodeName": "It Was a Meat Cute",
+          "seasonNumber": "4",
+          "episodeNumberInSeason": "9",
+          "airTime": "7:00",
+          "channel": "ABC"
+        }
+      ]
+    },
+    {
+      "date": "March 4, 2026",
+      "list": [
+        {
+          "showName": "Scrubs",
+          "episodeName": "My Rom-com",
+          "seasonNumber": "10",
+          "episodeNumberInSeason": "3",
+          "airTime": "7:00",
+          "channel": "ABC"
+        },
+        {
+          "showName": "Abbott Elementary",
+          "episodeName": "Aide",
+          "seasonNumber": "5",
+          "episodeNumberInSeason": "14",
+          "airTime": "7:00",
+          "channel": "ABC"
+        },
+        {
+          "showName": "Chicago Med",
+          "episodeName": "Reckoning, Part II [crossover event]",
+          "seasonNumber": "11",
+          "episodeNumberInSeason": "13",
+          "airTime": "8:00",
+          "channel": "NBC] [G"
+        }
+      ]
+    },
+    {
+      "date": "March 5, 2026",
+      "list": [
+        {
+          "showName": "Georgie & Mandy's First Marriage",
+          "episodeName": "The G Word and a Blaspheming Bimbo",
+          "seasonNumber": "2",
+          "episodeNumberInSeason": "12",
+          "airTime": "7:00",
+          "channel": "CBS] [G"
+        },
+        {
+          "showName": "Matlock",
+          "episodeName": "The Greater Good",
+          "seasonNumber": "2",
+          "episodeNumberInSeason": "10",
+          "airTime": "8:00",
+          "channel": "CBS"
+        }
+      ]
+    },
+    {
+      "date": "March 6, 2026",
+      "list": []
+    },
+    {
+      "date": "March 7, 2026",
       "list": []
     }
   ]
