@@ -1,127 +1,6 @@
 {
   "data": [
     {
-      "date": "March 8, 2026",
-      "list": [
-        {
-          "showName": "Call the Midwife",
-          "episodeName": "Episode 8",
-          "seasonNumber": "15",
-          "episodeNumberInSeason": "8",
-          "airTime": "1:00",
-          "channel": "BBC One"
-        },
-        {
-          "showName": "Watson",
-          "episodeName": "A Family Meal",
-          "seasonNumber": "2",
-          "episodeNumberInSeason": "12",
-          "airTime": "9:00",
-          "channel": "CBS"
-        }
-      ]
-    },
-    {
-      "date": "March 9, 2026",
-      "list": [
-        {
-          "showName": "The Neighborhood",
-          "episodeName": "Welcome to the Baby Proofing",
-          "seasonNumber": "8",
-          "episodeNumberInSeason": "11",
-          "airTime": "7:00",
-          "channel": "CBS] [G"
-        },
-        {
-          "showName": "St. Denis Medical",
-          "episodeName": "Happy Birthday, Matty",
-          "seasonNumber": "2",
-          "episodeNumberInSeason": "14",
-          "airTime": "7:00",
-          "channel": "NBC"
-        },
-        {
-          "showName": "DMV",
-          "episodeName": "The Fourth Wheel",
-          "seasonNumber": "1",
-          "episodeNumberInSeason": "12",
-          "airTime": "7:30",
-          "channel": "CBS"
-        }
-      ]
-    },
-    {
-      "date": "March 10, 2026",
-      "list": [
-        {
-          "showName": "Will Trent",
-          "episodeName": "You're Only As Sick As Your Secrets",
-          "seasonNumber": "4",
-          "episodeNumberInSeason": "10",
-          "airTime": "7:00",
-          "channel": "ABC"
-        }
-      ]
-    },
-    {
-      "date": "March 11, 2026",
-      "list": [
-        {
-          "showName": "Chicago Med",
-          "episodeName": "Twist & Shout",
-          "seasonNumber": "11",
-          "episodeNumberInSeason": "14",
-          "airTime": "7:00",
-          "channel": "NBC] [G"
-        },
-        {
-          "showName": "Scrubs",
-          "episodeName": "My Poker Face",
-          "seasonNumber": "10",
-          "episodeNumberInSeason": "4",
-          "airTime": "7:00",
-          "channel": "ABC"
-        },
-        {
-          "showName": "Abbott Elementary",
-          "episodeName": "Safety Day",
-          "seasonNumber": "5",
-          "episodeNumberInSeason": "15",
-          "airTime": "7:32",
-          "channel": "ABC"
-        }
-      ]
-    },
-    {
-      "date": "March 12, 2026",
-      "list": [
-        {
-          "showName": "Georgie & Mandy's First Marriage",
-          "episodeName": "A Big Birthday and Tequila Shots",
-          "seasonNumber": "2",
-          "episodeNumberInSeason": "13",
-          "airTime": "7:00",
-          "channel": "CBS"
-        },
-        {
-          "showName": "Matlock",
-          "episodeName": "Tail Lights",
-          "seasonNumber": "2",
-          "episodeNumberInSeason": "11",
-          "airTime": "8:00",
-          "channel": "CBS"
-        }
-      ]
-    },
-    {
-      "date": "March 13, 2026",
-      "list": []
-    },
-    {
-      "date": "March 14, 2026",
-      "list": []
-    },
-    {
       "date": "March 15, 2026",
       "list": [
         {
@@ -269,6 +148,165 @@
           "episodeNumberInSeason": "12",
           "airTime": "7:00",
           "channel": "ABC"
+        }
+      ]
+    },
+    {
+      "date": "March 25, 2026",
+      "list": [
+        {
+          "showName": "Scrubs",
+          "episodeName": "My V.I.P.",
+          "seasonNumber": "10",
+          "episodeNumberInSeason": "6",
+          "airTime": "7:00",
+          "channel": "ABC"
+        },
+        {
+          "showName": "Abbott Elementary",
+          "episodeName": "No Homework",
+          "seasonNumber": "5",
+          "episodeNumberInSeason": "17",
+          "airTime": "7:32",
+          "channel": "ABC"
+        }
+      ]
+    },
+    {
+      "date": "March 26, 2026",
+      "list": []
+    },
+    {
+      "date": "March 27, 2026",
+      "list": []
+    },
+    {
+      "date": "March 28, 2026",
+      "list": []
+    },
+    {
+      "date": "March 29, 2026",
+      "list": [
+        {
+          "showName": "Watson",
+          "episodeName": "A Third Act Surprise",
+          "seasonNumber": "2",
+          "episodeNumberInSeason": "15",
+          "airTime": "9:00",
+          "channel": "CBS"
+        }
+      ]
+    },
+    {
+      "date": "March 30, 2026",
+      "list": [
+        {
+          "showName": "The Neighborhood",
+          "episodeName": "Welcome to the Things We Do For Love",
+          "seasonNumber": "8",
+          "episodeNumberInSeason": "14",
+          "airTime": "7:00",
+          "channel": "CBS] [G"
+        },
+        {
+          "showName": "St. Denis Medical",
+          "episodeName": "Here a Righteous Woman Comes",
+          "seasonNumber": "2",
+          "episodeNumberInSeason": "17",
+          "airTime": "7:00",
+          "channel": "NBC"
+        },
+        {
+          "showName": "DMV",
+          "episodeName": "Gilbert",
+          "seasonNumber": "1",
+          "episodeNumberInSeason": "15",
+          "airTime": "7:30",
+          "channel": "CBS"
+        }
+      ]
+    },
+    {
+      "date": "March 31, 2026",
+      "list": [
+        {
+          "showName": "Will Trent",
+          "episodeName": "Did I Screw This Up?",
+          "seasonNumber": "4",
+          "episodeNumberInSeason": "13",
+          "airTime": "7:00",
+          "channel": "ABC"
+        }
+      ]
+    },
+    {
+      "date": "April 1, 2026",
+      "list": [
+        {
+          "showName": "Chicago Med",
+          "episodeName": "The Book of Charles",
+          "seasonNumber": "11",
+          "episodeNumberInSeason": "16",
+          "airTime": "7:00",
+          "channel": "NBC] [G"
+        },
+        {
+          "showName": "Scrubs",
+          "episodeName": "My Best Friend's Barbeque",
+          "seasonNumber": "10",
+          "episodeNumberInSeason": "7",
+          "airTime": "7:00",
+          "channel": "ABC"
+        },
+        {
+          "showName": "Abbott Elementary",
+          "episodeName": "April Fools",
+          "seasonNumber": "5",
+          "episodeNumberInSeason": "18",
+          "airTime": "7:32",
+          "channel": "ABC"
+        }
+      ]
+    },
+    {
+      "date": "April 2, 2026",
+      "list": [
+        {
+          "showName": "Georgie & Mandy's First Marriage",
+          "episodeName": "Three Angry Women and a Prophylactic",
+          "seasonNumber": "2",
+          "episodeNumberInSeason": "14",
+          "airTime": "7:00",
+          "channel": "CBS"
+        },
+        {
+          "showName": "Matlock",
+          "episodeName": "The Cavalry Isn't Coming",
+          "seasonNumber": "2",
+          "episodeNumberInSeason": "12",
+          "airTime": "8:00",
+          "channel": "CBS"
+        }
+      ]
+    },
+    {
+      "date": "April 3, 2026",
+      "list": []
+    },
+    {
+      "date": "April 4, 2026",
+      "list": []
+    },
+    {
+      "date": "April 5, 2026",
+      "list": [
+        {
+          "showName": "Watson",
+          "episodeName": "Respect the Process. Respect the Quirks",
+          "seasonNumber": "2",
+          "episodeNumberInSeason": "16",
+          "airTime": "9:00",
+          "channel": "CBS"
         }
       ]
     }
