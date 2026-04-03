@@ -1,203 +1,6 @@
 {
   "data": [
     {
-      "date": "March 15, 2026",
-      "list": [
-        {
-          "showName": "Watson",
-          "episodeName": "For a Limited Time Only",
-          "seasonNumber": "2",
-          "episodeNumberInSeason": "13",
-          "airTime": "9:00",
-          "channel": "CBS"
-        }
-      ]
-    },
-    {
-      "date": "March 16, 2026",
-      "list": [
-        {
-          "showName": "The Neighborhood",
-          "episodeName": "Welcome to Murder At Sea",
-          "seasonNumber": "8",
-          "episodeNumberInSeason": "12",
-          "airTime": "7:00",
-          "channel": "CBS] [G"
-        },
-        {
-          "showName": "St. Denis Medical",
-          "episodeName": "Everyone Loves Portland General",
-          "seasonNumber": "2",
-          "episodeNumberInSeason": "15",
-          "airTime": "7:00",
-          "channel": "NBC"
-        },
-        {
-          "showName": "DMV",
-          "episodeName": "Test Drive",
-          "seasonNumber": "1",
-          "episodeNumberInSeason": "13",
-          "airTime": "7:30",
-          "channel": "CBS"
-        }
-      ]
-    },
-    {
-      "date": "March 17, 2026",
-      "list": [
-        {
-          "showName": "Will Trent",
-          "episodeName": "He Lives!",
-          "seasonNumber": "4",
-          "episodeNumberInSeason": "11",
-          "airTime": "7:00",
-          "channel": "ABC"
-        }
-      ]
-    },
-    {
-      "date": "March 18, 2026",
-      "list": [
-        {
-          "showName": "Chicago Med",
-          "episodeName": "The Cost of Living",
-          "seasonNumber": "11",
-          "episodeNumberInSeason": "15",
-          "airTime": "7:00",
-          "channel": "NBC] [G"
-        },
-        {
-          "showName": "Scrubs",
-          "episodeName": "My Angel",
-          "seasonNumber": "10",
-          "episodeNumberInSeason": "5",
-          "airTime": "7:00",
-          "channel": "ABC"
-        },
-        {
-          "showName": "Abbott Elementary",
-          "episodeName": "Campaign",
-          "seasonNumber": "5",
-          "episodeNumberInSeason": "16",
-          "airTime": "7:32",
-          "channel": "ABC"
-        }
-      ]
-    },
-    {
-      "date": "March 19, 2026",
-      "list": []
-    },
-    {
-      "date": "March 20, 2026",
-      "list": []
-    },
-    {
-      "date": "March 21, 2026",
-      "list": []
-    },
-    {
-      "date": "March 22, 2026",
-      "list": [
-        {
-          "showName": "Watson",
-          "episodeName": "Wrongful Life",
-          "seasonNumber": "2",
-          "episodeNumberInSeason": "14",
-          "airTime": "9:00",
-          "channel": "CBS"
-        }
-      ]
-    },
-    {
-      "date": "March 23, 2026",
-      "list": [
-        {
-          "showName": "The Neighborhood",
-          "episodeName": "Welcome to the Two-Ring Circus",
-          "seasonNumber": "8",
-          "episodeNumberInSeason": "13",
-          "airTime": "7:00",
-          "channel": "CBS] [G"
-        },
-        {
-          "showName": "St. Denis Medical",
-          "episodeName": "Experience With Human Babies",
-          "seasonNumber": "2",
-          "episodeNumberInSeason": "16",
-          "airTime": "7:00",
-          "channel": "NBC"
-        },
-        {
-          "showName": "DMV",
-          "episodeName": "Payday",
-          "seasonNumber": "1",
-          "episodeNumberInSeason": "14",
-          "airTime": "7:30",
-          "channel": "CBS"
-        }
-      ]
-    },
-    {
-      "date": "March 24, 2026",
-      "list": [
-        {
-          "showName": "Will Trent",
-          "episodeName": "I Hear It Now, I Was Good",
-          "seasonNumber": "4",
-          "episodeNumberInSeason": "12",
-          "airTime": "7:00",
-          "channel": "ABC"
-        }
-      ]
-    },
-    {
-      "date": "March 25, 2026",
-      "list": [
-        {
-          "showName": "Scrubs",
-          "episodeName": "My V.I.P.",
-          "seasonNumber": "10",
-          "episodeNumberInSeason": "6",
-          "airTime": "7:00",
-          "channel": "ABC"
-        },
-        {
-          "showName": "Abbott Elementary",
-          "episodeName": "No Homework",
-          "seasonNumber": "5",
-          "episodeNumberInSeason": "17",
-          "airTime": "7:32",
-          "channel": "ABC"
-        }
-      ]
-    },
-    {
-      "date": "March 26, 2026",
-      "list": []
-    },
-    {
-      "date": "March 27, 2026",
-      "list": []
-    },
-    {
-      "date": "March 28, 2026",
-      "list": []
-    },
-    {
-      "date": "March 29, 2026",
-      "list": [
-        {
-          "showName": "Watson",
-          "episodeName": "A Third Act Surprise",
-          "seasonNumber": "2",
-          "episodeNumberInSeason": "15",
-          "airTime": "9:00",
-          "channel": "CBS"
-        }
-      ]
-    },
-    {
       "date": "March 30, 2026",
       "list": [
         {
@@ -309,6 +112,595 @@
           "channel": "CBS"
         }
       ]
+    },
+    {
+      "date": "April 6, 2026",
+      "list": [
+        {
+          "showName": "The Neighborhood",
+          "episodeName": "Welcome to Gemma Johnson's Day Off [followed by a retrospective special]",
+          "seasonNumber": "8",
+          "episodeNumberInSeason": "15",
+          "airTime": "7:00",
+          "channel": "CBS] [G"
+        },
+        {
+          "showName": "St. Denis Medical",
+          "episodeName": "We Make Time [season finale]",
+          "seasonNumber": "2",
+          "episodeNumberInSeason": "18",
+          "airTime": "7:00",
+          "channel": "NBC"
+        }
+      ]
+    },
+    {
+      "date": "April 7, 2026",
+      "list": [
+        {
+          "showName": "Will Trent",
+          "episodeName": "A Flag in the Mud",
+          "seasonNumber": "4",
+          "episodeNumberInSeason": "14",
+          "airTime": "7:00",
+          "channel": "ABC"
+        }
+      ]
+    },
+    {
+      "date": "April 8, 2026",
+      "list": [
+        {
+          "showName": "Chicago Med",
+          "episodeName": "Altered States",
+          "seasonNumber": "11",
+          "episodeNumberInSeason": "17",
+          "airTime": "7:00",
+          "channel": "NBC] [G"
+        },
+        {
+          "showName": "Scrubs",
+          "episodeName": "My Odds",
+          "seasonNumber": "10",
+          "episodeNumberInSeason": "8",
+          "airTime": "7:00",
+          "channel": "ABC"
+        },
+        {
+          "showName": "Abbott Elementary",
+          "episodeName": "Trip",
+          "seasonNumber": "5",
+          "episodeNumberInSeason": "19",
+          "airTime": "7:32",
+          "channel": "ABC"
+        }
+      ]
+    },
+    {
+      "date": "April 9, 2026",
+      "list": [
+        {
+          "showName": "Georgie & Mandy's First Marriage",
+          "episodeName": "A Stuffed Monkey and an Ex-girlfriend",
+          "seasonNumber": "2",
+          "episodeNumberInSeason": "15",
+          "airTime": "7:00",
+          "channel": "CBS"
+        },
+        {
+          "showName": "Matlock",
+          "episodeName": "The Future is Nigh",
+          "seasonNumber": "2",
+          "episodeNumberInSeason": "13",
+          "airTime": "8:00",
+          "channel": "CBS"
+        }
+      ]
+    },
+    {
+      "date": "April 10, 2026",
+      "list": []
+    },
+    {
+      "date": "April 11, 2026",
+      "list": []
+    },
+    {
+      "date": "April 12, 2026",
+      "list": [
+        {
+          "showName": "Watson",
+          "episodeName": "Unsolved Mysteries",
+          "seasonNumber": "2",
+          "episodeNumberInSeason": "17",
+          "airTime": "9:00",
+          "channel": "CBS"
+        }
+      ]
+    },
+    {
+      "date": "April 13, 2026",
+      "list": [
+        {
+          "showName": "The Neighborhood",
+          "episodeName": "Welcome to the Breaking Point",
+          "seasonNumber": "8",
+          "episodeNumberInSeason": "16",
+          "airTime": "7:00",
+          "channel": "CBS] [G"
+        },
+        {
+          "showName": "DMV",
+          "episodeName": "Fresh Ink",
+          "seasonNumber": "1",
+          "episodeNumberInSeason": "16",
+          "airTime": "7:30",
+          "channel": "CBS"
+        }
+      ]
+    },
+    {
+      "date": "April 14, 2026",
+      "list": [
+        {
+          "showName": "Will Trent",
+          "episodeName": "The Blank Expense of Nothing",
+          "seasonNumber": "4",
+          "episodeNumberInSeason": "15",
+          "airTime": "7:00",
+          "channel": "ABC"
+        }
+      ]
+    },
+    {
+      "date": "April 15, 2026",
+      "list": [
+        {
+          "showName": "Scrubs",
+          "episodeName": "My Celebration (fka My Slow Day) [season finale]",
+          "seasonNumber": "10",
+          "episodeNumberInSeason": "9",
+          "airTime": "7:00",
+          "channel": "ABC"
+        },
+        {
+          "showName": "Abbott Elementary",
+          "episodeName": "Night Out",
+          "seasonNumber": "5",
+          "episodeNumberInSeason": "20",
+          "airTime": "7:32",
+          "channel": "ABC"
+        }
+      ]
+    },
+    {
+      "date": "April 16, 2026",
+      "list": [
+        {
+          "showName": "Georgie & Mandy's First Marriage",
+          "episodeName": "Alpha Males and the Power of Prayer",
+          "seasonNumber": "2",
+          "episodeNumberInSeason": "16",
+          "airTime": "7:00",
+          "channel": "CBS"
+        },
+        {
+          "showName": "Matlock",
+          "episodeName": "Day One",
+          "seasonNumber": "2",
+          "episodeNumberInSeason": "14",
+          "airTime": "8:00",
+          "channel": "CBS"
+        }
+      ]
+    },
+    {
+      "date": "April 17, 2026",
+      "list": []
+    },
+    {
+      "date": "April 18, 2026",
+      "list": []
+    },
+    {
+      "date": "April 19, 2026",
+      "list": [
+        {
+          "showName": "Watson",
+          "episodeName": "Sic Semper Tyrannis",
+          "seasonNumber": "2",
+          "episodeNumberInSeason": "18",
+          "airTime": "9:00",
+          "channel": "CBS"
+        }
+      ]
+    },
+    {
+      "date": "April 20, 2026",
+      "list": [
+        {
+          "showName": "The Neighborhood",
+          "episodeName": "Welcome to the Purse Dog",
+          "seasonNumber": "8",
+          "episodeNumberInSeason": "17",
+          "airTime": "7:00",
+          "channel": "CBS] [G"
+        },
+        {
+          "showName": "DMV",
+          "episodeName": "Drive-ory Tower",
+          "seasonNumber": "1",
+          "episodeNumberInSeason": "17",
+          "airTime": "7:30",
+          "channel": "CBS"
+        }
+      ]
+    },
+    {
+      "date": "April 21, 2026",
+      "list": [
+        {
+          "showName": "Will Trent",
+          "episodeName": "TBA",
+          "seasonNumber": "4",
+          "episodeNumberInSeason": "16",
+          "airTime": "7:00",
+          "channel": "ABC"
+        }
+      ]
+    },
+    {
+      "date": "April 22, 2026",
+      "list": [
+        {
+          "showName": "Chicago Med",
+          "episodeName": "TBA",
+          "seasonNumber": "11",
+          "episodeNumberInSeason": "18",
+          "airTime": "7:00",
+          "channel": "NBC] [G"
+        },
+        {
+          "showName": "Abbott Elementary",
+          "episodeName": "Ava & Fest\" & \"Miami [season finale]",
+          "seasonNumber": "5",
+          "episodeNumberInSeason": "21 & S5 E22",
+          "airTime": "7:00",
+          "channel": "ABC"
+        }
+      ]
+    },
+    {
+      "date": "April 23, 2026",
+      "list": [
+        {
+          "showName": "Georgie & Mandy's First Marriage",
+          "episodeName": "A Country Club, a Yokel and a New Boss",
+          "seasonNumber": "2",
+          "episodeNumberInSeason": "17",
+          "airTime": "7:00",
+          "channel": "CBS"
+        },
+        {
+          "showName": "Matlock",
+          "episodeName": "TBA [two-hour season finale]",
+          "seasonNumber": "2",
+          "episodeNumberInSeason": "15 & S2 E16",
+          "airTime": "8:00",
+          "channel": "CBS"
+        }
+      ]
+    },
+    {
+      "date": "April 24, 2026",
+      "list": []
+    },
+    {
+      "date": "April 15, 2026",
+      "list": []
+    },
+    {
+      "date": "April 26, 2026",
+      "list": [
+        {
+          "showName": "Watson",
+          "episodeName": "TBA",
+          "seasonNumber": "2",
+          "episodeNumberInSeason": "19",
+          "airTime": "9:00",
+          "channel": "CBS"
+        }
+      ]
+    },
+    {
+      "date": "April 27, 2026",
+      "list": [
+        {
+          "showName": "The Neighborhood",
+          "episodeName": "TBA",
+          "seasonNumber": "8",
+          "episodeNumberInSeason": "18",
+          "airTime": "7:00",
+          "channel": "CBS] [G"
+        },
+        {
+          "showName": "DMV",
+          "episodeName": "TBA",
+          "seasonNumber": "1",
+          "episodeNumberInSeason": "18",
+          "airTime": "7:30",
+          "channel": "CBS"
+        }
+      ]
+    },
+    {
+      "date": "April 28, 2026",
+      "list": [
+        {
+          "showName": "Will Trent",
+          "episodeName": "TBA",
+          "seasonNumber": "4",
+          "episodeNumberInSeason": "17",
+          "airTime": "7:00",
+          "channel": "ABC"
+        }
+      ]
+    },
+    {
+      "date": "April 29, 2026",
+      "list": [
+        {
+          "showName": "Chicago Med",
+          "episodeName": "TBA",
+          "seasonNumber": "11",
+          "episodeNumberInSeason": "19",
+          "airTime": "7:00",
+          "channel": "NBC] [G"
+        }
+      ]
+    },
+    {
+      "date": "April 30, 2026",
+      "list": [
+        {
+          "showName": "Georgie & Mandy's First Marriage",
+          "episodeName": "TBA",
+          "seasonNumber": "2",
+          "episodeNumberInSeason": "18",
+          "airTime": "7:00",
+          "channel": "CBS"
+        }
+      ]
+    },
+    {
+      "date": "May 1, 2026",
+      "list": []
+    },
+    {
+      "date": "May 2, 2026",
+      "list": []
+    },
+    {
+      "date": "May 3, 2026",
+      "list": [
+        {
+          "showName": "Watson",
+          "episodeName": "TBA [series finale]",
+          "seasonNumber": "2",
+          "episodeNumberInSeason": "20",
+          "airTime": "9:00",
+          "channel": "CBS"
+        }
+      ]
+    },
+    {
+      "date": "May 4, 2026",
+      "list": [
+        {
+          "showName": "The Neighborhood",
+          "episodeName": "TBA",
+          "seasonNumber": "8",
+          "episodeNumberInSeason": "19",
+          "airTime": "7:00",
+          "channel": "CBS] [G"
+        },
+        {
+          "showName": "DMV",
+          "episodeName": "TBA",
+          "seasonNumber": "1",
+          "episodeNumberInSeason": "19",
+          "airTime": "7:30",
+          "channel": "CBS"
+        }
+      ]
+    },
+    {
+      "date": "May 5, 2026",
+      "list": [
+        {
+          "showName": "Will Trent",
+          "episodeName": "TBA [season finale]",
+          "seasonNumber": "4",
+          "episodeNumberInSeason": "18",
+          "airTime": "7:00",
+          "channel": "ABC"
+        }
+      ]
+    },
+    {
+      "date": "May 6, 2026",
+      "list": [
+        {
+          "showName": "Chicago Med",
+          "episodeName": "TBA",
+          "seasonNumber": "11",
+          "episodeNumberInSeason": "20",
+          "airTime": "7:00",
+          "channel": "NBC] [G"
+        }
+      ]
+    },
+    {
+      "date": "May 7, 2026",
+      "list": [
+        {
+          "showName": "Georgie & Mandy's First Marriage",
+          "episodeName": "TBA",
+          "seasonNumber": "2",
+          "episodeNumberInSeason": "19",
+          "airTime": "7:00",
+          "channel": "CBS"
+        }
+      ]
+    },
+    {
+      "date": "May 8, 2026",
+      "list": []
+    },
+    {
+      "date": "May 9, 2026",
+      "list": []
+    },
+    {
+      "date": "May 10, 2026",
+      "list": []
+    },
+    {
+      "date": "May 11, 2026",
+      "list": [
+        {
+          "showName": "The Neighborhood",
+          "episodeName": "TBA [series finale]",
+          "seasonNumber": "8",
+          "episodeNumberInSeason": "20",
+          "airTime": "7:00",
+          "channel": "CBS] [G"
+        },
+        {
+          "showName": "DMV",
+          "episodeName": "TBA [series finale]",
+          "seasonNumber": "1",
+          "episodeNumberInSeason": "20",
+          "airTime": "7:30",
+          "channel": "CBS"
+        }
+      ]
+    },
+    {
+      "date": "May 12, 2026",
+      "list": []
+    },
+    {
+      "date": "May 13, 2026",
+      "list": [
+        {
+          "showName": "Chicago Med",
+          "episodeName": "TBA [season finale]",
+          "seasonNumber": "11",
+          "episodeNumberInSeason": "21",
+          "airTime": "7:00",
+          "channel": "NBC] [G"
+        }
+      ]
+    },
+    {
+      "date": "May 14, 2026",
+      "list": [
+        {
+          "showName": "Georgie & Mandy's First Marriage",
+          "episodeName": "TBA",
+          "seasonNumber": "2",
+          "episodeNumberInSeason": "20",
+          "airTime": "7:00",
+          "channel": "CBS"
+        }
+      ]
+    },
+    {
+      "date": "May 15, 2026",
+      "list": []
+    },
+    {
+      "date": "May 16, 2026",
+      "list": []
+    },
+    {
+      "date": "May 17, 2026",
+      "list": []
+    },
+    {
+      "date": "May 18, 2026",
+      "list": []
+    },
+    {
+      "date": "May 19, 2026",
+      "list": []
+    },
+    {
+      "date": "May 20, 2026",
+      "list": []
+    },
+    {
+      "date": "May 21, 2026",
+      "list": [
+        {
+          "showName": "Georgie & Mandy's First Marriage",
+          "episodeName": "TBA [one-hour season finale]",
+          "seasonNumber": "2",
+          "episodeNumberInSeason": "21 & S2 E22",
+          "airTime": "7:00",
+          "channel": "CBS"
+        }
+      ]
+    },
+    {
+      "date": "May 22, 2026",
+      "list": []
+    },
+    {
+      "date": "May 23, 2026",
+      "list": []
+    },
+    {
+      "date": "May 24, 2026",
+      "list": []
+    },
+    {
+      "date": "May 25, 2026",
+      "list": []
+    },
+    {
+      "date": "May 26, 2026",
+      "list": []
+    },
+    {
+      "date": "May 27, 2026",
+      "list": [
+        {
+          "showName": "Brilliant Minds",
+          "episodeName": "The Missing Person",
+          "seasonNumber": "2",
+          "episodeNumberInSeason": "15",
+          "airTime": "7:00",
+          "channel": "NBC"
+        }
+      ]
+    },
+    {
+      "date": "May 28, 2026",
+      "list": []
+    },
+    {
+      "date": "May 29, 2026",
+      "list": []
+    },
+    {
+      "date": "May 30, 2026",
+      "list": []
+    },
+    {
+      "date": "May 31, 2026",
+      "list": []
     }
   ]
 }
