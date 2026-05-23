@@ -1,352 +1,6 @@
 {
   "data": [
     {
-      "date": "April 20, 2026",
-      "list": [
-        {
-          "showName": "The Neighborhood",
-          "episodeName": "Welcome to the Purse Dog",
-          "seasonNumber": "8",
-          "episodeNumberInSeason": "17",
-          "airTime": "7:00",
-          "channel": "CBS] [G"
-        },
-        {
-          "showName": "DMV",
-          "episodeName": "Drive-ory Tower",
-          "seasonNumber": "1",
-          "episodeNumberInSeason": "17",
-          "airTime": "7:30",
-          "channel": "CBS"
-        }
-      ]
-    },
-    {
-      "date": "April 21, 2026",
-      "list": [
-        {
-          "showName": "Will Trent",
-          "episodeName": "TBA",
-          "seasonNumber": "4",
-          "episodeNumberInSeason": "16",
-          "airTime": "7:00",
-          "channel": "ABC"
-        }
-      ]
-    },
-    {
-      "date": "April 22, 2026",
-      "list": [
-        {
-          "showName": "Chicago Med",
-          "episodeName": "TBA",
-          "seasonNumber": "11",
-          "episodeNumberInSeason": "18",
-          "airTime": "7:00",
-          "channel": "NBC] [G"
-        },
-        {
-          "showName": "Abbott Elementary",
-          "episodeName": "Ava & Fest\" & \"Miami [season finale]",
-          "seasonNumber": "5",
-          "episodeNumberInSeason": "21 & S5 E22",
-          "airTime": "7:00",
-          "channel": "ABC"
-        }
-      ]
-    },
-    {
-      "date": "April 23, 2026",
-      "list": [
-        {
-          "showName": "Georgie & Mandy's First Marriage",
-          "episodeName": "A Country Club, a Yokel and a New Boss",
-          "seasonNumber": "2",
-          "episodeNumberInSeason": "17",
-          "airTime": "7:00",
-          "channel": "CBS"
-        },
-        {
-          "showName": "Matlock",
-          "episodeName": "TBA [two-hour season finale]",
-          "seasonNumber": "2",
-          "episodeNumberInSeason": "15 & S2 E16",
-          "airTime": "8:00",
-          "channel": "CBS"
-        }
-      ]
-    },
-    {
-      "date": "April 24, 2026",
-      "list": []
-    },
-    {
-      "date": "April 15, 2026",
-      "list": []
-    },
-    {
-      "date": "April 26, 2026",
-      "list": [
-        {
-          "showName": "Watson",
-          "episodeName": "TBA",
-          "seasonNumber": "2",
-          "episodeNumberInSeason": "19",
-          "airTime": "9:00",
-          "channel": "CBS"
-        }
-      ]
-    },
-    {
-      "date": "April 27, 2026",
-      "list": [
-        {
-          "showName": "The Neighborhood",
-          "episodeName": "TBA",
-          "seasonNumber": "8",
-          "episodeNumberInSeason": "18",
-          "airTime": "7:00",
-          "channel": "CBS] [G"
-        },
-        {
-          "showName": "DMV",
-          "episodeName": "TBA",
-          "seasonNumber": "1",
-          "episodeNumberInSeason": "18",
-          "airTime": "7:30",
-          "channel": "CBS"
-        }
-      ]
-    },
-    {
-      "date": "April 28, 2026",
-      "list": [
-        {
-          "showName": "Will Trent",
-          "episodeName": "TBA",
-          "seasonNumber": "4",
-          "episodeNumberInSeason": "17",
-          "airTime": "7:00",
-          "channel": "ABC"
-        }
-      ]
-    },
-    {
-      "date": "April 29, 2026",
-      "list": [
-        {
-          "showName": "Chicago Med",
-          "episodeName": "TBA",
-          "seasonNumber": "11",
-          "episodeNumberInSeason": "19",
-          "airTime": "7:00",
-          "channel": "NBC] [G"
-        }
-      ]
-    },
-    {
-      "date": "April 30, 2026",
-      "list": [
-        {
-          "showName": "Georgie & Mandy's First Marriage",
-          "episodeName": "TBA",
-          "seasonNumber": "2",
-          "episodeNumberInSeason": "18",
-          "airTime": "7:00",
-          "channel": "CBS"
-        }
-      ]
-    },
-    {
-      "date": "May 1, 2026",
-      "list": []
-    },
-    {
-      "date": "May 2, 2026",
-      "list": []
-    },
-    {
-      "date": "May 3, 2026",
-      "list": [
-        {
-          "showName": "Watson",
-          "episodeName": "TBA [series finale]",
-          "seasonNumber": "2",
-          "episodeNumberInSeason": "20",
-          "airTime": "9:00",
-          "channel": "CBS"
-        }
-      ]
-    },
-    {
-      "date": "May 4, 2026",
-      "list": [
-        {
-          "showName": "The Neighborhood",
-          "episodeName": "TBA",
-          "seasonNumber": "8",
-          "episodeNumberInSeason": "19",
-          "airTime": "7:00",
-          "channel": "CBS] [G"
-        },
-        {
-          "showName": "DMV",
-          "episodeName": "TBA",
-          "seasonNumber": "1",
-          "episodeNumberInSeason": "19",
-          "airTime": "7:30",
-          "channel": "CBS"
-        }
-      ]
-    },
-    {
-      "date": "May 5, 2026",
-      "list": [
-        {
-          "showName": "Will Trent",
-          "episodeName": "TBA [season finale]",
-          "seasonNumber": "4",
-          "episodeNumberInSeason": "18",
-          "airTime": "7:00",
-          "channel": "ABC"
-        }
-      ]
-    },
-    {
-      "date": "May 6, 2026",
-      "list": [
-        {
-          "showName": "Chicago Med",
-          "episodeName": "TBA",
-          "seasonNumber": "11",
-          "episodeNumberInSeason": "20",
-          "airTime": "7:00",
-          "channel": "NBC] [G"
-        }
-      ]
-    },
-    {
-      "date": "May 7, 2026",
-      "list": [
-        {
-          "showName": "Georgie & Mandy's First Marriage",
-          "episodeName": "TBA",
-          "seasonNumber": "2",
-          "episodeNumberInSeason": "19",
-          "airTime": "7:00",
-          "channel": "CBS"
-        }
-      ]
-    },
-    {
-      "date": "May 8, 2026",
-      "list": []
-    },
-    {
-      "date": "May 9, 2026",
-      "list": []
-    },
-    {
-      "date": "May 10, 2026",
-      "list": []
-    },
-    {
-      "date": "May 11, 2026",
-      "list": [
-        {
-          "showName": "The Neighborhood",
-          "episodeName": "TBA [series finale]",
-          "seasonNumber": "8",
-          "episodeNumberInSeason": "20",
-          "airTime": "7:00",
-          "channel": "CBS] [G"
-        },
-        {
-          "showName": "DMV",
-          "episodeName": "TBA [series finale]",
-          "seasonNumber": "1",
-          "episodeNumberInSeason": "20",
-          "airTime": "7:30",
-          "channel": "CBS"
-        }
-      ]
-    },
-    {
-      "date": "May 12, 2026",
-      "list": []
-    },
-    {
-      "date": "May 13, 2026",
-      "list": [
-        {
-          "showName": "Chicago Med",
-          "episodeName": "TBA [season finale]",
-          "seasonNumber": "11",
-          "episodeNumberInSeason": "21",
-          "airTime": "7:00",
-          "channel": "NBC] [G"
-        }
-      ]
-    },
-    {
-      "date": "May 14, 2026",
-      "list": [
-        {
-          "showName": "Georgie & Mandy's First Marriage",
-          "episodeName": "TBA",
-          "seasonNumber": "2",
-          "episodeNumberInSeason": "20",
-          "airTime": "7:00",
-          "channel": "CBS"
-        }
-      ]
-    },
-    {
-      "date": "May 15, 2026",
-      "list": []
-    },
-    {
-      "date": "May 16, 2026",
-      "list": []
-    },
-    {
-      "date": "May 17, 2026",
-      "list": []
-    },
-    {
-      "date": "May 18, 2026",
-      "list": []
-    },
-    {
-      "date": "May 19, 2026",
-      "list": []
-    },
-    {
-      "date": "May 20, 2026",
-      "list": []
-    },
-    {
-      "date": "May 21, 2026",
-      "list": [
-        {
-          "showName": "Georgie & Mandy's First Marriage",
-          "episodeName": "TBA [one-hour season finale]",
-          "seasonNumber": "2",
-          "episodeNumberInSeason": "21 & S2 E22",
-          "airTime": "7:00",
-          "channel": "CBS"
-        }
-      ]
-    },
-    {
-      "date": "May 22, 2026",
-      "list": []
-    },
-    {
-      "date": "May 23, 2026",
-      "list": []
-    },
-    {
       "date": "May 24, 2026",
       "list": []
     },
@@ -386,6 +40,355 @@
     {
       "date": "May 31, 2026",
       "list": []
+    },
+    {
+      "date": "June 1, 2026",
+      "list": []
+    },
+    {
+      "date": "June 2, 2026",
+      "list": [
+        {
+          "showName": "America's Got Talent",
+          "episodeName": "Auditions 1",
+          "seasonNumber": "21",
+          "episodeNumberInSeason": "1",
+          "airTime": "7:00",
+          "channel": "NBC"
+        }
+      ]
+    },
+    {
+      "date": "June 3, 2026",
+      "list": [
+        {
+          "showName": "Brilliant Minds",
+          "episodeName": "Senses",
+          "seasonNumber": "2",
+          "episodeNumberInSeason": "16",
+          "airTime": "7:00",
+          "channel": "NBC"
+        }
+      ]
+    },
+    {
+      "date": "June 4, 2026",
+      "list": []
+    },
+    {
+      "date": "June 5, 2026",
+      "list": []
+    },
+    {
+      "date": "June 6, 2026",
+      "list": []
+    },
+    {
+      "date": "June 7, 2026",
+      "list": []
+    },
+    {
+      "date": "June 8, 2026",
+      "list": []
+    },
+    {
+      "date": "June 9, 2026",
+      "list": [
+        {
+          "showName": "America's Got Talent",
+          "episodeName": "Auditions 2",
+          "seasonNumber": "21",
+          "episodeNumberInSeason": "2",
+          "airTime": "7:00",
+          "channel": "NBC"
+        }
+      ]
+    },
+    {
+      "date": "June 10, 2026",
+      "list": [
+        {
+          "showName": "Brilliant Minds",
+          "episodeName": "TBA",
+          "seasonNumber": "2",
+          "episodeNumberInSeason": "17",
+          "airTime": "7:00",
+          "channel": "NBC"
+        }
+      ]
+    },
+    {
+      "date": "June 11, 2026",
+      "list": []
+    },
+    {
+      "date": "June 12, 2026",
+      "list": []
+    },
+    {
+      "date": "June 13, 2026",
+      "list": []
+    },
+    {
+      "date": "June 14, 2026",
+      "list": []
+    },
+    {
+      "date": "June 15, 2026",
+      "list": []
+    },
+    {
+      "date": "June 16, 2026",
+      "list": [
+        {
+          "showName": "America's Got Talent",
+          "episodeName": "Two Hours",
+          "seasonNumber": "21",
+          "episodeNumberInSeason": "3",
+          "airTime": "7:00",
+          "channel": "NBC"
+        }
+      ]
+    },
+    {
+      "date": "June 17, 2026",
+      "list": [
+        {
+          "showName": "Brilliant Minds",
+          "episodeName": "TBA",
+          "seasonNumber": "2",
+          "episodeNumberInSeason": "18",
+          "airTime": "7:00",
+          "channel": "NBC"
+        }
+      ]
+    },
+    {
+      "date": "June 18, 2026",
+      "list": []
+    },
+    {
+      "date": "June 19, 2026",
+      "list": []
+    },
+    {
+      "date": "June 20, 2026",
+      "list": []
+    },
+    {
+      "date": "June 21, 2026",
+      "list": []
+    },
+    {
+      "date": "June 22, 2026",
+      "list": []
+    },
+    {
+      "date": "June 23, 2026",
+      "list": [
+        {
+          "showName": "America's Got Talent",
+          "episodeName": "Two Hours",
+          "seasonNumber": "21",
+          "episodeNumberInSeason": "4",
+          "airTime": "7:00",
+          "channel": "NBC"
+        }
+      ]
+    },
+    {
+      "date": "June 24, 2026",
+      "list": [
+        {
+          "showName": "Brilliant Minds",
+          "episodeName": "TBA",
+          "seasonNumber": "2",
+          "episodeNumberInSeason": "19",
+          "airTime": "7:00",
+          "channel": "NBC"
+        }
+      ]
+    },
+    {
+      "date": "June 25, 2026",
+      "list": []
+    },
+    {
+      "date": "June 26, 2026",
+      "list": []
+    },
+    {
+      "date": "June 27, 2026",
+      "list": []
+    },
+    {
+      "date": "June 28, 2026",
+      "list": []
+    },
+    {
+      "date": "June 29, 2026",
+      "list": []
+    },
+    {
+      "date": "June 30, 2026",
+      "list": [
+        {
+          "showName": "America's Got Talent",
+          "episodeName": "Two Hours",
+          "seasonNumber": "21",
+          "episodeNumberInSeason": "5",
+          "airTime": "7:00",
+          "channel": "NBC"
+        }
+      ]
+    },
+    {
+      "date": "July 1, 2026",
+      "list": [
+        {
+          "showName": "Brilliant Minds",
+          "episodeName": "TBA [series finale]",
+          "seasonNumber": "2",
+          "episodeNumberInSeason": "20",
+          "airTime": "7:00",
+          "channel": "NBC"
+        }
+      ]
+    },
+    {
+      "date": "July 2, 2026",
+      "list": []
+    },
+    {
+      "date": "July 3, 2026",
+      "list": []
+    },
+    {
+      "date": "July 4, 2026",
+      "list": []
+    },
+    {
+      "date": "July 5, 2026",
+      "list": []
+    },
+    {
+      "date": "July 6, 2026",
+      "list": []
+    },
+    {
+      "date": "July 7, 2026",
+      "list": [
+        {
+          "showName": "America's Got Talent",
+          "episodeName": "Two Hours",
+          "seasonNumber": "21",
+          "episodeNumberInSeason": "6",
+          "airTime": "7:00",
+          "channel": "NBC"
+        }
+      ]
+    },
+    {
+      "date": "July 8, 2026",
+      "list": []
+    },
+    {
+      "date": "July 9, 2026",
+      "list": [
+        {
+          "showName": "Big Brother",
+          "episodeName": "Premiere [90 minutes]",
+          "seasonNumber": "28",
+          "episodeNumberInSeason": "1",
+          "airTime": "7:00",
+          "channel": "CBS"
+        }
+      ]
+    },
+    {
+      "date": "July 10, 2026",
+      "list": []
+    },
+    {
+      "date": "July 11, 2026",
+      "list": []
+    },
+    {
+      "date": "July 12, 2026",
+      "list": [
+        {
+          "showName": "Big Brother",
+          "episodeName": "Sunday [90 minutes]",
+          "seasonNumber": "28",
+          "episodeNumberInSeason": "3",
+          "airTime": "7:00",
+          "channel": "CBS"
+        }
+      ]
+    },
+    {
+      "date": "July 13, 2026",
+      "list": []
+    },
+    {
+      "date": "July 14, 2026",
+      "list": [
+        {
+          "showName": "America's Got Talent",
+          "episodeName": "Two Hours",
+          "seasonNumber": "21",
+          "episodeNumberInSeason": "7",
+          "airTime": "7:00",
+          "channel": "NBC"
+        }
+      ]
+    },
+    {
+      "date": "July 15, 2026",
+      "list": [
+        {
+          "showName": "Big Brother",
+          "episodeName": "Wednesday [90 minutes]",
+          "seasonNumber": "28",
+          "episodeNumberInSeason": "4",
+          "airTime": "7:00",
+          "channel": "CBS"
+        }
+      ]
+    },
+    {
+      "date": "July 16, 2026",
+      "list": [
+        {
+          "showName": "Big Brother",
+          "episodeName": "Thursday",
+          "seasonNumber": "28",
+          "episodeNumberInSeason": "5",
+          "airTime": "7:00",
+          "channel": "CBS"
+        }
+      ]
+    },
+    {
+      "date": "July 17, 2026",
+      "list": []
+    },
+    {
+      "date": "July 18, 2026",
+      "list": []
+    },
+    {
+      "date": "July 19, 2026",
+      "list": [
+        {
+          "showName": "Big Brother",
+          "episodeName": "Sunday",
+          "seasonNumber": "28",
+          "episodeNumberInSeason": "6",
+          "airTime": "7:00",
+          "channel": "CBS"
+        }
+      ]
     }
   ]
 }
