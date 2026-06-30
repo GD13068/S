@@ -1,240 +1,11 @@
 {
   "data": [
     {
-      "date": "May 24, 2026",
-      "list": []
-    },
-    {
-      "date": "May 25, 2026",
-      "list": []
-    },
-    {
-      "date": "May 26, 2026",
-      "list": []
-    },
-    {
-      "date": "May 27, 2026",
-      "list": [
-        {
-          "showName": "Brilliant Minds",
-          "episodeName": "The Missing Person",
-          "seasonNumber": "2",
-          "episodeNumberInSeason": "15",
-          "airTime": "7:00",
-          "channel": "NBC"
-        }
-      ]
-    },
-    {
-      "date": "May 28, 2026",
-      "list": []
-    },
-    {
-      "date": "May 29, 2026",
-      "list": []
-    },
-    {
-      "date": "May 30, 2026",
-      "list": []
-    },
-    {
-      "date": "May 31, 2026",
-      "list": []
-    },
-    {
-      "date": "June 1, 2026",
-      "list": []
-    },
-    {
-      "date": "June 2, 2026",
-      "list": [
-        {
-          "showName": "America's Got Talent",
-          "episodeName": "Auditions 1",
-          "seasonNumber": "21",
-          "episodeNumberInSeason": "1",
-          "airTime": "7:00",
-          "channel": "NBC"
-        }
-      ]
-    },
-    {
-      "date": "June 3, 2026",
-      "list": [
-        {
-          "showName": "Brilliant Minds",
-          "episodeName": "Senses",
-          "seasonNumber": "2",
-          "episodeNumberInSeason": "16",
-          "airTime": "7:00",
-          "channel": "NBC"
-        }
-      ]
-    },
-    {
-      "date": "June 4, 2026",
-      "list": []
-    },
-    {
-      "date": "June 5, 2026",
-      "list": []
-    },
-    {
-      "date": "June 6, 2026",
-      "list": []
-    },
-    {
-      "date": "June 7, 2026",
-      "list": []
-    },
-    {
-      "date": "June 8, 2026",
-      "list": []
-    },
-    {
-      "date": "June 9, 2026",
-      "list": [
-        {
-          "showName": "America's Got Talent",
-          "episodeName": "Auditions 2",
-          "seasonNumber": "21",
-          "episodeNumberInSeason": "2",
-          "airTime": "7:00",
-          "channel": "NBC"
-        }
-      ]
-    },
-    {
-      "date": "June 10, 2026",
-      "list": [
-        {
-          "showName": "Brilliant Minds",
-          "episodeName": "TBA",
-          "seasonNumber": "2",
-          "episodeNumberInSeason": "17",
-          "airTime": "7:00",
-          "channel": "NBC"
-        }
-      ]
-    },
-    {
-      "date": "June 11, 2026",
-      "list": []
-    },
-    {
-      "date": "June 12, 2026",
-      "list": []
-    },
-    {
-      "date": "June 13, 2026",
-      "list": []
-    },
-    {
-      "date": "June 14, 2026",
-      "list": []
-    },
-    {
-      "date": "June 15, 2026",
-      "list": []
-    },
-    {
-      "date": "June 16, 2026",
-      "list": [
-        {
-          "showName": "America's Got Talent",
-          "episodeName": "Two Hours",
-          "seasonNumber": "21",
-          "episodeNumberInSeason": "3",
-          "airTime": "7:00",
-          "channel": "NBC"
-        }
-      ]
-    },
-    {
-      "date": "June 17, 2026",
-      "list": [
-        {
-          "showName": "Brilliant Minds",
-          "episodeName": "TBA",
-          "seasonNumber": "2",
-          "episodeNumberInSeason": "18",
-          "airTime": "7:00",
-          "channel": "NBC"
-        }
-      ]
-    },
-    {
-      "date": "June 18, 2026",
-      "list": []
-    },
-    {
-      "date": "June 19, 2026",
-      "list": []
-    },
-    {
-      "date": "June 20, 2026",
-      "list": []
-    },
-    {
-      "date": "June 21, 2026",
-      "list": []
-    },
-    {
-      "date": "June 22, 2026",
-      "list": []
-    },
-    {
-      "date": "June 23, 2026",
-      "list": [
-        {
-          "showName": "America's Got Talent",
-          "episodeName": "Two Hours",
-          "seasonNumber": "21",
-          "episodeNumberInSeason": "4",
-          "airTime": "7:00",
-          "channel": "NBC"
-        }
-      ]
-    },
-    {
-      "date": "June 24, 2026",
-      "list": [
-        {
-          "showName": "Brilliant Minds",
-          "episodeName": "TBA",
-          "seasonNumber": "2",
-          "episodeNumberInSeason": "19",
-          "airTime": "7:00",
-          "channel": "NBC"
-        }
-      ]
-    },
-    {
-      "date": "June 25, 2026",
-      "list": []
-    },
-    {
-      "date": "June 26, 2026",
-      "list": []
-    },
-    {
-      "date": "June 27, 2026",
-      "list": []
-    },
-    {
-      "date": "June 28, 2026",
-      "list": []
-    },
-    {
-      "date": "June 29, 2026",
-      "list": []
-    },
-    {
       "date": "June 30, 2026",
       "list": [
         {
           "showName": "America's Got Talent",
-          "episodeName": "Two Hours",
+          "episodeName": "July 4th Party in the USA",
           "seasonNumber": "21",
           "episodeNumberInSeason": "5",
           "airTime": "7:00",
@@ -247,7 +18,7 @@
       "list": [
         {
           "showName": "Brilliant Minds",
-          "episodeName": "TBA [series finale]",
+          "episodeName": "The Way Home [series finale]",
           "seasonNumber": "2",
           "episodeNumberInSeason": "20",
           "airTime": "7:00",
@@ -280,7 +51,7 @@
       "list": [
         {
           "showName": "America's Got Talent",
-          "episodeName": "Two Hours",
+          "episodeName": "Auditions 5",
           "seasonNumber": "21",
           "episodeNumberInSeason": "6",
           "airTime": "7:00",
@@ -335,7 +106,7 @@
       "list": [
         {
           "showName": "America's Got Talent",
-          "episodeName": "Two Hours",
+          "episodeName": "Auditions 6",
           "seasonNumber": "21",
           "episodeNumberInSeason": "7",
           "airTime": "7:00",
