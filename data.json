@@ -1,132 +1,174 @@
 {
   "data": [
     {
-      "date": "July 20, 2026",
+      "date": "August 6, 2026",
       "list": []
     },
     {
-      "date": "July 21, 2026",
+      "date": "August 7, 2026",
+      "list": []
+    },
+    {
+      "date": "August 8, 2026",
+      "list": []
+    },
+    {
+      "date": "August 9, 2026",
+      "list": []
+    },
+    {
+      "date": "August 10, 2026",
+      "list": []
+    },
+    {
+      "date": "August 11, 2026",
       "list": [
         {
           "showName": "America's Got Talent",
-          "episodeName": "Auditions 7",
+          "episodeName": "Judges' Callbacks 2",
           "seasonNumber": "21",
-          "episodeNumberInSeason": "8",
-          "airTime": "7:00",
-          "channel": "NBC"
-        }
-      ]
-    },
-    {
-      "date": "July 22, 2026",
-      "list": [
-        {
-          "showName": "Big Brother",
-          "episodeName": "Episode 7 [90 minutes]",
-          "seasonNumber": "28",
-          "episodeNumberInSeason": "7",
-          "airTime": "7:00",
-          "channel": "CBS"
-        }
-      ]
-    },
-    {
-      "date": "July 23, 2026",
-      "list": [
-        {
-          "showName": "Big Brother",
-          "episodeName": "Episode 8 - Live Eviction",
-          "seasonNumber": "28",
-          "episodeNumberInSeason": "8",
-          "airTime": "7:00",
-          "channel": "CBS"
-        }
-      ]
-    },
-    {
-      "date": "July 24, 2026",
-      "list": []
-    },
-    {
-      "date": "July 25, 2026",
-      "list": []
-    },
-    {
-      "date": "July 26, 2026",
-      "list": [
-        {
-          "showName": "Big Brother",
-          "episodeName": "Episode 10",
-          "seasonNumber": "28",
-          "episodeNumberInSeason": "10",
-          "airTime": "7:00",
-          "channel": "CBS"
-        }
-      ]
-    },
-    {
-      "date": "July 27, 2026",
-      "list": []
-    },
-    {
-      "date": "July 28, 2026",
-      "list": [
-        {
-          "showName": "America's Got Talent",
-          "episodeName": "Live Acts Revealed",
-          "seasonNumber": "21",
-          "episodeNumberInSeason": "9",
-          "airTime": "7:00",
-          "channel": "NBC"
-        }
-      ]
-    },
-    {
-      "date": "July 29, 2026",
-      "list": [
-        {
-          "showName": "Big Brother",
-          "episodeName": "Episode 11 [90 minutes]",
-          "seasonNumber": "28",
           "episodeNumberInSeason": "11",
           "airTime": "7:00",
-          "channel": "CBS"
+          "channel": "NBC"
         }
       ]
     },
     {
-      "date": "July 30, 2026",
+      "date": "August 12, 2026",
       "list": [
         {
-          "showName": "Big Brother",
-          "episodeName": "Episode 12 - Live Eviction",
-          "seasonNumber": "28",
+          "showName": "Ted Lasso",
+          "episodeName": "Curiouser and Curiouser!",
+          "seasonNumber": "4",
+          "episodeNumberInSeason": "2",
+          "airTime": "11:01",
+          "channel": "Apple TV"
+        }
+      ]
+    },
+    {
+      "date": "August 13, 2026",
+      "list": []
+    },
+    {
+      "date": "August 14, 2026",
+      "list": []
+    },
+    {
+      "date": "August 15, 2026",
+      "list": []
+    },
+    {
+      "date": "August 16, 2026",
+      "list": []
+    },
+    {
+      "date": "August 17, 2026",
+      "list": []
+    },
+    {
+      "date": "August 18, 2026",
+      "list": [
+        {
+          "showName": "America's Got Talent",
+          "episodeName": "Quarterfinals 1",
+          "seasonNumber": "21",
           "episodeNumberInSeason": "12",
           "airTime": "7:00",
-          "channel": "CBS"
+          "channel": "NBC"
         }
       ]
     },
     {
-      "date": "July 31, 2026",
-      "list": []
-    },
-    {
-      "date": "August 1, 2026",
-      "list": []
-    },
-    {
-      "date": "August 2, 2026",
+      "date": "August 19, 2026",
       "list": [
         {
-          "showName": "Big Brother",
-          "episodeName": "Episode 13",
-          "seasonNumber": "28",
+          "showName": "Ted Lasso",
+          "episodeName": "TBA",
+          "seasonNumber": "4",
+          "episodeNumberInSeason": "3",
+          "airTime": "11:01",
+          "channel": "Apple TV"
+        },
+        {
+          "showName": "America's Got Talent",
+          "episodeName": "Quarterfinals 1 Results",
+          "seasonNumber": "21",
           "episodeNumberInSeason": "13",
           "airTime": "7:00",
-          "channel": "CBS"
+          "channel": "NBC"
         }
       ]
+    },
+    {
+      "date": "August 20, 2026",
+      "list": []
+    },
+    {
+      "date": "August 21, 2026",
+      "list": []
+    },
+    {
+      "date": "August 22, 2026",
+      "list": []
+    },
+    {
+      "date": "August 23, 2026",
+      "list": []
+    },
+    {
+      "date": "August 24, 2026",
+      "list": []
+    },
+    {
+      "date": "August 25, 2026",
+      "list": [
+        {
+          "showName": "America's Got Talent",
+          "episodeName": "Quarterfinals 2",
+          "seasonNumber": "21",
+          "episodeNumberInSeason": "14",
+          "airTime": "7:00",
+          "channel": "NBC"
+        }
+      ]
+    },
+    {
+      "date": "August 26, 2026",
+      "list": [
+        {
+          "showName": "Ted Lasso",
+          "episodeName": "TBA",
+          "seasonNumber": "4",
+          "episodeNumberInSeason": "4",
+          "airTime": "11:01",
+          "channel": "Apple TV"
+        },
+        {
+          "showName": "America's Got Talent",
+          "episodeName": "Quarterfinals 2 Results",
+          "seasonNumber": "21",
+          "episodeNumberInSeason": "15",
+          "airTime": "7:00",
+          "channel": "NBC"
+        }
+      ]
+    },
+    {
+      "date": "August 27, 2026",
+      "list": []
+    },
+    {
+      "date": "August 28, 2026",
+      "list": []
+    },
+    {
+      "date": "August 29, 2026",
+      "list": []
+    },
+    {
+      "date": "August 30, 2026",
+      "list": []
     }
   ]
 }
