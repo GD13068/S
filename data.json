@@ -173,7 +173,16 @@
     },
     {
       "date": "September 21, 2026",
-      "list": []
+      "list": [
+        {
+          "showName": "Line of Fire",
+          "episodeName": "Series Premiere",
+          "seasonNumber": "1",
+          "episodeNumberInSeason": "1",
+          "airTime": "9:00",
+          "channel": "NBC"
+        }
+      ]
     },
     {
       "date": "September 22, 2026",
@@ -227,7 +236,16 @@
     },
     {
       "date": "September 28, 2026",
-      "list": []
+      "list": [
+        {
+          "showName": "Line of Fire",
+          "episodeName": "TBA",
+          "seasonNumber": "1",
+          "episodeNumberInSeason": "2",
+          "airTime": "9:00",
+          "channel": "NBC"
+        }
+      ]
     },
     {
       "date": "September 29, 2026",
