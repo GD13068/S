@@ -157,7 +157,16 @@
     },
     {
       "date": "September 17, 2026",
-      "list": []
+      "list": [
+        {
+          "showName": "All Creatures Great and Small",
+          "episodeName": "TBA",
+          "seasonNumber": "7",
+          "episodeNumberInSeason": "1",
+          "airTime": "4:00",
+          "channel": "5"
+        }
+      ]
     },
     {
       "date": "September 18, 2026",
@@ -220,7 +229,16 @@
     },
     {
       "date": "September 24, 2026",
-      "list": []
+      "list": [
+        {
+          "showName": "All Creatures Great and Small",
+          "episodeName": "TBA",
+          "seasonNumber": "7",
+          "episodeNumberInSeason": "2",
+          "airTime": "4:00",
+          "channel": "5"
+        }
+      ]
     },
     {
       "date": "September 25, 2026",
@@ -274,7 +292,16 @@
     },
     {
       "date": "October 1, 2026",
-      "list": []
+      "list": [
+        {
+          "showName": "All Creatures Great and Small",
+          "episodeName": "TBA",
+          "seasonNumber": "7",
+          "episodeNumberInSeason": "3",
+          "airTime": "4:00",
+          "channel": "5"
+        }
+      ]
     },
     {
       "date": "October 2, 2026",
