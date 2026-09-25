@@ -1,246 +1,6 @@
 {
   "data": [
     {
-      "date": "August 31, 2026",
-      "list": []
-    },
-    {
-      "date": "September 1, 2026",
-      "list": [
-        {
-          "showName": "America's Got Talent",
-          "episodeName": "Quarterfinals 3",
-          "seasonNumber": "21",
-          "episodeNumberInSeason": "16",
-          "airTime": "7:00",
-          "channel": "NBC"
-        }
-      ]
-    },
-    {
-      "date": "September 2, 2026",
-      "list": [
-        {
-          "showName": "Ted Lasso",
-          "episodeName": "Riches of Embarrassment",
-          "seasonNumber": "4",
-          "episodeNumberInSeason": "5",
-          "airTime": "11:01",
-          "channel": "Apple TV"
-        },
-        {
-          "showName": "America's Got Talent",
-          "episodeName": "Quarterfinals 3 Results",
-          "seasonNumber": "21",
-          "episodeNumberInSeason": "17",
-          "airTime": "7:00",
-          "channel": "NBC"
-        }
-      ]
-    },
-    {
-      "date": "September 3, 2026",
-      "list": []
-    },
-    {
-      "date": "September 4, 2026",
-      "list": []
-    },
-    {
-      "date": "September 5, 2026",
-      "list": []
-    },
-    {
-      "date": "September 6, 2026",
-      "list": []
-    },
-    {
-      "date": "September 7, 2026",
-      "list": []
-    },
-    {
-      "date": "September 8, 2026",
-      "list": [
-        {
-          "showName": "America's Got Talent",
-          "episodeName": "Quarterfinals 4",
-          "seasonNumber": "21",
-          "episodeNumberInSeason": "18",
-          "airTime": "7:00",
-          "channel": "NBC"
-        },
-        {
-          "showName": "America's Got Talent",
-          "episodeName": "Quarterfinals 4 Results",
-          "seasonNumber": "21",
-          "episodeNumberInSeason": "19",
-          "airTime": "9:00",
-          "channel": "NBC"
-        }
-      ]
-    },
-    {
-      "date": "September 9, 2026",
-      "list": [
-        {
-          "showName": "Ted Lasso",
-          "episodeName": "TBA",
-          "seasonNumber": "4",
-          "episodeNumberInSeason": "6",
-          "airTime": "11:01",
-          "channel": "Apple TV"
-        }
-      ]
-    },
-    {
-      "date": "September 10, 2026",
-      "list": [
-        {
-          "showName": "Colin From Accounts",
-          "episodeName": "Season 3 [series finale]",
-          "seasonNumber": "3",
-          "episodeNumberInSeason": "1 - S3 E8",
-          "airTime": "2:01",
-          "channel": "Paramount+"
-        }
-      ]
-    },
-    {
-      "date": "September 11, 2026",
-      "list": []
-    },
-    {
-      "date": "September 12, 2026",
-      "list": []
-    },
-    {
-      "date": "September 13, 2026",
-      "list": []
-    },
-    {
-      "date": "September 14, 2026",
-      "list": []
-    },
-    {
-      "date": "September 15, 2026",
-      "list": [
-        {
-          "showName": "America's Got Talent",
-          "episodeName": "TBA",
-          "seasonNumber": "21",
-          "episodeNumberInSeason": "20",
-          "airTime": "7:00",
-          "channel": "NBC"
-        }
-      ]
-    },
-    {
-      "date": "September 16, 2026",
-      "list": [
-        {
-          "showName": "Ted Lasso",
-          "episodeName": "TBA",
-          "seasonNumber": "4",
-          "episodeNumberInSeason": "7",
-          "airTime": "11:01",
-          "channel": "Apple TV"
-        },
-        {
-          "showName": "America's Got Talent",
-          "episodeName": "TBA",
-          "seasonNumber": "21",
-          "episodeNumberInSeason": "21",
-          "airTime": "7:00",
-          "channel": "NBC"
-        }
-      ]
-    },
-    {
-      "date": "September 17, 2026",
-      "list": [
-        {
-          "showName": "All Creatures Great and Small",
-          "episodeName": "TBA",
-          "seasonNumber": "7",
-          "episodeNumberInSeason": "1",
-          "airTime": "4:00",
-          "channel": "5"
-        }
-      ]
-    },
-    {
-      "date": "September 18, 2026",
-      "list": []
-    },
-    {
-      "date": "September 19, 2026",
-      "list": []
-    },
-    {
-      "date": "September 20, 2026",
-      "list": []
-    },
-    {
-      "date": "September 21, 2026",
-      "list": [
-        {
-          "showName": "Line of Fire",
-          "episodeName": "Series Premiere",
-          "seasonNumber": "1",
-          "episodeNumberInSeason": "1",
-          "airTime": "9:00",
-          "channel": "NBC"
-        }
-      ]
-    },
-    {
-      "date": "September 22, 2026",
-      "list": [
-        {
-          "showName": "America's Got Talent",
-          "episodeName": "TBA",
-          "seasonNumber": "21",
-          "episodeNumberInSeason": "22",
-          "airTime": "8:00",
-          "channel": "NBC"
-        }
-      ]
-    },
-    {
-      "date": "September 23, 2026",
-      "list": [
-        {
-          "showName": "Ted Lasso",
-          "episodeName": "TBA",
-          "seasonNumber": "4",
-          "episodeNumberInSeason": "8",
-          "airTime": "11:01",
-          "channel": "Apple TV"
-        },
-        {
-          "showName": "America's Got Talent",
-          "episodeName": "TBA [season finale]",
-          "seasonNumber": "21",
-          "episodeNumberInSeason": "23",
-          "airTime": "8:00",
-          "channel": "NBC"
-        }
-      ]
-    },
-    {
-      "date": "September 24, 2026",
-      "list": [
-        {
-          "showName": "All Creatures Great and Small",
-          "episodeName": "TBA",
-          "seasonNumber": "7",
-          "episodeNumberInSeason": "2",
-          "airTime": "4:00",
-          "channel": "5"
-        }
-      ]
-    },
-    {
       "date": "September 25, 2026",
       "list": []
     },
@@ -257,7 +17,7 @@
       "list": [
         {
           "showName": "Line of Fire",
-          "episodeName": "TBA",
+          "episodeName": "A Bigger Picture",
           "seasonNumber": "1",
           "episodeNumberInSeason": "2",
           "airTime": "9:00",
@@ -274,7 +34,7 @@
       "list": [
         {
           "showName": "Ted Lasso",
-          "episodeName": "TBA",
+          "episodeName": "Mae Rides the Bus",
           "seasonNumber": "4",
           "episodeNumberInSeason": "9",
           "airTime": "11:01",
@@ -282,7 +42,7 @@
         },
         {
           "showName": "Scrubs",
-          "episodeName": "TBA",
+          "episodeName": "My First Time In a While\" & \"My Mentee",
           "seasonNumber": "11",
           "episodeNumberInSeason": "1 S11 E2",
           "airTime": "7:00",
@@ -295,7 +55,7 @@
       "list": [
         {
           "showName": "All Creatures Great and Small",
-          "episodeName": "TBA",
+          "episodeName": "The Owl and the Pussycats",
           "seasonNumber": "7",
           "episodeNumberInSeason": "3",
           "airTime": "4:00",
@@ -313,6 +73,93 @@
     },
     {
       "date": "October 4, 2026",
+      "list": []
+    },
+    {
+      "date": "October 5, 2026",
+      "list": [
+        {
+          "showName": "Line of Fire",
+          "episodeName": "There are Two Wolves",
+          "seasonNumber": "1",
+          "episodeNumberInSeason": "3",
+          "airTime": "9:00",
+          "channel": "NBC"
+        }
+      ]
+    },
+    {
+      "date": "October 6, 2026",
+      "list": []
+    },
+    {
+      "date": "October 7, 2026",
+      "list": [
+        {
+          "showName": "Ted Lasso",
+          "episodeName": "TBA [season finale]",
+          "seasonNumber": "4",
+          "episodeNumberInSeason": "10",
+          "airTime": "11:01",
+          "channel": "Apple TV"
+        },
+        {
+          "showName": "Chicago Med",
+          "episodeName": "Shots Fired",
+          "seasonNumber": "12",
+          "episodeNumberInSeason": "1",
+          "airTime": "7:00",
+          "channel": "NBC] [G"
+        },
+        {
+          "showName": "Scrubs",
+          "episodeName": "My Ex's Ex",
+          "seasonNumber": "11",
+          "episodeNumberInSeason": "3",
+          "airTime": "7:00",
+          "channel": "ABC"
+        },
+        {
+          "showName": "Abbott Elementary",
+          "episodeName": "Jungle Classroom",
+          "seasonNumber": "6",
+          "episodeNumberInSeason": "1",
+          "airTime": "7:31",
+          "channel": "ABC"
+        }
+      ]
+    },
+    {
+      "date": "October 8, 2026",
+      "list": [
+        {
+          "showName": "All Creatures Great and Small",
+          "episodeName": "Doppelganger",
+          "seasonNumber": "7",
+          "episodeNumberInSeason": "4",
+          "airTime": "4:05",
+          "channel": "5"
+        },
+        {
+          "showName": "Georgie & Mandy's First Marriage",
+          "episodeName": "Feminine Wiles and Some Tire Thing in Lubbock",
+          "seasonNumber": "3",
+          "episodeNumberInSeason": "1",
+          "airTime": "7:00",
+          "channel": "CBS"
+        }
+      ]
+    },
+    {
+      "date": "October 9, 2026",
+      "list": []
+    },
+    {
+      "date": "October 10, 2026",
+      "list": []
+    },
+    {
+      "date": "October 11, 2026",
       "list": []
     }
   ]
