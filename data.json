@@ -1,103 +1,11 @@
 {
   "data": [
     {
-      "date": "September 25, 2026",
-      "list": []
-    },
-    {
-      "date": "September 26, 2026",
-      "list": []
-    },
-    {
-      "date": "September 27, 2026",
-      "list": []
-    },
-    {
-      "date": "September 28, 2026",
-      "list": [
-        {
-          "showName": "Line of Fire",
-          "episodeName": "A Bigger Picture",
-          "seasonNumber": "1",
-          "episodeNumberInSeason": "2",
-          "airTime": "9:00",
-          "channel": "NBC"
-        }
-      ]
-    },
-    {
-      "date": "September 29, 2026",
-      "list": []
-    },
-    {
-      "date": "September 30, 2026",
-      "list": [
-        {
-          "showName": "Ted Lasso",
-          "episodeName": "Mae Rides the Bus",
-          "seasonNumber": "4",
-          "episodeNumberInSeason": "9",
-          "airTime": "11:01",
-          "channel": "Apple TV"
-        },
-        {
-          "showName": "Scrubs",
-          "episodeName": "My First Time In a While\" & \"My Mentee",
-          "seasonNumber": "11",
-          "episodeNumberInSeason": "1 S11 E2",
-          "airTime": "7:00",
-          "channel": "ABC"
-        }
-      ]
-    },
-    {
-      "date": "October 1, 2026",
-      "list": [
-        {
-          "showName": "All Creatures Great and Small",
-          "episodeName": "The Owl and the Pussycats",
-          "seasonNumber": "7",
-          "episodeNumberInSeason": "3",
-          "airTime": "4:00",
-          "channel": "5"
-        }
-      ]
-    },
-    {
-      "date": "October 2, 2026",
-      "list": []
-    },
-    {
-      "date": "October 3, 2026",
-      "list": []
-    },
-    {
-      "date": "October 4, 2026",
-      "list": []
-    },
-    {
-      "date": "October 5, 2026",
-      "list": [
-        {
-          "showName": "Line of Fire",
-          "episodeName": "There are Two Wolves",
-          "seasonNumber": "1",
-          "episodeNumberInSeason": "3",
-          "airTime": "9:00",
-          "channel": "NBC"
-        }
-      ]
-    },
-    {
-      "date": "October 6, 2026",
-      "list": []
-    },
-    {
       "date": "October 7, 2026",
       "list": [
         {
           "showName": "Ted Lasso",
-          "episodeName": "TBA [season finale]",
+          "episodeName": "Being Alive [season finale]",
           "seasonNumber": "4",
           "episodeNumberInSeason": "10",
           "airTime": "11:01",
@@ -160,6 +68,85 @@
     },
     {
       "date": "October 11, 2026",
+      "list": []
+    },
+    {
+      "date": "October 12, 2026",
+      "list": [
+        {
+          "showName": "Line of Fire",
+          "episodeName": "Papers Trails",
+          "seasonNumber": "1",
+          "episodeNumberInSeason": "4",
+          "airTime": "9:00",
+          "channel": "NBC"
+        }
+      ]
+    },
+    {
+      "date": "October 13, 2026",
+      "list": []
+    },
+    {
+      "date": "October 14, 2026",
+      "list": [
+        {
+          "showName": "Chicago Med",
+          "episodeName": "Third Rails",
+          "seasonNumber": "12",
+          "episodeNumberInSeason": "2",
+          "airTime": "7:00",
+          "channel": "NBC] [G"
+        },
+        {
+          "showName": "Scrubs",
+          "episodeName": "My Chief",
+          "seasonNumber": "11",
+          "episodeNumberInSeason": "4",
+          "airTime": "7:00",
+          "channel": "ABC"
+        },
+        {
+          "showName": "Abbott Elementary",
+          "episodeName": "Check-ins",
+          "seasonNumber": "6",
+          "episodeNumberInSeason": "2",
+          "airTime": "7:30",
+          "channel": "ABC"
+        }
+      ]
+    },
+    {
+      "date": "October 15, 2026",
+      "list": [
+        {
+          "showName": "All Creatures Great and Small",
+          "episodeName": "Farnon, Herriot and Farnon",
+          "seasonNumber": "7",
+          "episodeNumberInSeason": "5",
+          "airTime": "4:05",
+          "channel": "5"
+        },
+        {
+          "showName": "Georgie & Mandy's First Marriage",
+          "episodeName": "A Serious Journalist and Your Brain On Drugs",
+          "seasonNumber": "3",
+          "episodeNumberInSeason": "2",
+          "airTime": "7:00",
+          "channel": "CBS"
+        }
+      ]
+    },
+    {
+      "date": "October 16, 2026",
+      "list": []
+    },
+    {
+      "date": "October 17, 2026",
+      "list": []
+    },
+    {
+      "date": "October 18, 2026",
       "list": []
     }
   ]
