@@ -1,152 +1,170 @@
 {
   "data": [
     {
-      "date": "October 7, 2026",
-      "list": [
-        {
-          "showName": "Ted Lasso",
-          "episodeName": "Being Alive [season finale]",
-          "seasonNumber": "4",
-          "episodeNumberInSeason": "10",
-          "airTime": "11:01",
-          "channel": "Apple TV"
-        },
-        {
-          "showName": "Chicago Med",
-          "episodeName": "Shots Fired",
-          "seasonNumber": "12",
-          "episodeNumberInSeason": "1",
-          "airTime": "7:00",
-          "channel": "NBC] [G"
-        },
-        {
-          "showName": "Scrubs",
-          "episodeName": "My Ex's Ex",
-          "seasonNumber": "11",
-          "episodeNumberInSeason": "3",
-          "airTime": "7:00",
-          "channel": "ABC"
-        },
-        {
-          "showName": "Abbott Elementary",
-          "episodeName": "Jungle Classroom",
-          "seasonNumber": "6",
-          "episodeNumberInSeason": "1",
-          "airTime": "7:31",
-          "channel": "ABC"
-        }
-      ]
-    },
-    {
-      "date": "October 8, 2026",
-      "list": [
-        {
-          "showName": "All Creatures Great and Small",
-          "episodeName": "Doppelganger",
-          "seasonNumber": "7",
-          "episodeNumberInSeason": "4",
-          "airTime": "4:05",
-          "channel": "5"
-        },
-        {
-          "showName": "Georgie & Mandy's First Marriage",
-          "episodeName": "Feminine Wiles and Some Tire Thing in Lubbock",
-          "seasonNumber": "3",
-          "episodeNumberInSeason": "1",
-          "airTime": "7:00",
-          "channel": "CBS"
-        }
-      ]
-    },
-    {
-      "date": "October 9, 2026",
-      "list": []
-    },
-    {
-      "date": "October 10, 2026",
-      "list": []
-    },
-    {
-      "date": "October 11, 2026",
-      "list": []
-    },
-    {
-      "date": "October 12, 2026",
+      "date": "October 19, 2026",
       "list": [
         {
           "showName": "Line of Fire",
-          "episodeName": "Papers Trails",
+          "episodeName": "Cul-de-sac",
           "seasonNumber": "1",
-          "episodeNumberInSeason": "4",
+          "episodeNumberInSeason": "5",
           "airTime": "9:00",
           "channel": "NBC"
         }
       ]
     },
     {
-      "date": "October 13, 2026",
+      "date": "October 20, 2026",
       "list": []
     },
     {
-      "date": "October 14, 2026",
+      "date": "October 21, 2026",
       "list": [
         {
           "showName": "Chicago Med",
-          "episodeName": "Third Rails",
+          "episodeName": "They Call Me Ms. Goodwin",
           "seasonNumber": "12",
-          "episodeNumberInSeason": "2",
+          "episodeNumberInSeason": "3",
           "airTime": "7:00",
           "channel": "NBC] [G"
         },
         {
           "showName": "Scrubs",
-          "episodeName": "My Chief",
+          "episodeName": "My Best Friend's Birthday",
           "seasonNumber": "11",
-          "episodeNumberInSeason": "4",
+          "episodeNumberInSeason": "5",
           "airTime": "7:00",
           "channel": "ABC"
         },
         {
           "showName": "Abbott Elementary",
-          "episodeName": "Check-ins",
+          "episodeName": "Tryouts",
           "seasonNumber": "6",
-          "episodeNumberInSeason": "2",
+          "episodeNumberInSeason": "3",
           "airTime": "7:30",
           "channel": "ABC"
         }
       ]
     },
     {
-      "date": "October 15, 2026",
+      "date": "October 22, 2026",
       "list": [
         {
           "showName": "All Creatures Great and Small",
-          "episodeName": "Farnon, Herriot and Farnon",
+          "episodeName": "Give Us This Day",
           "seasonNumber": "7",
-          "episodeNumberInSeason": "5",
+          "episodeNumberInSeason": "6",
           "airTime": "4:05",
           "channel": "5"
         },
         {
           "showName": "Georgie & Mandy's First Marriage",
-          "episodeName": "A Serious Journalist and Your Brain On Drugs",
+          "episodeName": "A Germ Factory and a Good Mother",
           "seasonNumber": "3",
-          "episodeNumberInSeason": "2",
+          "episodeNumberInSeason": "3",
           "airTime": "7:00",
           "channel": "CBS"
         }
       ]
     },
     {
-      "date": "October 16, 2026",
+      "date": "October 23, 2026",
       "list": []
     },
     {
-      "date": "October 17, 2026",
+      "date": "October 24, 2026",
       "list": []
     },
     {
-      "date": "October 18, 2026",
+      "date": "October 25, 2026",
+      "list": []
+    },
+    {
+      "date": "October 26, 2026",
+      "list": [
+        {
+          "showName": "Line of Fire",
+          "episodeName": "Cabin Pressure",
+          "seasonNumber": "1",
+          "episodeNumberInSeason": "6",
+          "airTime": "9:00",
+          "channel": "NBC"
+        }
+      ]
+    },
+    {
+      "date": "October 27, 2026",
+      "list": []
+    },
+    {
+      "date": "October 28, 2026",
+      "list": [
+        {
+          "showName": "Chicago Med",
+          "episodeName": "Tomorrow, and Tomorrow, and Tomorrow",
+          "seasonNumber": "12",
+          "episodeNumberInSeason": "4",
+          "airTime": "7:00",
+          "channel": "NBC] [G"
+        },
+        {
+          "showName": "Scrubs",
+          "episodeName": "My Halloween",
+          "seasonNumber": "11",
+          "episodeNumberInSeason": "6",
+          "airTime": "7:00",
+          "channel": "ABC"
+        },
+        {
+          "showName": "Abbott Elementary",
+          "episodeName": "Halloween Party",
+          "seasonNumber": "6",
+          "episodeNumberInSeason": "4",
+          "airTime": "7:30",
+          "channel": "ABC"
+        }
+      ]
+    },
+    {
+      "date": "October 29, 2026",
+      "list": [
+        {
+          "showName": "Georgie & Mandy's First Marriage",
+          "episodeName": "The Devil's Interval and a British Stripper",
+          "seasonNumber": "3",
+          "episodeNumberInSeason": "4",
+          "airTime": "7:00",
+          "channel": "CBS"
+        }
+      ]
+    },
+    {
+      "date": "October 30, 2026",
+      "list": []
+    },
+    {
+      "date": "October 31, 2026",
+      "list": []
+    },
+    {
+      "date": "November 1, 2026",
+      "list": []
+    },
+    {
+      "date": "November 2, 2026",
+      "list": [
+        {
+          "showName": "St. Denis Medical",
+          "episodeName": "He Ain't Noah Wyle",
+          "seasonNumber": "3",
+          "episodeNumberInSeason": "1",
+          "airTime": "7:00",
+          "channel": "NBC"
+        }
+      ]
+    },
+    {
+      "date": "November 3, 2026",
       "list": []
     }
   ]
