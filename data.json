@@ -1,156 +1,6 @@
 {
   "data": [
     {
-      "date": "October 19, 2026",
-      "list": [
-        {
-          "showName": "Line of Fire",
-          "episodeName": "Cul-de-sac",
-          "seasonNumber": "1",
-          "episodeNumberInSeason": "5",
-          "airTime": "9:00",
-          "channel": "NBC"
-        }
-      ]
-    },
-    {
-      "date": "October 20, 2026",
-      "list": []
-    },
-    {
-      "date": "October 21, 2026",
-      "list": [
-        {
-          "showName": "Chicago Med",
-          "episodeName": "They Call Me Ms. Goodwin",
-          "seasonNumber": "12",
-          "episodeNumberInSeason": "3",
-          "airTime": "7:00",
-          "channel": "NBC] [G"
-        },
-        {
-          "showName": "Scrubs",
-          "episodeName": "My Best Friend's Birthday",
-          "seasonNumber": "11",
-          "episodeNumberInSeason": "5",
-          "airTime": "7:00",
-          "channel": "ABC"
-        },
-        {
-          "showName": "Abbott Elementary",
-          "episodeName": "Tryouts",
-          "seasonNumber": "6",
-          "episodeNumberInSeason": "3",
-          "airTime": "7:30",
-          "channel": "ABC"
-        }
-      ]
-    },
-    {
-      "date": "October 22, 2026",
-      "list": [
-        {
-          "showName": "All Creatures Great and Small",
-          "episodeName": "Give Us This Day",
-          "seasonNumber": "7",
-          "episodeNumberInSeason": "6",
-          "airTime": "4:05",
-          "channel": "5"
-        },
-        {
-          "showName": "Georgie & Mandy's First Marriage",
-          "episodeName": "A Germ Factory and a Good Mother",
-          "seasonNumber": "3",
-          "episodeNumberInSeason": "3",
-          "airTime": "7:00",
-          "channel": "CBS"
-        }
-      ]
-    },
-    {
-      "date": "October 23, 2026",
-      "list": []
-    },
-    {
-      "date": "October 24, 2026",
-      "list": []
-    },
-    {
-      "date": "October 25, 2026",
-      "list": []
-    },
-    {
-      "date": "October 26, 2026",
-      "list": [
-        {
-          "showName": "Line of Fire",
-          "episodeName": "Cabin Pressure",
-          "seasonNumber": "1",
-          "episodeNumberInSeason": "6",
-          "airTime": "9:00",
-          "channel": "NBC"
-        }
-      ]
-    },
-    {
-      "date": "October 27, 2026",
-      "list": []
-    },
-    {
-      "date": "October 28, 2026",
-      "list": [
-        {
-          "showName": "Chicago Med",
-          "episodeName": "Tomorrow, and Tomorrow, and Tomorrow",
-          "seasonNumber": "12",
-          "episodeNumberInSeason": "4",
-          "airTime": "7:00",
-          "channel": "NBC] [G"
-        },
-        {
-          "showName": "Scrubs",
-          "episodeName": "My Halloween",
-          "seasonNumber": "11",
-          "episodeNumberInSeason": "6",
-          "airTime": "7:00",
-          "channel": "ABC"
-        },
-        {
-          "showName": "Abbott Elementary",
-          "episodeName": "Halloween Party",
-          "seasonNumber": "6",
-          "episodeNumberInSeason": "4",
-          "airTime": "7:30",
-          "channel": "ABC"
-        }
-      ]
-    },
-    {
-      "date": "October 29, 2026",
-      "list": [
-        {
-          "showName": "Georgie & Mandy's First Marriage",
-          "episodeName": "The Devil's Interval and a British Stripper",
-          "seasonNumber": "3",
-          "episodeNumberInSeason": "4",
-          "airTime": "7:00",
-          "channel": "CBS"
-        }
-      ]
-    },
-    {
-      "date": "October 30, 2026",
-      "list": []
-    },
-    {
-      "date": "October 31, 2026",
-      "list": []
-    },
-    {
-      "date": "November 1, 2026",
-      "list": []
-    },
-    {
       "date": "November 2, 2026",
       "list": [
         {
@@ -165,6 +15,164 @@
     },
     {
       "date": "November 3, 2026",
+      "list": []
+    },
+    {
+      "date": "November 4, 2026",
+      "list": [
+        {
+          "showName": "Chicago Med",
+          "episodeName": "Baptism By Fire",
+          "seasonNumber": "12",
+          "episodeNumberInSeason": "5",
+          "airTime": "7:00",
+          "channel": "NBC] [G"
+        },
+        {
+          "showName": "Scrubs",
+          "episodeName": "My Story",
+          "seasonNumber": "11",
+          "episodeNumberInSeason": "7",
+          "airTime": "7:00",
+          "channel": "ABC"
+        },
+        {
+          "showName": "Abbott Elementary",
+          "episodeName": "Courtney",
+          "seasonNumber": "6",
+          "episodeNumberInSeason": "5",
+          "airTime": "7:30",
+          "channel": "ABC"
+        }
+      ]
+    },
+    {
+      "date": "November 5, 2026",
+      "list": [
+        {
+          "showName": "Georgie & Mandy's First Marriage",
+          "episodeName": "A Snotty Attitude and a Party on a School Night",
+          "seasonNumber": "3",
+          "episodeNumberInSeason": "5",
+          "airTime": "7:00",
+          "channel": "CBS"
+        }
+      ]
+    },
+    {
+      "date": "November 6, 2026",
+      "list": []
+    },
+    {
+      "date": "November 7, 2026",
+      "list": []
+    },
+    {
+      "date": "November 8, 2026",
+      "list": []
+    },
+    {
+      "date": "November 9, 2026",
+      "list": [
+        {
+          "showName": "St. Denis Medical",
+          "episodeName": "Is That a Dinosaur?",
+          "seasonNumber": "3",
+          "episodeNumberInSeason": "2",
+          "airTime": "7:00",
+          "channel": "NBC"
+        },
+        {
+          "showName": "Line of Fire",
+          "episodeName": "Guest List",
+          "seasonNumber": "1",
+          "episodeNumberInSeason": "7",
+          "airTime": "9:00",
+          "channel": "NBC"
+        }
+      ]
+    },
+    {
+      "date": "November 10, 2026",
+      "list": []
+    },
+    {
+      "date": "November 11, 2026",
+      "list": [
+        {
+          "showName": "Chicago Med",
+          "episodeName": "Lessons in Chemistry",
+          "seasonNumber": "12",
+          "episodeNumberInSeason": "6",
+          "airTime": "7:00",
+          "channel": "NBC] [G"
+        },
+        {
+          "showName": "Scrubs",
+          "episodeName": "My Emergency",
+          "seasonNumber": "11",
+          "episodeNumberInSeason": "8",
+          "airTime": "7:00",
+          "channel": "ABC"
+        },
+        {
+          "showName": "Abbott Elementary",
+          "episodeName": "Competition",
+          "seasonNumber": "6",
+          "episodeNumberInSeason": "6",
+          "airTime": "7:30",
+          "channel": "ABC"
+        }
+      ]
+    },
+    {
+      "date": "November 12, 2026",
+      "list": [
+        {
+          "showName": "Georgie & Mandy's First Marriage",
+          "episodeName": "A Ten-year Reunion and an Outta-the-box Thinker",
+          "seasonNumber": "3",
+          "episodeNumberInSeason": "6",
+          "airTime": "7:00",
+          "channel": "CBS"
+        }
+      ]
+    },
+    {
+      "date": "November 13, 2026",
+      "list": []
+    },
+    {
+      "date": "November 14, 2026",
+      "list": []
+    },
+    {
+      "date": "November 15, 2026",
+      "list": []
+    },
+    {
+      "date": "November 16, 2026",
+      "list": [
+        {
+          "showName": "St. Denis Medical",
+          "episodeName": "Yo! St. D",
+          "seasonNumber": "3",
+          "episodeNumberInSeason": "3",
+          "airTime": "7:00",
+          "channel": "NBC"
+        },
+        {
+          "showName": "Line of Fire",
+          "episodeName": "Episode 8",
+          "seasonNumber": "1",
+          "episodeNumberInSeason": "8",
+          "airTime": "9:00",
+          "channel": "NBC"
+        }
+      ]
+    },
+    {
+      "date": "November 10, 2026",
       "list": []
     }
   ]
