@@ -15,7 +15,16 @@
     },
     {
       "date": "November 3, 2026",
-      "list": []
+      "list": [
+        {
+          "showName": "Best Medicine",
+          "episodeName": "Can't Stop the Healing",
+          "seasonNumber": "2",
+          "episodeNumberInSeason": "6",
+          "airTime": "7:00",
+          "channel": "Fox] [G"
+        }
+      ]
     },
     {
       "date": "November 4, 2026",
@@ -94,7 +103,16 @@
     },
     {
       "date": "November 10, 2026",
-      "list": []
+      "list": [
+        {
+          "showName": "Best Medicine",
+          "episodeName": "Love is a Battlefield",
+          "seasonNumber": "2",
+          "episodeNumberInSeason": "7",
+          "airTime": "7:00",
+          "channel": "Fox] [G"
+        }
+      ]
     },
     {
       "date": "November 11, 2026",
@@ -172,8 +190,17 @@
       ]
     },
     {
-      "date": "November 10, 2026",
-      "list": []
+      "date": "November 17, 2026",
+      "list": [
+        {
+          "showName": "Best Medicine",
+          "episodeName": "Back to the Suture",
+          "seasonNumber": "2",
+          "episodeNumberInSeason": "8",
+          "airTime": "7:00",
+          "channel": "Fox] [G"
+        }
+      ]
     }
   ]
 }
