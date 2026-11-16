@@ -1,174 +1,6 @@
 {
   "data": [
     {
-      "date": "November 2, 2026",
-      "list": [
-        {
-          "showName": "St. Denis Medical",
-          "episodeName": "He Ain't Noah Wyle",
-          "seasonNumber": "3",
-          "episodeNumberInSeason": "1",
-          "airTime": "7:00",
-          "channel": "NBC"
-        }
-      ]
-    },
-    {
-      "date": "November 3, 2026",
-      "list": [
-        {
-          "showName": "Best Medicine",
-          "episodeName": "Can't Stop the Healing",
-          "seasonNumber": "2",
-          "episodeNumberInSeason": "6",
-          "airTime": "7:00",
-          "channel": "Fox] [G"
-        }
-      ]
-    },
-    {
-      "date": "November 4, 2026",
-      "list": [
-        {
-          "showName": "Chicago Med",
-          "episodeName": "Baptism By Fire",
-          "seasonNumber": "12",
-          "episodeNumberInSeason": "5",
-          "airTime": "7:00",
-          "channel": "NBC] [G"
-        },
-        {
-          "showName": "Scrubs",
-          "episodeName": "My Story",
-          "seasonNumber": "11",
-          "episodeNumberInSeason": "7",
-          "airTime": "7:00",
-          "channel": "ABC"
-        },
-        {
-          "showName": "Abbott Elementary",
-          "episodeName": "Courtney",
-          "seasonNumber": "6",
-          "episodeNumberInSeason": "5",
-          "airTime": "7:30",
-          "channel": "ABC"
-        }
-      ]
-    },
-    {
-      "date": "November 5, 2026",
-      "list": [
-        {
-          "showName": "Georgie & Mandy's First Marriage",
-          "episodeName": "A Snotty Attitude and a Party on a School Night",
-          "seasonNumber": "3",
-          "episodeNumberInSeason": "5",
-          "airTime": "7:00",
-          "channel": "CBS"
-        }
-      ]
-    },
-    {
-      "date": "November 6, 2026",
-      "list": []
-    },
-    {
-      "date": "November 7, 2026",
-      "list": []
-    },
-    {
-      "date": "November 8, 2026",
-      "list": []
-    },
-    {
-      "date": "November 9, 2026",
-      "list": [
-        {
-          "showName": "St. Denis Medical",
-          "episodeName": "Is That a Dinosaur?",
-          "seasonNumber": "3",
-          "episodeNumberInSeason": "2",
-          "airTime": "7:00",
-          "channel": "NBC"
-        },
-        {
-          "showName": "Line of Fire",
-          "episodeName": "Guest List",
-          "seasonNumber": "1",
-          "episodeNumberInSeason": "7",
-          "airTime": "9:00",
-          "channel": "NBC"
-        }
-      ]
-    },
-    {
-      "date": "November 10, 2026",
-      "list": [
-        {
-          "showName": "Best Medicine",
-          "episodeName": "Love is a Battlefield",
-          "seasonNumber": "2",
-          "episodeNumberInSeason": "7",
-          "airTime": "7:00",
-          "channel": "Fox] [G"
-        }
-      ]
-    },
-    {
-      "date": "November 11, 2026",
-      "list": [
-        {
-          "showName": "Chicago Med",
-          "episodeName": "Lessons in Chemistry",
-          "seasonNumber": "12",
-          "episodeNumberInSeason": "6",
-          "airTime": "7:00",
-          "channel": "NBC] [G"
-        },
-        {
-          "showName": "Scrubs",
-          "episodeName": "My Emergency",
-          "seasonNumber": "11",
-          "episodeNumberInSeason": "8",
-          "airTime": "7:00",
-          "channel": "ABC"
-        },
-        {
-          "showName": "Abbott Elementary",
-          "episodeName": "Competition",
-          "seasonNumber": "6",
-          "episodeNumberInSeason": "6",
-          "airTime": "7:30",
-          "channel": "ABC"
-        }
-      ]
-    },
-    {
-      "date": "November 12, 2026",
-      "list": [
-        {
-          "showName": "Georgie & Mandy's First Marriage",
-          "episodeName": "A Ten-year Reunion and an Outta-the-box Thinker",
-          "seasonNumber": "3",
-          "episodeNumberInSeason": "6",
-          "airTime": "7:00",
-          "channel": "CBS"
-        }
-      ]
-    },
-    {
-      "date": "November 13, 2026",
-      "list": []
-    },
-    {
-      "date": "November 14, 2026",
-      "list": []
-    },
-    {
-      "date": "November 15, 2026",
-      "list": []
-    },
-    {
       "date": "November 16, 2026",
       "list": [
         {
@@ -181,7 +13,7 @@
         },
         {
           "showName": "Line of Fire",
-          "episodeName": "Episode 8",
+          "episodeName": "Besieged",
           "seasonNumber": "1",
           "episodeNumberInSeason": "8",
           "airTime": "9:00",
@@ -199,6 +31,102 @@
           "episodeNumberInSeason": "8",
           "airTime": "7:00",
           "channel": "Fox] [G"
+        }
+      ]
+    },
+    {
+      "date": "November 18, 2026",
+      "list": [
+        {
+          "showName": "Chicago Med",
+          "episodeName": "Borders and Battle Lines",
+          "seasonNumber": "12",
+          "episodeNumberInSeason": "7",
+          "airTime": "7:00",
+          "channel": "NBC] [G"
+        }
+      ]
+    },
+    {
+      "date": "November 19, 2026",
+      "list": [
+        {
+          "showName": "Georgie & Mandy's First Marriage",
+          "episodeName": "A Party Sub and a Six-legged Fan",
+          "seasonNumber": "3",
+          "episodeNumberInSeason": "7",
+          "airTime": "7:00",
+          "channel": "CBS"
+        }
+      ]
+    },
+    {
+      "date": "November 20, 2026",
+      "list": []
+    },
+    {
+      "date": "November 21, 2026",
+      "list": []
+    },
+    {
+      "date": "November 22, 2026",
+      "list": []
+    },
+    {
+      "date": "November 23, 2026",
+      "list": [
+        {
+          "showName": "St. Denis Medical",
+          "episodeName": "The Intoxicating Aroma of True Love",
+          "seasonNumber": "3",
+          "episodeNumberInSeason": "4",
+          "airTime": "7:00",
+          "channel": "NBC"
+        },
+        {
+          "showName": "Line of Fire",
+          "episodeName": "Blind Eye [Fall finale]",
+          "seasonNumber": "1",
+          "episodeNumberInSeason": "9",
+          "airTime": "9:00",
+          "channel": "NBC"
+        }
+      ]
+    },
+    {
+      "date": "November 24, 2026",
+      "list": []
+    },
+    {
+      "date": "November 25, 2026",
+      "list": []
+    },
+    {
+      "date": "November 26, 2026",
+      "list": []
+    },
+    {
+      "date": "November 27, 2026",
+      "list": []
+    },
+    {
+      "date": "November 28, 2026",
+      "list": []
+    },
+    {
+      "date": "November 29, 2026",
+      "list": []
+    },
+    {
+      "date": "November 30, 2026",
+      "list": [
+        {
+          "showName": "St. Denis Medical",
+          "episodeName": "Hand of Gold",
+          "seasonNumber": "3",
+          "episodeNumberInSeason": "5",
+          "airTime": "7:00",
+          "channel": "NBC"
         }
       ]
     }
